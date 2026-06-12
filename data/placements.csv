@@ -1,0 +1,5001 @@
+student_id,placed,package_lpa,role_type,company_type
+1,1,5.5,Core Engineering,Product
+2,0,0.0,Not Placed,Not Placed
+3,1,5.32,Business Analyst,Service
+4,0,0.0,Not Placed,Not Placed
+5,1,6.37,Core Engineering,Startup
+6,1,5.75,Business Analyst,Service
+7,1,6.48,Core Engineering,Service
+8,1,4.67,Core Engineering,Startup
+9,1,5.89,Product Analyst,Startup
+10,1,6.26,Business Analyst,Startup
+11,0,0.0,Not Placed,Not Placed
+12,0,0.0,Not Placed,Not Placed
+13,0,0.0,Not Placed,Not Placed
+14,0,0.0,Not Placed,Not Placed
+15,1,7.23,Business Analyst,Service
+16,1,5.71,Consulting,Service
+17,1,7.3,Business Analyst,Startup
+18,1,6.89,Data Analyst,Service
+19,1,5.78,Product Analyst,Core
+20,0,0.0,Not Placed,Not Placed
+21,1,6.31,Consulting,Startup
+22,0,0.0,Not Placed,Not Placed
+23,0,0.0,Not Placed,Not Placed
+24,0,0.0,Not Placed,Not Placed
+25,0,0.0,Not Placed,Not Placed
+26,0,0.0,Not Placed,Not Placed
+27,1,3.01,Core Engineering,Service
+28,0,0.0,Not Placed,Not Placed
+29,0,0.0,Not Placed,Not Placed
+30,1,4.56,Core Engineering,Consulting
+31,1,4.6,Software Engineer,Startup
+32,0,0.0,Not Placed,Not Placed
+33,0,0.0,Not Placed,Not Placed
+34,0,0.0,Not Placed,Not Placed
+35,1,4.27,Software Engineer,Product
+36,0,0.0,Not Placed,Not Placed
+37,1,6.81,Data Analyst,Consulting
+38,1,5.52,Data Analyst,Product
+39,0,0.0,Not Placed,Not Placed
+40,0,0.0,Not Placed,Not Placed
+41,0,0.0,Not Placed,Not Placed
+42,1,6.79,Software Engineer,Core
+43,1,5.26,Software Engineer,Startup
+44,0,0.0,Not Placed,Not Placed
+45,0,0.0,Not Placed,Not Placed
+46,1,7.04,Software Engineer,Service
+47,1,6.99,Software Engineer,Service
+48,1,4.72,Product Analyst,Consulting
+49,0,0.0,Not Placed,Not Placed
+50,1,8.52,Product Analyst,Product
+51,0,0.0,Not Placed,Not Placed
+52,1,4.44,Software Engineer,Startup
+53,0,0.0,Not Placed,Not Placed
+54,1,7.4,Data Analyst,Product
+55,0,0.0,Not Placed,Not Placed
+56,1,3.33,Business Analyst,Consulting
+57,0,0.0,Not Placed,Not Placed
+58,0,0.0,Not Placed,Not Placed
+59,0,0.0,Not Placed,Not Placed
+60,0,0.0,Not Placed,Not Placed
+61,1,5.68,Consulting,Consulting
+62,1,8.05,Software Engineer,Service
+63,0,0.0,Not Placed,Not Placed
+64,1,5.03,Core Engineering,Product
+65,1,4.99,Product Analyst,Consulting
+66,0,0.0,Not Placed,Not Placed
+67,1,5.66,Core Engineering,Startup
+68,0,0.0,Not Placed,Not Placed
+69,1,6.02,Data Analyst,Startup
+70,1,5.68,Data Analyst,Product
+71,0,0.0,Not Placed,Not Placed
+72,0,0.0,Not Placed,Not Placed
+73,1,6.23,Consulting,Product
+74,1,4.46,Software Engineer,Core
+75,1,3.1,Core Engineering,Core
+76,1,6.96,Core Engineering,Consulting
+77,1,6.39,Software Engineer,Service
+78,1,5.54,Core Engineering,Service
+79,0,0.0,Not Placed,Not Placed
+80,1,6.43,Business Analyst,Service
+81,1,7.09,Core Engineering,Startup
+82,0,0.0,Not Placed,Not Placed
+83,0,0.0,Not Placed,Not Placed
+84,1,6.07,Consulting,Service
+85,1,6.42,Consulting,Core
+86,0,0.0,Not Placed,Not Placed
+87,0,0.0,Not Placed,Not Placed
+88,0,0.0,Not Placed,Not Placed
+89,0,0.0,Not Placed,Not Placed
+90,0,0.0,Not Placed,Not Placed
+91,0,0.0,Not Placed,Not Placed
+92,1,6.48,Core Engineering,Service
+93,0,0.0,Not Placed,Not Placed
+94,1,5.07,Software Engineer,Core
+95,0,0.0,Not Placed,Not Placed
+96,1,4.06,Data Analyst,Service
+97,1,3.46,Data Analyst,Product
+98,0,0.0,Not Placed,Not Placed
+99,1,6.55,Software Engineer,Service
+100,0,0.0,Not Placed,Not Placed
+101,0,0.0,Not Placed,Not Placed
+102,1,5.77,Product Analyst,Consulting
+103,0,0.0,Not Placed,Not Placed
+104,1,6.45,Consulting,Service
+105,0,0.0,Not Placed,Not Placed
+106,1,7.13,Consulting,Core
+107,0,0.0,Not Placed,Not Placed
+108,0,0.0,Not Placed,Not Placed
+109,1,5.22,Core Engineering,Service
+110,0,0.0,Not Placed,Not Placed
+111,1,4.18,Business Analyst,Startup
+112,1,5.98,Software Engineer,Core
+113,0,0.0,Not Placed,Not Placed
+114,1,4.37,Product Analyst,Service
+115,0,0.0,Not Placed,Not Placed
+116,0,0.0,Not Placed,Not Placed
+117,1,7.69,Consulting,Service
+118,1,5.36,Consulting,Service
+119,0,0.0,Not Placed,Not Placed
+120,1,7.84,Data Analyst,Consulting
+121,0,0.0,Not Placed,Not Placed
+122,0,0.0,Not Placed,Not Placed
+123,1,5.15,Product Analyst,Consulting
+124,1,5.68,Business Analyst,Service
+125,1,6.32,Data Analyst,Consulting
+126,0,0.0,Not Placed,Not Placed
+127,0,0.0,Not Placed,Not Placed
+128,0,0.0,Not Placed,Not Placed
+129,1,6.87,Core Engineering,Core
+130,1,7.2,Business Analyst,Product
+131,1,6.25,Software Engineer,Core
+132,1,7.52,Data Analyst,Product
+133,0,0.0,Not Placed,Not Placed
+134,0,0.0,Not Placed,Not Placed
+135,1,6.07,Business Analyst,Service
+136,1,6.06,Consulting,Startup
+137,0,0.0,Not Placed,Not Placed
+138,0,0.0,Not Placed,Not Placed
+139,0,0.0,Not Placed,Not Placed
+140,0,0.0,Not Placed,Not Placed
+141,1,4.16,Software Engineer,Service
+142,1,5.34,Business Analyst,Service
+143,0,0.0,Not Placed,Not Placed
+144,1,8.61,Data Analyst,Service
+145,0,0.0,Not Placed,Not Placed
+146,0,0.0,Not Placed,Not Placed
+147,0,0.0,Not Placed,Not Placed
+148,1,9.3,Core Engineering,Service
+149,0,0.0,Not Placed,Not Placed
+150,0,0.0,Not Placed,Not Placed
+151,1,5.21,Consulting,Consulting
+152,1,5.54,Product Analyst,Consulting
+153,1,7.24,Data Analyst,Core
+154,1,7.1,Software Engineer,Service
+155,1,7.36,Data Analyst,Startup
+156,0,0.0,Not Placed,Not Placed
+157,0,0.0,Not Placed,Not Placed
+158,1,5.53,Software Engineer,Service
+159,1,7.51,Business Analyst,Consulting
+160,1,5.83,Data Analyst,Consulting
+161,1,3.6,Software Engineer,Consulting
+162,1,4.87,Software Engineer,Core
+163,0,0.0,Not Placed,Not Placed
+164,0,0.0,Not Placed,Not Placed
+165,1,7.27,Core Engineering,Service
+166,0,0.0,Not Placed,Not Placed
+167,0,0.0,Not Placed,Not Placed
+168,0,0.0,Not Placed,Not Placed
+169,0,0.0,Not Placed,Not Placed
+170,0,0.0,Not Placed,Not Placed
+171,1,5.79,Software Engineer,Product
+172,0,0.0,Not Placed,Not Placed
+173,0,0.0,Not Placed,Not Placed
+174,1,7.91,Consulting,Product
+175,1,6.44,Core Engineering,Product
+176,1,3.86,Product Analyst,Consulting
+177,0,0.0,Not Placed,Not Placed
+178,0,0.0,Not Placed,Not Placed
+179,1,4.03,Business Analyst,Product
+180,1,5.35,Software Engineer,Service
+181,1,7.19,Product Analyst,Startup
+182,0,0.0,Not Placed,Not Placed
+183,1,6.96,Core Engineering,Startup
+184,1,4.75,Software Engineer,Service
+185,0,0.0,Not Placed,Not Placed
+186,1,3.0,Data Analyst,Core
+187,1,5.65,Business Analyst,Product
+188,1,4.86,Business Analyst,Consulting
+189,0,0.0,Not Placed,Not Placed
+190,0,0.0,Not Placed,Not Placed
+191,0,0.0,Not Placed,Not Placed
+192,0,0.0,Not Placed,Not Placed
+193,0,0.0,Not Placed,Not Placed
+194,0,0.0,Not Placed,Not Placed
+195,0,0.0,Not Placed,Not Placed
+196,0,0.0,Not Placed,Not Placed
+197,1,5.43,Software Engineer,Product
+198,0,0.0,Not Placed,Not Placed
+199,1,4.92,Core Engineering,Service
+200,1,7.64,Software Engineer,Startup
+201,1,9.83,Consulting,Startup
+202,1,5.76,Core Engineering,Service
+203,0,0.0,Not Placed,Not Placed
+204,0,0.0,Not Placed,Not Placed
+205,1,7.82,Product Analyst,Product
+206,1,5.62,Product Analyst,Consulting
+207,0,0.0,Not Placed,Not Placed
+208,0,0.0,Not Placed,Not Placed
+209,1,5.41,Software Engineer,Product
+210,0,0.0,Not Placed,Not Placed
+211,1,5.75,Core Engineering,Service
+212,1,6.18,Core Engineering,Service
+213,1,6.27,Business Analyst,Service
+214,0,0.0,Not Placed,Not Placed
+215,0,0.0,Not Placed,Not Placed
+216,0,0.0,Not Placed,Not Placed
+217,0,0.0,Not Placed,Not Placed
+218,0,0.0,Not Placed,Not Placed
+219,0,0.0,Not Placed,Not Placed
+220,0,0.0,Not Placed,Not Placed
+221,0,0.0,Not Placed,Not Placed
+222,0,0.0,Not Placed,Not Placed
+223,0,0.0,Not Placed,Not Placed
+224,1,3.66,Business Analyst,Product
+225,0,0.0,Not Placed,Not Placed
+226,0,0.0,Not Placed,Not Placed
+227,1,6.32,Software Engineer,Product
+228,1,7.63,Product Analyst,Service
+229,0,0.0,Not Placed,Not Placed
+230,0,0.0,Not Placed,Not Placed
+231,1,6.43,Product Analyst,Product
+232,0,0.0,Not Placed,Not Placed
+233,1,6.92,Consulting,Core
+234,0,0.0,Not Placed,Not Placed
+235,0,0.0,Not Placed,Not Placed
+236,1,5.29,Product Analyst,Startup
+237,0,0.0,Not Placed,Not Placed
+238,1,3.75,Consulting,Consulting
+239,0,0.0,Not Placed,Not Placed
+240,1,7.74,Data Analyst,Service
+241,1,5.51,Business Analyst,Product
+242,0,0.0,Not Placed,Not Placed
+243,0,0.0,Not Placed,Not Placed
+244,0,0.0,Not Placed,Not Placed
+245,0,0.0,Not Placed,Not Placed
+246,0,0.0,Not Placed,Not Placed
+247,1,6.59,Software Engineer,Product
+248,1,7.27,Data Analyst,Consulting
+249,1,4.62,Product Analyst,Product
+250,0,0.0,Not Placed,Not Placed
+251,1,4.14,Business Analyst,Startup
+252,0,0.0,Not Placed,Not Placed
+253,0,0.0,Not Placed,Not Placed
+254,1,6.31,Core Engineering,Core
+255,0,0.0,Not Placed,Not Placed
+256,1,8.61,Business Analyst,Service
+257,1,6.05,Business Analyst,Service
+258,0,0.0,Not Placed,Not Placed
+259,0,0.0,Not Placed,Not Placed
+260,1,6.16,Core Engineering,Consulting
+261,1,3.89,Software Engineer,Consulting
+262,0,0.0,Not Placed,Not Placed
+263,0,0.0,Not Placed,Not Placed
+264,0,0.0,Not Placed,Not Placed
+265,0,0.0,Not Placed,Not Placed
+266,1,5.12,Data Analyst,Product
+267,1,6.3,Product Analyst,Service
+268,1,8.74,Core Engineering,Startup
+269,0,0.0,Not Placed,Not Placed
+270,0,0.0,Not Placed,Not Placed
+271,1,7.67,Consulting,Startup
+272,1,5.99,Product Analyst,Service
+273,1,5.5,Product Analyst,Service
+274,0,0.0,Not Placed,Not Placed
+275,1,4.18,Business Analyst,Consulting
+276,0,0.0,Not Placed,Not Placed
+277,0,0.0,Not Placed,Not Placed
+278,0,0.0,Not Placed,Not Placed
+279,1,6.96,Core Engineering,Product
+280,0,0.0,Not Placed,Not Placed
+281,1,3.79,Core Engineering,Product
+282,0,0.0,Not Placed,Not Placed
+283,1,5.23,Data Analyst,Consulting
+284,1,6.76,Core Engineering,Service
+285,0,0.0,Not Placed,Not Placed
+286,0,0.0,Not Placed,Not Placed
+287,0,0.0,Not Placed,Not Placed
+288,1,6.76,Data Analyst,Core
+289,0,0.0,Not Placed,Not Placed
+290,0,0.0,Not Placed,Not Placed
+291,1,7.11,Core Engineering,Service
+292,1,8.3,Software Engineer,Product
+293,0,0.0,Not Placed,Not Placed
+294,0,0.0,Not Placed,Not Placed
+295,0,0.0,Not Placed,Not Placed
+296,0,0.0,Not Placed,Not Placed
+297,1,3.25,Core Engineering,Service
+298,0,0.0,Not Placed,Not Placed
+299,0,0.0,Not Placed,Not Placed
+300,1,6.2,Software Engineer,Service
+301,0,0.0,Not Placed,Not Placed
+302,0,0.0,Not Placed,Not Placed
+303,1,5.04,Software Engineer,Service
+304,1,4.9,Core Engineering,Service
+305,1,3.99,Business Analyst,Service
+306,1,8.87,Data Analyst,Service
+307,0,0.0,Not Placed,Not Placed
+308,1,5.19,Software Engineer,Core
+309,0,0.0,Not Placed,Not Placed
+310,0,0.0,Not Placed,Not Placed
+311,1,3.68,Software Engineer,Service
+312,0,0.0,Not Placed,Not Placed
+313,1,3.0,Data Analyst,Consulting
+314,0,0.0,Not Placed,Not Placed
+315,0,0.0,Not Placed,Not Placed
+316,0,0.0,Not Placed,Not Placed
+317,0,0.0,Not Placed,Not Placed
+318,0,0.0,Not Placed,Not Placed
+319,0,0.0,Not Placed,Not Placed
+320,0,0.0,Not Placed,Not Placed
+321,1,3.88,Business Analyst,Service
+322,0,0.0,Not Placed,Not Placed
+323,1,6.42,Business Analyst,Core
+324,1,11.23,Consulting,Consulting
+325,0,0.0,Not Placed,Not Placed
+326,1,5.54,Business Analyst,Startup
+327,0,0.0,Not Placed,Not Placed
+328,1,6.5,Consulting,Consulting
+329,0,0.0,Not Placed,Not Placed
+330,0,0.0,Not Placed,Not Placed
+331,1,4.47,Business Analyst,Product
+332,0,0.0,Not Placed,Not Placed
+333,1,6.05,Consulting,Core
+334,0,0.0,Not Placed,Not Placed
+335,0,0.0,Not Placed,Not Placed
+336,0,0.0,Not Placed,Not Placed
+337,1,11.34,Data Analyst,Service
+338,1,7.55,Business Analyst,Service
+339,0,0.0,Not Placed,Not Placed
+340,0,0.0,Not Placed,Not Placed
+341,1,7.58,Product Analyst,Core
+342,1,6.81,Product Analyst,Service
+343,0,0.0,Not Placed,Not Placed
+344,1,4.85,Product Analyst,Service
+345,0,0.0,Not Placed,Not Placed
+346,0,0.0,Not Placed,Not Placed
+347,1,3.51,Business Analyst,Startup
+348,0,0.0,Not Placed,Not Placed
+349,0,0.0,Not Placed,Not Placed
+350,0,0.0,Not Placed,Not Placed
+351,0,0.0,Not Placed,Not Placed
+352,0,0.0,Not Placed,Not Placed
+353,0,0.0,Not Placed,Not Placed
+354,0,0.0,Not Placed,Not Placed
+355,0,0.0,Not Placed,Not Placed
+356,0,0.0,Not Placed,Not Placed
+357,1,4.15,Data Analyst,Core
+358,1,5.69,Software Engineer,Consulting
+359,0,0.0,Not Placed,Not Placed
+360,1,6.38,Data Analyst,Service
+361,0,0.0,Not Placed,Not Placed
+362,1,5.45,Consulting,Core
+363,0,0.0,Not Placed,Not Placed
+364,1,5.17,Software Engineer,Service
+365,1,7.47,Data Analyst,Service
+366,1,7.04,Business Analyst,Consulting
+367,1,9.43,Product Analyst,Service
+368,0,0.0,Not Placed,Not Placed
+369,1,5.92,Consulting,Service
+370,1,5.55,Product Analyst,Core
+371,0,0.0,Not Placed,Not Placed
+372,0,0.0,Not Placed,Not Placed
+373,0,0.0,Not Placed,Not Placed
+374,1,7.49,Business Analyst,Service
+375,0,0.0,Not Placed,Not Placed
+376,1,5.17,Core Engineering,Product
+377,0,0.0,Not Placed,Not Placed
+378,1,5.06,Product Analyst,Product
+379,0,0.0,Not Placed,Not Placed
+380,0,0.0,Not Placed,Not Placed
+381,1,6.87,Product Analyst,Product
+382,1,4.52,Software Engineer,Product
+383,1,7.95,Software Engineer,Product
+384,0,0.0,Not Placed,Not Placed
+385,0,0.0,Not Placed,Not Placed
+386,1,4.39,Core Engineering,Consulting
+387,1,5.04,Core Engineering,Service
+388,1,5.06,Software Engineer,Startup
+389,0,0.0,Not Placed,Not Placed
+390,1,6.89,Software Engineer,Service
+391,1,7.02,Core Engineering,Consulting
+392,1,7.37,Consulting,Core
+393,1,9.06,Product Analyst,Service
+394,1,7.14,Consulting,Service
+395,1,8.99,Product Analyst,Consulting
+396,0,0.0,Not Placed,Not Placed
+397,0,0.0,Not Placed,Not Placed
+398,0,0.0,Not Placed,Not Placed
+399,0,0.0,Not Placed,Not Placed
+400,1,6.87,Core Engineering,Service
+401,1,6.49,Business Analyst,Service
+402,1,7.08,Product Analyst,Consulting
+403,0,0.0,Not Placed,Not Placed
+404,1,6.45,Software Engineer,Startup
+405,0,0.0,Not Placed,Not Placed
+406,0,0.0,Not Placed,Not Placed
+407,0,0.0,Not Placed,Not Placed
+408,0,0.0,Not Placed,Not Placed
+409,1,5.15,Consulting,Product
+410,1,6.8,Product Analyst,Product
+411,1,5.79,Software Engineer,Startup
+412,0,0.0,Not Placed,Not Placed
+413,1,5.9,Software Engineer,Core
+414,1,7.68,Business Analyst,Service
+415,0,0.0,Not Placed,Not Placed
+416,0,0.0,Not Placed,Not Placed
+417,1,6.76,Core Engineering,Service
+418,1,4.54,Core Engineering,Consulting
+419,0,0.0,Not Placed,Not Placed
+420,1,6.78,Business Analyst,Startup
+421,1,7.85,Data Analyst,Service
+422,1,3.0,Data Analyst,Service
+423,1,7.38,Core Engineering,Consulting
+424,1,6.78,Core Engineering,Service
+425,0,0.0,Not Placed,Not Placed
+426,1,7.71,Consulting,Startup
+427,1,5.19,Business Analyst,Service
+428,0,0.0,Not Placed,Not Placed
+429,0,0.0,Not Placed,Not Placed
+430,0,0.0,Not Placed,Not Placed
+431,0,0.0,Not Placed,Not Placed
+432,1,5.43,Data Analyst,Consulting
+433,0,0.0,Not Placed,Not Placed
+434,0,0.0,Not Placed,Not Placed
+435,0,0.0,Not Placed,Not Placed
+436,1,4.22,Product Analyst,Core
+437,0,0.0,Not Placed,Not Placed
+438,0,0.0,Not Placed,Not Placed
+439,1,7.22,Consulting,Service
+440,0,0.0,Not Placed,Not Placed
+441,1,7.92,Software Engineer,Core
+442,0,0.0,Not Placed,Not Placed
+443,0,0.0,Not Placed,Not Placed
+444,1,3.18,Data Analyst,Product
+445,0,0.0,Not Placed,Not Placed
+446,0,0.0,Not Placed,Not Placed
+447,0,0.0,Not Placed,Not Placed
+448,1,5.29,Business Analyst,Product
+449,0,0.0,Not Placed,Not Placed
+450,1,6.48,Data Analyst,Service
+451,0,0.0,Not Placed,Not Placed
+452,0,0.0,Not Placed,Not Placed
+453,1,4.69,Consulting,Consulting
+454,0,0.0,Not Placed,Not Placed
+455,1,5.22,Software Engineer,Consulting
+456,1,4.98,Business Analyst,Consulting
+457,1,4.56,Core Engineering,Consulting
+458,0,0.0,Not Placed,Not Placed
+459,0,0.0,Not Placed,Not Placed
+460,0,0.0,Not Placed,Not Placed
+461,1,7.37,Business Analyst,Service
+462,0,0.0,Not Placed,Not Placed
+463,0,0.0,Not Placed,Not Placed
+464,1,8.82,Product Analyst,Core
+465,1,6.73,Software Engineer,Core
+466,0,0.0,Not Placed,Not Placed
+467,0,0.0,Not Placed,Not Placed
+468,1,4.75,Software Engineer,Consulting
+469,0,0.0,Not Placed,Not Placed
+470,0,0.0,Not Placed,Not Placed
+471,1,7.46,Data Analyst,Service
+472,1,7.22,Data Analyst,Service
+473,0,0.0,Not Placed,Not Placed
+474,0,0.0,Not Placed,Not Placed
+475,1,8.56,Consulting,Consulting
+476,0,0.0,Not Placed,Not Placed
+477,0,0.0,Not Placed,Not Placed
+478,0,0.0,Not Placed,Not Placed
+479,1,6.04,Core Engineering,Consulting
+480,0,0.0,Not Placed,Not Placed
+481,0,0.0,Not Placed,Not Placed
+482,1,6.95,Consulting,Service
+483,0,0.0,Not Placed,Not Placed
+484,1,6.7,Core Engineering,Service
+485,0,0.0,Not Placed,Not Placed
+486,1,5.99,Business Analyst,Service
+487,1,6.05,Product Analyst,Product
+488,1,6.68,Business Analyst,Service
+489,0,0.0,Not Placed,Not Placed
+490,1,5.0,Product Analyst,Startup
+491,0,0.0,Not Placed,Not Placed
+492,1,7.66,Data Analyst,Service
+493,0,0.0,Not Placed,Not Placed
+494,1,5.9,Product Analyst,Service
+495,0,0.0,Not Placed,Not Placed
+496,1,3.93,Core Engineering,Product
+497,1,5.72,Software Engineer,Consulting
+498,1,6.14,Core Engineering,Product
+499,1,5.49,Business Analyst,Service
+500,0,0.0,Not Placed,Not Placed
+501,0,0.0,Not Placed,Not Placed
+502,0,0.0,Not Placed,Not Placed
+503,1,4.45,Consulting,Service
+504,0,0.0,Not Placed,Not Placed
+505,0,0.0,Not Placed,Not Placed
+506,0,0.0,Not Placed,Not Placed
+507,1,3.27,Core Engineering,Startup
+508,0,0.0,Not Placed,Not Placed
+509,1,5.93,Consulting,Consulting
+510,0,0.0,Not Placed,Not Placed
+511,1,5.45,Business Analyst,Service
+512,1,3.45,Product Analyst,Startup
+513,0,0.0,Not Placed,Not Placed
+514,0,0.0,Not Placed,Not Placed
+515,0,0.0,Not Placed,Not Placed
+516,1,4.68,Consulting,Service
+517,0,0.0,Not Placed,Not Placed
+518,0,0.0,Not Placed,Not Placed
+519,1,9.14,Software Engineer,Startup
+520,1,5.66,Product Analyst,Service
+521,0,0.0,Not Placed,Not Placed
+522,0,0.0,Not Placed,Not Placed
+523,0,0.0,Not Placed,Not Placed
+524,0,0.0,Not Placed,Not Placed
+525,1,6.14,Consulting,Service
+526,1,7.46,Product Analyst,Product
+527,1,5.92,Product Analyst,Service
+528,1,4.87,Core Engineering,Product
+529,1,4.92,Data Analyst,Service
+530,1,6.52,Data Analyst,Service
+531,1,3.96,Product Analyst,Product
+532,0,0.0,Not Placed,Not Placed
+533,0,0.0,Not Placed,Not Placed
+534,0,0.0,Not Placed,Not Placed
+535,0,0.0,Not Placed,Not Placed
+536,1,5.8,Data Analyst,Consulting
+537,0,0.0,Not Placed,Not Placed
+538,0,0.0,Not Placed,Not Placed
+539,1,5.65,Business Analyst,Core
+540,0,0.0,Not Placed,Not Placed
+541,0,0.0,Not Placed,Not Placed
+542,0,0.0,Not Placed,Not Placed
+543,0,0.0,Not Placed,Not Placed
+544,1,6.7,Business Analyst,Consulting
+545,0,0.0,Not Placed,Not Placed
+546,0,0.0,Not Placed,Not Placed
+547,1,7.18,Consulting,Service
+548,1,6.3,Core Engineering,Consulting
+549,0,0.0,Not Placed,Not Placed
+550,1,4.71,Software Engineer,Service
+551,0,0.0,Not Placed,Not Placed
+552,1,5.56,Data Analyst,Service
+553,1,5.08,Software Engineer,Service
+554,0,0.0,Not Placed,Not Placed
+555,1,5.98,Business Analyst,Service
+556,0,0.0,Not Placed,Not Placed
+557,1,6.39,Business Analyst,Consulting
+558,0,0.0,Not Placed,Not Placed
+559,1,7.81,Consulting,Service
+560,1,8.18,Consulting,Product
+561,0,0.0,Not Placed,Not Placed
+562,0,0.0,Not Placed,Not Placed
+563,1,8.96,Consulting,Startup
+564,1,5.05,Business Analyst,Startup
+565,0,0.0,Not Placed,Not Placed
+566,0,0.0,Not Placed,Not Placed
+567,0,0.0,Not Placed,Not Placed
+568,0,0.0,Not Placed,Not Placed
+569,1,5.38,Consulting,Service
+570,0,0.0,Not Placed,Not Placed
+571,1,7.61,Product Analyst,Service
+572,0,0.0,Not Placed,Not Placed
+573,1,7.48,Data Analyst,Product
+574,0,0.0,Not Placed,Not Placed
+575,1,5.57,Core Engineering,Service
+576,0,0.0,Not Placed,Not Placed
+577,1,3.72,Business Analyst,Service
+578,0,0.0,Not Placed,Not Placed
+579,1,7.2,Business Analyst,Product
+580,0,0.0,Not Placed,Not Placed
+581,1,3.0,Business Analyst,Product
+582,0,0.0,Not Placed,Not Placed
+583,1,6.22,Software Engineer,Service
+584,0,0.0,Not Placed,Not Placed
+585,0,0.0,Not Placed,Not Placed
+586,1,5.51,Data Analyst,Consulting
+587,1,7.21,Consulting,Service
+588,1,5.55,Core Engineering,Product
+589,1,7.18,Software Engineer,Product
+590,0,0.0,Not Placed,Not Placed
+591,1,5.98,Core Engineering,Product
+592,0,0.0,Not Placed,Not Placed
+593,0,0.0,Not Placed,Not Placed
+594,1,4.34,Core Engineering,Service
+595,1,7.02,Product Analyst,Product
+596,1,6.9,Consulting,Product
+597,1,5.23,Product Analyst,Product
+598,0,0.0,Not Placed,Not Placed
+599,0,0.0,Not Placed,Not Placed
+600,0,0.0,Not Placed,Not Placed
+601,0,0.0,Not Placed,Not Placed
+602,0,0.0,Not Placed,Not Placed
+603,1,5.78,Software Engineer,Service
+604,0,0.0,Not Placed,Not Placed
+605,0,0.0,Not Placed,Not Placed
+606,0,0.0,Not Placed,Not Placed
+607,0,0.0,Not Placed,Not Placed
+608,1,8.2,Software Engineer,Service
+609,0,0.0,Not Placed,Not Placed
+610,0,0.0,Not Placed,Not Placed
+611,0,0.0,Not Placed,Not Placed
+612,1,6.7,Product Analyst,Startup
+613,1,7.35,Business Analyst,Core
+614,1,7.02,Product Analyst,Consulting
+615,0,0.0,Not Placed,Not Placed
+616,0,0.0,Not Placed,Not Placed
+617,0,0.0,Not Placed,Not Placed
+618,1,6.07,Data Analyst,Product
+619,0,0.0,Not Placed,Not Placed
+620,0,0.0,Not Placed,Not Placed
+621,1,4.95,Consulting,Service
+622,0,0.0,Not Placed,Not Placed
+623,1,6.3,Core Engineering,Service
+624,1,6.22,Business Analyst,Startup
+625,0,0.0,Not Placed,Not Placed
+626,0,0.0,Not Placed,Not Placed
+627,0,0.0,Not Placed,Not Placed
+628,1,5.16,Data Analyst,Startup
+629,0,0.0,Not Placed,Not Placed
+630,0,0.0,Not Placed,Not Placed
+631,0,0.0,Not Placed,Not Placed
+632,0,0.0,Not Placed,Not Placed
+633,1,5.28,Product Analyst,Core
+634,0,0.0,Not Placed,Not Placed
+635,0,0.0,Not Placed,Not Placed
+636,0,0.0,Not Placed,Not Placed
+637,1,6.87,Business Analyst,Service
+638,1,4.73,Software Engineer,Service
+639,1,5.8,Product Analyst,Service
+640,1,7.39,Software Engineer,Product
+641,1,6.55,Software Engineer,Consulting
+642,1,8.07,Software Engineer,Service
+643,1,7.78,Consulting,Core
+644,0,0.0,Not Placed,Not Placed
+645,1,5.26,Core Engineering,Service
+646,0,0.0,Not Placed,Not Placed
+647,1,5.33,Data Analyst,Service
+648,1,3.06,Consulting,Consulting
+649,0,0.0,Not Placed,Not Placed
+650,0,0.0,Not Placed,Not Placed
+651,0,0.0,Not Placed,Not Placed
+652,1,8.75,Consulting,Consulting
+653,1,3.65,Core Engineering,Service
+654,0,0.0,Not Placed,Not Placed
+655,0,0.0,Not Placed,Not Placed
+656,0,0.0,Not Placed,Not Placed
+657,0,0.0,Not Placed,Not Placed
+658,1,10.37,Core Engineering,Service
+659,1,7.48,Core Engineering,Startup
+660,1,3.45,Software Engineer,Service
+661,0,0.0,Not Placed,Not Placed
+662,1,5.22,Core Engineering,Startup
+663,1,4.51,Data Analyst,Service
+664,0,0.0,Not Placed,Not Placed
+665,1,6.93,Consulting,Consulting
+666,1,6.81,Product Analyst,Startup
+667,1,5.58,Data Analyst,Product
+668,1,5.32,Product Analyst,Service
+669,1,6.29,Product Analyst,Startup
+670,1,8.41,Software Engineer,Core
+671,0,0.0,Not Placed,Not Placed
+672,0,0.0,Not Placed,Not Placed
+673,1,6.66,Consulting,Product
+674,0,0.0,Not Placed,Not Placed
+675,1,6.38,Data Analyst,Service
+676,0,0.0,Not Placed,Not Placed
+677,0,0.0,Not Placed,Not Placed
+678,1,5.63,Consulting,Service
+679,0,0.0,Not Placed,Not Placed
+680,1,4.35,Business Analyst,Product
+681,0,0.0,Not Placed,Not Placed
+682,0,0.0,Not Placed,Not Placed
+683,1,5.89,Data Analyst,Service
+684,0,0.0,Not Placed,Not Placed
+685,1,6.03,Software Engineer,Service
+686,0,0.0,Not Placed,Not Placed
+687,1,6.52,Software Engineer,Core
+688,1,5.62,Business Analyst,Service
+689,1,9.3,Data Analyst,Product
+690,0,0.0,Not Placed,Not Placed
+691,1,6.07,Software Engineer,Product
+692,1,3.84,Data Analyst,Service
+693,0,0.0,Not Placed,Not Placed
+694,0,0.0,Not Placed,Not Placed
+695,0,0.0,Not Placed,Not Placed
+696,1,3.95,Business Analyst,Startup
+697,1,3.29,Consulting,Consulting
+698,0,0.0,Not Placed,Not Placed
+699,0,0.0,Not Placed,Not Placed
+700,0,0.0,Not Placed,Not Placed
+701,0,0.0,Not Placed,Not Placed
+702,0,0.0,Not Placed,Not Placed
+703,0,0.0,Not Placed,Not Placed
+704,0,0.0,Not Placed,Not Placed
+705,1,6.15,Product Analyst,Consulting
+706,0,0.0,Not Placed,Not Placed
+707,1,5.85,Data Analyst,Service
+708,0,0.0,Not Placed,Not Placed
+709,1,6.65,Core Engineering,Core
+710,0,0.0,Not Placed,Not Placed
+711,1,7.37,Consulting,Service
+712,0,0.0,Not Placed,Not Placed
+713,1,9.65,Business Analyst,Service
+714,1,11.33,Data Analyst,Core
+715,1,6.9,Business Analyst,Product
+716,1,5.64,Product Analyst,Service
+717,0,0.0,Not Placed,Not Placed
+718,1,6.73,Business Analyst,Startup
+719,1,5.29,Consulting,Service
+720,1,6.65,Software Engineer,Service
+721,0,0.0,Not Placed,Not Placed
+722,1,6.15,Software Engineer,Product
+723,0,0.0,Not Placed,Not Placed
+724,1,7.71,Consulting,Consulting
+725,1,5.67,Product Analyst,Core
+726,0,0.0,Not Placed,Not Placed
+727,1,5.67,Product Analyst,Consulting
+728,1,3.51,Product Analyst,Startup
+729,0,0.0,Not Placed,Not Placed
+730,1,6.89,Software Engineer,Product
+731,1,7.61,Core Engineering,Service
+732,0,0.0,Not Placed,Not Placed
+733,1,6.03,Data Analyst,Consulting
+734,0,0.0,Not Placed,Not Placed
+735,0,0.0,Not Placed,Not Placed
+736,1,6.07,Product Analyst,Service
+737,0,0.0,Not Placed,Not Placed
+738,1,7.21,Product Analyst,Service
+739,0,0.0,Not Placed,Not Placed
+740,1,8.3,Data Analyst,Consulting
+741,0,0.0,Not Placed,Not Placed
+742,0,0.0,Not Placed,Not Placed
+743,0,0.0,Not Placed,Not Placed
+744,1,5.98,Consulting,Service
+745,0,0.0,Not Placed,Not Placed
+746,1,7.02,Product Analyst,Product
+747,0,0.0,Not Placed,Not Placed
+748,0,0.0,Not Placed,Not Placed
+749,0,0.0,Not Placed,Not Placed
+750,0,0.0,Not Placed,Not Placed
+751,0,0.0,Not Placed,Not Placed
+752,1,3.0,Consulting,Service
+753,1,6.95,Business Analyst,Product
+754,0,0.0,Not Placed,Not Placed
+755,1,5.67,Product Analyst,Consulting
+756,0,0.0,Not Placed,Not Placed
+757,0,0.0,Not Placed,Not Placed
+758,1,6.59,Consulting,Startup
+759,0,0.0,Not Placed,Not Placed
+760,0,0.0,Not Placed,Not Placed
+761,1,3.25,Business Analyst,Core
+762,0,0.0,Not Placed,Not Placed
+763,1,8.24,Core Engineering,Consulting
+764,0,0.0,Not Placed,Not Placed
+765,1,6.18,Product Analyst,Service
+766,1,5.43,Core Engineering,Service
+767,0,0.0,Not Placed,Not Placed
+768,1,7.69,Data Analyst,Service
+769,0,0.0,Not Placed,Not Placed
+770,1,6.1,Consulting,Product
+771,1,6.38,Consulting,Service
+772,0,0.0,Not Placed,Not Placed
+773,1,4.86,Software Engineer,Service
+774,1,9.22,Business Analyst,Service
+775,1,9.27,Software Engineer,Core
+776,0,0.0,Not Placed,Not Placed
+777,0,0.0,Not Placed,Not Placed
+778,0,0.0,Not Placed,Not Placed
+779,0,0.0,Not Placed,Not Placed
+780,1,7.59,Data Analyst,Service
+781,0,0.0,Not Placed,Not Placed
+782,1,5.01,Business Analyst,Consulting
+783,0,0.0,Not Placed,Not Placed
+784,1,5.01,Data Analyst,Startup
+785,0,0.0,Not Placed,Not Placed
+786,1,4.65,Business Analyst,Consulting
+787,0,0.0,Not Placed,Not Placed
+788,0,0.0,Not Placed,Not Placed
+789,1,4.83,Product Analyst,Startup
+790,0,0.0,Not Placed,Not Placed
+791,0,0.0,Not Placed,Not Placed
+792,0,0.0,Not Placed,Not Placed
+793,1,7.05,Software Engineer,Service
+794,0,0.0,Not Placed,Not Placed
+795,0,0.0,Not Placed,Not Placed
+796,1,5.53,Business Analyst,Startup
+797,1,6.92,Core Engineering,Service
+798,0,0.0,Not Placed,Not Placed
+799,0,0.0,Not Placed,Not Placed
+800,0,0.0,Not Placed,Not Placed
+801,0,0.0,Not Placed,Not Placed
+802,1,4.55,Software Engineer,Core
+803,1,7.26,Software Engineer,Service
+804,0,0.0,Not Placed,Not Placed
+805,1,6.09,Core Engineering,Service
+806,0,0.0,Not Placed,Not Placed
+807,1,7.89,Consulting,Product
+808,0,0.0,Not Placed,Not Placed
+809,1,6.45,Core Engineering,Consulting
+810,0,0.0,Not Placed,Not Placed
+811,1,7.24,Software Engineer,Service
+812,1,10.67,Data Analyst,Service
+813,0,0.0,Not Placed,Not Placed
+814,0,0.0,Not Placed,Not Placed
+815,1,5.22,Product Analyst,Service
+816,1,4.11,Core Engineering,Service
+817,1,6.48,Consulting,Service
+818,0,0.0,Not Placed,Not Placed
+819,0,0.0,Not Placed,Not Placed
+820,1,8.03,Data Analyst,Core
+821,0,0.0,Not Placed,Not Placed
+822,1,7.16,Product Analyst,Startup
+823,0,0.0,Not Placed,Not Placed
+824,1,4.3,Consulting,Service
+825,1,3.84,Core Engineering,Startup
+826,1,5.9,Product Analyst,Startup
+827,0,0.0,Not Placed,Not Placed
+828,1,5.44,Product Analyst,Consulting
+829,1,5.24,Data Analyst,Consulting
+830,1,7.11,Business Analyst,Service
+831,0,0.0,Not Placed,Not Placed
+832,0,0.0,Not Placed,Not Placed
+833,0,0.0,Not Placed,Not Placed
+834,0,0.0,Not Placed,Not Placed
+835,0,0.0,Not Placed,Not Placed
+836,0,0.0,Not Placed,Not Placed
+837,1,6.44,Data Analyst,Consulting
+838,1,7.59,Core Engineering,Service
+839,0,0.0,Not Placed,Not Placed
+840,0,0.0,Not Placed,Not Placed
+841,1,5.51,Product Analyst,Consulting
+842,1,5.45,Core Engineering,Consulting
+843,1,4.2,Business Analyst,Consulting
+844,0,0.0,Not Placed,Not Placed
+845,1,5.36,Product Analyst,Startup
+846,1,5.23,Consulting,Consulting
+847,1,5.35,Consulting,Service
+848,0,0.0,Not Placed,Not Placed
+849,0,0.0,Not Placed,Not Placed
+850,0,0.0,Not Placed,Not Placed
+851,0,0.0,Not Placed,Not Placed
+852,1,6.07,Data Analyst,Service
+853,1,4.7,Data Analyst,Startup
+854,1,6.34,Data Analyst,Service
+855,1,6.04,Core Engineering,Service
+856,0,0.0,Not Placed,Not Placed
+857,1,4.2,Consulting,Core
+858,0,0.0,Not Placed,Not Placed
+859,0,0.0,Not Placed,Not Placed
+860,0,0.0,Not Placed,Not Placed
+861,0,0.0,Not Placed,Not Placed
+862,0,0.0,Not Placed,Not Placed
+863,1,7.47,Product Analyst,Startup
+864,0,0.0,Not Placed,Not Placed
+865,0,0.0,Not Placed,Not Placed
+866,0,0.0,Not Placed,Not Placed
+867,0,0.0,Not Placed,Not Placed
+868,0,0.0,Not Placed,Not Placed
+869,1,5.34,Consulting,Product
+870,0,0.0,Not Placed,Not Placed
+871,1,5.82,Product Analyst,Consulting
+872,0,0.0,Not Placed,Not Placed
+873,0,0.0,Not Placed,Not Placed
+874,0,0.0,Not Placed,Not Placed
+875,0,0.0,Not Placed,Not Placed
+876,1,4.44,Core Engineering,Service
+877,0,0.0,Not Placed,Not Placed
+878,0,0.0,Not Placed,Not Placed
+879,0,0.0,Not Placed,Not Placed
+880,0,0.0,Not Placed,Not Placed
+881,0,0.0,Not Placed,Not Placed
+882,0,0.0,Not Placed,Not Placed
+883,1,4.85,Business Analyst,Service
+884,1,3.8,Core Engineering,Service
+885,1,6.69,Data Analyst,Startup
+886,0,0.0,Not Placed,Not Placed
+887,0,0.0,Not Placed,Not Placed
+888,0,0.0,Not Placed,Not Placed
+889,1,4.79,Consulting,Consulting
+890,1,5.95,Product Analyst,Product
+891,0,0.0,Not Placed,Not Placed
+892,1,5.51,Software Engineer,Core
+893,0,0.0,Not Placed,Not Placed
+894,0,0.0,Not Placed,Not Placed
+895,0,0.0,Not Placed,Not Placed
+896,1,7.86,Consulting,Core
+897,1,8.09,Software Engineer,Startup
+898,0,0.0,Not Placed,Not Placed
+899,0,0.0,Not Placed,Not Placed
+900,1,5.83,Product Analyst,Product
+901,1,6.57,Core Engineering,Service
+902,0,0.0,Not Placed,Not Placed
+903,1,6.75,Software Engineer,Product
+904,1,5.75,Consulting,Consulting
+905,0,0.0,Not Placed,Not Placed
+906,0,0.0,Not Placed,Not Placed
+907,1,4.92,Software Engineer,Service
+908,0,0.0,Not Placed,Not Placed
+909,0,0.0,Not Placed,Not Placed
+910,1,5.6,Consulting,Core
+911,0,0.0,Not Placed,Not Placed
+912,0,0.0,Not Placed,Not Placed
+913,0,0.0,Not Placed,Not Placed
+914,1,5.98,Consulting,Core
+915,0,0.0,Not Placed,Not Placed
+916,0,0.0,Not Placed,Not Placed
+917,1,8.65,Core Engineering,Service
+918,0,0.0,Not Placed,Not Placed
+919,1,7.24,Data Analyst,Product
+920,1,7.31,Software Engineer,Startup
+921,1,5.93,Business Analyst,Consulting
+922,0,0.0,Not Placed,Not Placed
+923,0,0.0,Not Placed,Not Placed
+924,0,0.0,Not Placed,Not Placed
+925,1,5.88,Data Analyst,Service
+926,1,4.7,Software Engineer,Startup
+927,1,6.23,Data Analyst,Consulting
+928,1,4.79,Business Analyst,Product
+929,1,5.54,Software Engineer,Product
+930,0,0.0,Not Placed,Not Placed
+931,1,6.07,Core Engineering,Product
+932,0,0.0,Not Placed,Not Placed
+933,1,4.67,Core Engineering,Core
+934,0,0.0,Not Placed,Not Placed
+935,0,0.0,Not Placed,Not Placed
+936,0,0.0,Not Placed,Not Placed
+937,1,5.67,Product Analyst,Service
+938,0,0.0,Not Placed,Not Placed
+939,1,4.08,Business Analyst,Startup
+940,0,0.0,Not Placed,Not Placed
+941,1,6.35,Consulting,Core
+942,1,3.94,Business Analyst,Product
+943,1,5.95,Business Analyst,Startup
+944,1,7.1,Product Analyst,Service
+945,1,7.16,Product Analyst,Product
+946,1,4.04,Business Analyst,Product
+947,0,0.0,Not Placed,Not Placed
+948,1,3.0,Data Analyst,Service
+949,0,0.0,Not Placed,Not Placed
+950,0,0.0,Not Placed,Not Placed
+951,0,0.0,Not Placed,Not Placed
+952,0,0.0,Not Placed,Not Placed
+953,0,0.0,Not Placed,Not Placed
+954,0,0.0,Not Placed,Not Placed
+955,1,6.19,Core Engineering,Service
+956,1,4.97,Consulting,Core
+957,0,0.0,Not Placed,Not Placed
+958,1,3.71,Consulting,Service
+959,1,6.71,Consulting,Service
+960,0,0.0,Not Placed,Not Placed
+961,0,0.0,Not Placed,Not Placed
+962,0,0.0,Not Placed,Not Placed
+963,0,0.0,Not Placed,Not Placed
+964,1,5.14,Data Analyst,Service
+965,0,0.0,Not Placed,Not Placed
+966,0,0.0,Not Placed,Not Placed
+967,0,0.0,Not Placed,Not Placed
+968,1,8.46,Consulting,Service
+969,1,7.29,Business Analyst,Service
+970,1,3.83,Product Analyst,Service
+971,1,8.14,Business Analyst,Service
+972,1,6.17,Business Analyst,Startup
+973,1,5.06,Consulting,Service
+974,0,0.0,Not Placed,Not Placed
+975,0,0.0,Not Placed,Not Placed
+976,0,0.0,Not Placed,Not Placed
+977,1,6.0,Data Analyst,Service
+978,0,0.0,Not Placed,Not Placed
+979,0,0.0,Not Placed,Not Placed
+980,0,0.0,Not Placed,Not Placed
+981,1,6.81,Consulting,Consulting
+982,0,0.0,Not Placed,Not Placed
+983,0,0.0,Not Placed,Not Placed
+984,0,0.0,Not Placed,Not Placed
+985,1,4.85,Business Analyst,Service
+986,0,0.0,Not Placed,Not Placed
+987,0,0.0,Not Placed,Not Placed
+988,0,0.0,Not Placed,Not Placed
+989,0,0.0,Not Placed,Not Placed
+990,0,0.0,Not Placed,Not Placed
+991,0,0.0,Not Placed,Not Placed
+992,0,0.0,Not Placed,Not Placed
+993,0,0.0,Not Placed,Not Placed
+994,1,4.98,Data Analyst,Service
+995,0,0.0,Not Placed,Not Placed
+996,0,0.0,Not Placed,Not Placed
+997,0,0.0,Not Placed,Not Placed
+998,0,0.0,Not Placed,Not Placed
+999,1,7.0,Consulting,Service
+1000,0,0.0,Not Placed,Not Placed
+1001,0,0.0,Not Placed,Not Placed
+1002,1,6.66,Data Analyst,Product
+1003,1,6.01,Product Analyst,Startup
+1004,1,5.06,Software Engineer,Service
+1005,0,0.0,Not Placed,Not Placed
+1006,1,4.9,Consulting,Startup
+1007,0,0.0,Not Placed,Not Placed
+1008,1,8.68,Software Engineer,Service
+1009,0,0.0,Not Placed,Not Placed
+1010,1,5.44,Core Engineering,Service
+1011,1,8.51,Core Engineering,Service
+1012,1,7.02,Software Engineer,Service
+1013,1,9.4,Consulting,Consulting
+1014,0,0.0,Not Placed,Not Placed
+1015,1,10.56,Consulting,Startup
+1016,1,6.28,Consulting,Consulting
+1017,0,0.0,Not Placed,Not Placed
+1018,0,0.0,Not Placed,Not Placed
+1019,1,4.77,Consulting,Service
+1020,0,0.0,Not Placed,Not Placed
+1021,0,0.0,Not Placed,Not Placed
+1022,1,5.41,Core Engineering,Service
+1023,0,0.0,Not Placed,Not Placed
+1024,1,9.08,Business Analyst,Consulting
+1025,0,0.0,Not Placed,Not Placed
+1026,0,0.0,Not Placed,Not Placed
+1027,0,0.0,Not Placed,Not Placed
+1028,1,8.98,Consulting,Service
+1029,1,6.47,Software Engineer,Service
+1030,1,6.24,Core Engineering,Startup
+1031,1,5.52,Software Engineer,Startup
+1032,0,0.0,Not Placed,Not Placed
+1033,0,0.0,Not Placed,Not Placed
+1034,0,0.0,Not Placed,Not Placed
+1035,1,5.18,Product Analyst,Service
+1036,0,0.0,Not Placed,Not Placed
+1037,1,5.35,Business Analyst,Service
+1038,1,5.92,Product Analyst,Core
+1039,0,0.0,Not Placed,Not Placed
+1040,1,7.6,Core Engineering,Startup
+1041,0,0.0,Not Placed,Not Placed
+1042,0,0.0,Not Placed,Not Placed
+1043,0,0.0,Not Placed,Not Placed
+1044,1,5.92,Software Engineer,Service
+1045,0,0.0,Not Placed,Not Placed
+1046,1,7.72,Business Analyst,Service
+1047,1,4.3,Software Engineer,Product
+1048,0,0.0,Not Placed,Not Placed
+1049,0,0.0,Not Placed,Not Placed
+1050,0,0.0,Not Placed,Not Placed
+1051,1,6.99,Data Analyst,Service
+1052,0,0.0,Not Placed,Not Placed
+1053,1,4.17,Business Analyst,Product
+1054,1,6.71,Product Analyst,Core
+1055,0,0.0,Not Placed,Not Placed
+1056,0,0.0,Not Placed,Not Placed
+1057,0,0.0,Not Placed,Not Placed
+1058,1,8.93,Core Engineering,Startup
+1059,0,0.0,Not Placed,Not Placed
+1060,1,6.2,Data Analyst,Service
+1061,1,10.05,Core Engineering,Consulting
+1062,1,6.14,Product Analyst,Core
+1063,1,6.48,Consulting,Service
+1064,0,0.0,Not Placed,Not Placed
+1065,1,8.34,Software Engineer,Consulting
+1066,0,0.0,Not Placed,Not Placed
+1067,1,5.43,Data Analyst,Core
+1068,0,0.0,Not Placed,Not Placed
+1069,0,0.0,Not Placed,Not Placed
+1070,1,5.1,Business Analyst,Consulting
+1071,1,4.08,Software Engineer,Core
+1072,0,0.0,Not Placed,Not Placed
+1073,0,0.0,Not Placed,Not Placed
+1074,0,0.0,Not Placed,Not Placed
+1075,0,0.0,Not Placed,Not Placed
+1076,0,0.0,Not Placed,Not Placed
+1077,1,9.6,Data Analyst,Service
+1078,1,6.97,Business Analyst,Startup
+1079,1,3.23,Business Analyst,Startup
+1080,1,8.05,Product Analyst,Service
+1081,0,0.0,Not Placed,Not Placed
+1082,0,0.0,Not Placed,Not Placed
+1083,0,0.0,Not Placed,Not Placed
+1084,0,0.0,Not Placed,Not Placed
+1085,0,0.0,Not Placed,Not Placed
+1086,0,0.0,Not Placed,Not Placed
+1087,0,0.0,Not Placed,Not Placed
+1088,0,0.0,Not Placed,Not Placed
+1089,1,5.84,Business Analyst,Service
+1090,1,4.65,Core Engineering,Product
+1091,1,5.8,Business Analyst,Service
+1092,1,5.02,Consulting,Service
+1093,1,7.12,Data Analyst,Service
+1094,1,6.16,Core Engineering,Service
+1095,0,0.0,Not Placed,Not Placed
+1096,0,0.0,Not Placed,Not Placed
+1097,0,0.0,Not Placed,Not Placed
+1098,0,0.0,Not Placed,Not Placed
+1099,0,0.0,Not Placed,Not Placed
+1100,1,3.0,Consulting,Product
+1101,1,4.89,Product Analyst,Consulting
+1102,0,0.0,Not Placed,Not Placed
+1103,0,0.0,Not Placed,Not Placed
+1104,0,0.0,Not Placed,Not Placed
+1105,1,3.0,Business Analyst,Product
+1106,1,6.94,Software Engineer,Service
+1107,1,5.99,Core Engineering,Service
+1108,0,0.0,Not Placed,Not Placed
+1109,0,0.0,Not Placed,Not Placed
+1110,1,8.81,Core Engineering,Service
+1111,1,6.31,Consulting,Service
+1112,0,0.0,Not Placed,Not Placed
+1113,1,6.83,Business Analyst,Consulting
+1114,1,6.34,Core Engineering,Startup
+1115,0,0.0,Not Placed,Not Placed
+1116,1,3.37,Core Engineering,Service
+1117,1,5.91,Core Engineering,Service
+1118,0,0.0,Not Placed,Not Placed
+1119,1,6.28,Core Engineering,Service
+1120,1,8.58,Business Analyst,Service
+1121,1,5.89,Software Engineer,Service
+1122,0,0.0,Not Placed,Not Placed
+1123,0,0.0,Not Placed,Not Placed
+1124,0,0.0,Not Placed,Not Placed
+1125,0,0.0,Not Placed,Not Placed
+1126,0,0.0,Not Placed,Not Placed
+1127,0,0.0,Not Placed,Not Placed
+1128,0,0.0,Not Placed,Not Placed
+1129,0,0.0,Not Placed,Not Placed
+1130,1,7.01,Software Engineer,Service
+1131,0,0.0,Not Placed,Not Placed
+1132,0,0.0,Not Placed,Not Placed
+1133,1,7.71,Software Engineer,Service
+1134,1,6.15,Consulting,Service
+1135,1,4.37,Data Analyst,Startup
+1136,0,0.0,Not Placed,Not Placed
+1137,1,4.83,Data Analyst,Service
+1138,0,0.0,Not Placed,Not Placed
+1139,0,0.0,Not Placed,Not Placed
+1140,1,6.33,Core Engineering,Service
+1141,1,6.34,Core Engineering,Product
+1142,1,6.75,Data Analyst,Service
+1143,1,5.39,Core Engineering,Product
+1144,0,0.0,Not Placed,Not Placed
+1145,1,6.04,Consulting,Product
+1146,0,0.0,Not Placed,Not Placed
+1147,1,4.12,Core Engineering,Product
+1148,0,0.0,Not Placed,Not Placed
+1149,0,0.0,Not Placed,Not Placed
+1150,0,0.0,Not Placed,Not Placed
+1151,0,0.0,Not Placed,Not Placed
+1152,1,7.96,Data Analyst,Service
+1153,0,0.0,Not Placed,Not Placed
+1154,0,0.0,Not Placed,Not Placed
+1155,1,6.78,Consulting,Product
+1156,0,0.0,Not Placed,Not Placed
+1157,0,0.0,Not Placed,Not Placed
+1158,1,6.13,Product Analyst,Core
+1159,0,0.0,Not Placed,Not Placed
+1160,1,8.78,Business Analyst,Product
+1161,1,6.25,Data Analyst,Product
+1162,0,0.0,Not Placed,Not Placed
+1163,0,0.0,Not Placed,Not Placed
+1164,1,7.02,Core Engineering,Startup
+1165,0,0.0,Not Placed,Not Placed
+1166,1,6.52,Consulting,Service
+1167,1,5.08,Data Analyst,Startup
+1168,0,0.0,Not Placed,Not Placed
+1169,1,7.37,Business Analyst,Consulting
+1170,0,0.0,Not Placed,Not Placed
+1171,0,0.0,Not Placed,Not Placed
+1172,0,0.0,Not Placed,Not Placed
+1173,1,4.82,Business Analyst,Service
+1174,1,6.08,Data Analyst,Service
+1175,1,4.37,Business Analyst,Service
+1176,1,5.86,Consulting,Consulting
+1177,1,5.29,Software Engineer,Core
+1178,0,0.0,Not Placed,Not Placed
+1179,0,0.0,Not Placed,Not Placed
+1180,1,5.73,Product Analyst,Startup
+1181,1,5.28,Core Engineering,Service
+1182,1,8.93,Data Analyst,Startup
+1183,1,5.55,Product Analyst,Startup
+1184,1,3.0,Data Analyst,Consulting
+1185,0,0.0,Not Placed,Not Placed
+1186,1,4.87,Product Analyst,Startup
+1187,0,0.0,Not Placed,Not Placed
+1188,1,6.74,Consulting,Service
+1189,0,0.0,Not Placed,Not Placed
+1190,0,0.0,Not Placed,Not Placed
+1191,0,0.0,Not Placed,Not Placed
+1192,1,5.7,Core Engineering,Product
+1193,0,0.0,Not Placed,Not Placed
+1194,0,0.0,Not Placed,Not Placed
+1195,1,6.97,Software Engineer,Consulting
+1196,1,5.09,Consulting,Product
+1197,0,0.0,Not Placed,Not Placed
+1198,0,0.0,Not Placed,Not Placed
+1199,0,0.0,Not Placed,Not Placed
+1200,0,0.0,Not Placed,Not Placed
+1201,1,5.19,Consulting,Service
+1202,1,3.88,Consulting,Startup
+1203,0,0.0,Not Placed,Not Placed
+1204,1,5.7,Product Analyst,Service
+1205,0,0.0,Not Placed,Not Placed
+1206,0,0.0,Not Placed,Not Placed
+1207,1,5.03,Product Analyst,Service
+1208,0,0.0,Not Placed,Not Placed
+1209,0,0.0,Not Placed,Not Placed
+1210,0,0.0,Not Placed,Not Placed
+1211,1,7.59,Core Engineering,Startup
+1212,1,8.01,Business Analyst,Service
+1213,0,0.0,Not Placed,Not Placed
+1214,1,3.78,Software Engineer,Service
+1215,1,4.29,Data Analyst,Service
+1216,0,0.0,Not Placed,Not Placed
+1217,0,0.0,Not Placed,Not Placed
+1218,1,4.82,Data Analyst,Startup
+1219,1,8.27,Data Analyst,Service
+1220,0,0.0,Not Placed,Not Placed
+1221,1,6.05,Business Analyst,Service
+1222,0,0.0,Not Placed,Not Placed
+1223,1,4.71,Software Engineer,Service
+1224,1,4.54,Data Analyst,Product
+1225,1,6.06,Data Analyst,Service
+1226,0,0.0,Not Placed,Not Placed
+1227,1,8.23,Data Analyst,Product
+1228,1,6.15,Software Engineer,Service
+1229,1,6.87,Software Engineer,Startup
+1230,1,7.7,Business Analyst,Product
+1231,0,0.0,Not Placed,Not Placed
+1232,1,4.65,Data Analyst,Product
+1233,0,0.0,Not Placed,Not Placed
+1234,1,5.32,Software Engineer,Startup
+1235,1,4.21,Data Analyst,Startup
+1236,0,0.0,Not Placed,Not Placed
+1237,0,0.0,Not Placed,Not Placed
+1238,0,0.0,Not Placed,Not Placed
+1239,1,4.67,Product Analyst,Product
+1240,0,0.0,Not Placed,Not Placed
+1241,0,0.0,Not Placed,Not Placed
+1242,0,0.0,Not Placed,Not Placed
+1243,1,7.23,Product Analyst,Consulting
+1244,0,0.0,Not Placed,Not Placed
+1245,1,4.93,Software Engineer,Service
+1246,1,7.64,Consulting,Startup
+1247,1,5.26,Data Analyst,Service
+1248,1,5.42,Software Engineer,Product
+1249,0,0.0,Not Placed,Not Placed
+1250,1,5.63,Business Analyst,Service
+1251,1,5.2,Business Analyst,Service
+1252,1,4.32,Business Analyst,Service
+1253,0,0.0,Not Placed,Not Placed
+1254,0,0.0,Not Placed,Not Placed
+1255,0,0.0,Not Placed,Not Placed
+1256,0,0.0,Not Placed,Not Placed
+1257,0,0.0,Not Placed,Not Placed
+1258,1,7.09,Software Engineer,Core
+1259,0,0.0,Not Placed,Not Placed
+1260,0,0.0,Not Placed,Not Placed
+1261,1,4.44,Product Analyst,Service
+1262,0,0.0,Not Placed,Not Placed
+1263,0,0.0,Not Placed,Not Placed
+1264,0,0.0,Not Placed,Not Placed
+1265,0,0.0,Not Placed,Not Placed
+1266,0,0.0,Not Placed,Not Placed
+1267,1,6.24,Consulting,Startup
+1268,1,4.25,Product Analyst,Service
+1269,1,3.47,Software Engineer,Core
+1270,0,0.0,Not Placed,Not Placed
+1271,1,5.89,Consulting,Product
+1272,0,0.0,Not Placed,Not Placed
+1273,1,6.43,Product Analyst,Service
+1274,0,0.0,Not Placed,Not Placed
+1275,0,0.0,Not Placed,Not Placed
+1276,1,6.29,Software Engineer,Consulting
+1277,0,0.0,Not Placed,Not Placed
+1278,0,0.0,Not Placed,Not Placed
+1279,0,0.0,Not Placed,Not Placed
+1280,0,0.0,Not Placed,Not Placed
+1281,0,0.0,Not Placed,Not Placed
+1282,1,5.17,Software Engineer,Startup
+1283,1,7.23,Data Analyst,Consulting
+1284,0,0.0,Not Placed,Not Placed
+1285,1,3.5,Core Engineering,Service
+1286,1,6.61,Core Engineering,Product
+1287,1,6.0,Software Engineer,Service
+1288,1,6.49,Core Engineering,Product
+1289,0,0.0,Not Placed,Not Placed
+1290,0,0.0,Not Placed,Not Placed
+1291,0,0.0,Not Placed,Not Placed
+1292,1,8.12,Data Analyst,Service
+1293,0,0.0,Not Placed,Not Placed
+1294,0,0.0,Not Placed,Not Placed
+1295,1,3.0,Business Analyst,Service
+1296,1,5.34,Business Analyst,Service
+1297,0,0.0,Not Placed,Not Placed
+1298,1,4.6,Product Analyst,Service
+1299,1,5.36,Data Analyst,Core
+1300,0,0.0,Not Placed,Not Placed
+1301,0,0.0,Not Placed,Not Placed
+1302,1,5.49,Business Analyst,Consulting
+1303,0,0.0,Not Placed,Not Placed
+1304,1,7.52,Consulting,Consulting
+1305,1,7.07,Software Engineer,Startup
+1306,0,0.0,Not Placed,Not Placed
+1307,0,0.0,Not Placed,Not Placed
+1308,0,0.0,Not Placed,Not Placed
+1309,1,4.21,Consulting,Consulting
+1310,1,6.42,Core Engineering,Core
+1311,1,6.03,Core Engineering,Product
+1312,1,6.58,Business Analyst,Product
+1313,1,5.52,Consulting,Service
+1314,1,7.4,Core Engineering,Product
+1315,0,0.0,Not Placed,Not Placed
+1316,0,0.0,Not Placed,Not Placed
+1317,0,0.0,Not Placed,Not Placed
+1318,0,0.0,Not Placed,Not Placed
+1319,0,0.0,Not Placed,Not Placed
+1320,0,0.0,Not Placed,Not Placed
+1321,1,4.63,Product Analyst,Core
+1322,0,0.0,Not Placed,Not Placed
+1323,0,0.0,Not Placed,Not Placed
+1324,0,0.0,Not Placed,Not Placed
+1325,1,3.0,Product Analyst,Service
+1326,1,7.33,Software Engineer,Consulting
+1327,1,7.19,Software Engineer,Service
+1328,1,7.71,Business Analyst,Consulting
+1329,0,0.0,Not Placed,Not Placed
+1330,0,0.0,Not Placed,Not Placed
+1331,0,0.0,Not Placed,Not Placed
+1332,1,4.87,Consulting,Service
+1333,1,5.97,Consulting,Service
+1334,1,8.55,Data Analyst,Service
+1335,0,0.0,Not Placed,Not Placed
+1336,1,8.3,Software Engineer,Startup
+1337,0,0.0,Not Placed,Not Placed
+1338,1,5.24,Software Engineer,Consulting
+1339,1,3.94,Core Engineering,Service
+1340,0,0.0,Not Placed,Not Placed
+1341,1,6.21,Core Engineering,Product
+1342,0,0.0,Not Placed,Not Placed
+1343,0,0.0,Not Placed,Not Placed
+1344,0,0.0,Not Placed,Not Placed
+1345,0,0.0,Not Placed,Not Placed
+1346,1,6.43,Data Analyst,Service
+1347,0,0.0,Not Placed,Not Placed
+1348,1,6.68,Core Engineering,Product
+1349,1,7.97,Core Engineering,Service
+1350,0,0.0,Not Placed,Not Placed
+1351,0,0.0,Not Placed,Not Placed
+1352,1,7.22,Product Analyst,Product
+1353,1,3.0,Business Analyst,Product
+1354,0,0.0,Not Placed,Not Placed
+1355,0,0.0,Not Placed,Not Placed
+1356,1,8.05,Product Analyst,Consulting
+1357,0,0.0,Not Placed,Not Placed
+1358,0,0.0,Not Placed,Not Placed
+1359,0,0.0,Not Placed,Not Placed
+1360,0,0.0,Not Placed,Not Placed
+1361,1,8.44,Data Analyst,Service
+1362,1,4.76,Core Engineering,Startup
+1363,0,0.0,Not Placed,Not Placed
+1364,0,0.0,Not Placed,Not Placed
+1365,0,0.0,Not Placed,Not Placed
+1366,1,5.94,Software Engineer,Service
+1367,1,5.73,Business Analyst,Service
+1368,1,5.49,Product Analyst,Service
+1369,1,6.9,Core Engineering,Consulting
+1370,0,0.0,Not Placed,Not Placed
+1371,1,6.26,Product Analyst,Service
+1372,1,8.03,Core Engineering,Service
+1373,1,7.52,Product Analyst,Product
+1374,0,0.0,Not Placed,Not Placed
+1375,0,0.0,Not Placed,Not Placed
+1376,0,0.0,Not Placed,Not Placed
+1377,1,6.36,Product Analyst,Startup
+1378,1,10.4,Software Engineer,Product
+1379,0,0.0,Not Placed,Not Placed
+1380,0,0.0,Not Placed,Not Placed
+1381,1,5.06,Software Engineer,Product
+1382,1,5.85,Business Analyst,Service
+1383,1,8.91,Consulting,Service
+1384,0,0.0,Not Placed,Not Placed
+1385,0,0.0,Not Placed,Not Placed
+1386,0,0.0,Not Placed,Not Placed
+1387,0,0.0,Not Placed,Not Placed
+1388,1,4.81,Software Engineer,Startup
+1389,0,0.0,Not Placed,Not Placed
+1390,1,6.61,Business Analyst,Service
+1391,0,0.0,Not Placed,Not Placed
+1392,0,0.0,Not Placed,Not Placed
+1393,0,0.0,Not Placed,Not Placed
+1394,0,0.0,Not Placed,Not Placed
+1395,1,6.12,Core Engineering,Service
+1396,0,0.0,Not Placed,Not Placed
+1397,0,0.0,Not Placed,Not Placed
+1398,1,6.54,Consulting,Consulting
+1399,1,4.71,Business Analyst,Consulting
+1400,1,6.59,Core Engineering,Service
+1401,0,0.0,Not Placed,Not Placed
+1402,1,7.72,Business Analyst,Product
+1403,0,0.0,Not Placed,Not Placed
+1404,0,0.0,Not Placed,Not Placed
+1405,1,7.38,Software Engineer,Core
+1406,1,5.62,Consulting,Startup
+1407,0,0.0,Not Placed,Not Placed
+1408,0,0.0,Not Placed,Not Placed
+1409,0,0.0,Not Placed,Not Placed
+1410,1,5.24,Core Engineering,Startup
+1411,0,0.0,Not Placed,Not Placed
+1412,1,5.28,Core Engineering,Consulting
+1413,1,7.24,Data Analyst,Service
+1414,0,0.0,Not Placed,Not Placed
+1415,1,5.46,Business Analyst,Service
+1416,0,0.0,Not Placed,Not Placed
+1417,0,0.0,Not Placed,Not Placed
+1418,1,5.9,Consulting,Startup
+1419,1,7.02,Software Engineer,Product
+1420,0,0.0,Not Placed,Not Placed
+1421,1,7.63,Software Engineer,Core
+1422,1,5.47,Software Engineer,Consulting
+1423,0,0.0,Not Placed,Not Placed
+1424,0,0.0,Not Placed,Not Placed
+1425,0,0.0,Not Placed,Not Placed
+1426,1,5.69,Data Analyst,Service
+1427,0,0.0,Not Placed,Not Placed
+1428,0,0.0,Not Placed,Not Placed
+1429,1,9.04,Data Analyst,Startup
+1430,0,0.0,Not Placed,Not Placed
+1431,1,4.25,Software Engineer,Service
+1432,1,7.33,Core Engineering,Startup
+1433,1,5.87,Data Analyst,Consulting
+1434,0,0.0,Not Placed,Not Placed
+1435,0,0.0,Not Placed,Not Placed
+1436,0,0.0,Not Placed,Not Placed
+1437,1,6.22,Data Analyst,Service
+1438,0,0.0,Not Placed,Not Placed
+1439,1,5.07,Business Analyst,Core
+1440,1,3.0,Business Analyst,Service
+1441,1,7.84,Data Analyst,Service
+1442,0,0.0,Not Placed,Not Placed
+1443,1,6.49,Product Analyst,Startup
+1444,1,3.0,Consulting,Startup
+1445,0,0.0,Not Placed,Not Placed
+1446,1,8.01,Consulting,Startup
+1447,1,8.59,Core Engineering,Startup
+1448,0,0.0,Not Placed,Not Placed
+1449,0,0.0,Not Placed,Not Placed
+1450,0,0.0,Not Placed,Not Placed
+1451,0,0.0,Not Placed,Not Placed
+1452,0,0.0,Not Placed,Not Placed
+1453,1,5.06,Software Engineer,Service
+1454,0,0.0,Not Placed,Not Placed
+1455,0,0.0,Not Placed,Not Placed
+1456,1,7.47,Consulting,Service
+1457,1,6.64,Consulting,Service
+1458,0,0.0,Not Placed,Not Placed
+1459,1,5.46,Business Analyst,Service
+1460,1,4.84,Business Analyst,Startup
+1461,1,6.08,Product Analyst,Product
+1462,0,0.0,Not Placed,Not Placed
+1463,0,0.0,Not Placed,Not Placed
+1464,0,0.0,Not Placed,Not Placed
+1465,1,4.6,Consulting,Core
+1466,0,0.0,Not Placed,Not Placed
+1467,0,0.0,Not Placed,Not Placed
+1468,1,6.4,Consulting,Service
+1469,1,3.77,Product Analyst,Consulting
+1470,1,8.85,Data Analyst,Consulting
+1471,0,0.0,Not Placed,Not Placed
+1472,0,0.0,Not Placed,Not Placed
+1473,0,0.0,Not Placed,Not Placed
+1474,0,0.0,Not Placed,Not Placed
+1475,1,8.24,Software Engineer,Service
+1476,0,0.0,Not Placed,Not Placed
+1477,1,6.82,Core Engineering,Product
+1478,0,0.0,Not Placed,Not Placed
+1479,1,6.13,Core Engineering,Consulting
+1480,1,5.94,Business Analyst,Consulting
+1481,1,4.31,Software Engineer,Service
+1482,1,6.34,Software Engineer,Startup
+1483,1,7.78,Data Analyst,Consulting
+1484,0,0.0,Not Placed,Not Placed
+1485,0,0.0,Not Placed,Not Placed
+1486,0,0.0,Not Placed,Not Placed
+1487,0,0.0,Not Placed,Not Placed
+1488,0,0.0,Not Placed,Not Placed
+1489,0,0.0,Not Placed,Not Placed
+1490,0,0.0,Not Placed,Not Placed
+1491,0,0.0,Not Placed,Not Placed
+1492,0,0.0,Not Placed,Not Placed
+1493,1,4.61,Core Engineering,Startup
+1494,0,0.0,Not Placed,Not Placed
+1495,1,7.09,Business Analyst,Startup
+1496,0,0.0,Not Placed,Not Placed
+1497,0,0.0,Not Placed,Not Placed
+1498,0,0.0,Not Placed,Not Placed
+1499,1,4.27,Business Analyst,Service
+1500,0,0.0,Not Placed,Not Placed
+1501,0,0.0,Not Placed,Not Placed
+1502,1,6.34,Data Analyst,Consulting
+1503,1,6.54,Core Engineering,Consulting
+1504,1,4.41,Core Engineering,Service
+1505,1,7.5,Data Analyst,Startup
+1506,1,4.64,Product Analyst,Service
+1507,1,3.49,Consulting,Product
+1508,1,3.94,Data Analyst,Service
+1509,1,6.85,Consulting,Service
+1510,1,4.83,Core Engineering,Core
+1511,0,0.0,Not Placed,Not Placed
+1512,0,0.0,Not Placed,Not Placed
+1513,0,0.0,Not Placed,Not Placed
+1514,0,0.0,Not Placed,Not Placed
+1515,1,5.16,Core Engineering,Startup
+1516,0,0.0,Not Placed,Not Placed
+1517,0,0.0,Not Placed,Not Placed
+1518,1,4.85,Data Analyst,Product
+1519,1,4.98,Core Engineering,Product
+1520,1,7.42,Software Engineer,Service
+1521,0,0.0,Not Placed,Not Placed
+1522,1,3.75,Business Analyst,Service
+1523,0,0.0,Not Placed,Not Placed
+1524,0,0.0,Not Placed,Not Placed
+1525,1,4.05,Data Analyst,Service
+1526,0,0.0,Not Placed,Not Placed
+1527,0,0.0,Not Placed,Not Placed
+1528,1,8.85,Data Analyst,Service
+1529,0,0.0,Not Placed,Not Placed
+1530,1,7.62,Product Analyst,Service
+1531,1,11.04,Software Engineer,Service
+1532,0,0.0,Not Placed,Not Placed
+1533,1,5.51,Data Analyst,Service
+1534,0,0.0,Not Placed,Not Placed
+1535,0,0.0,Not Placed,Not Placed
+1536,0,0.0,Not Placed,Not Placed
+1537,1,6.75,Software Engineer,Product
+1538,0,0.0,Not Placed,Not Placed
+1539,1,5.79,Data Analyst,Product
+1540,1,4.27,Consulting,Startup
+1541,1,6.88,Core Engineering,Startup
+1542,0,0.0,Not Placed,Not Placed
+1543,1,8.26,Core Engineering,Consulting
+1544,0,0.0,Not Placed,Not Placed
+1545,0,0.0,Not Placed,Not Placed
+1546,1,3.0,Product Analyst,Core
+1547,0,0.0,Not Placed,Not Placed
+1548,1,4.7,Data Analyst,Consulting
+1549,1,9.22,Core Engineering,Service
+1550,0,0.0,Not Placed,Not Placed
+1551,1,6.87,Software Engineer,Product
+1552,0,0.0,Not Placed,Not Placed
+1553,0,0.0,Not Placed,Not Placed
+1554,1,4.15,Business Analyst,Service
+1555,0,0.0,Not Placed,Not Placed
+1556,0,0.0,Not Placed,Not Placed
+1557,1,5.68,Consulting,Service
+1558,0,0.0,Not Placed,Not Placed
+1559,0,0.0,Not Placed,Not Placed
+1560,0,0.0,Not Placed,Not Placed
+1561,0,0.0,Not Placed,Not Placed
+1562,0,0.0,Not Placed,Not Placed
+1563,1,4.53,Product Analyst,Core
+1564,1,3.36,Core Engineering,Service
+1565,0,0.0,Not Placed,Not Placed
+1566,0,0.0,Not Placed,Not Placed
+1567,0,0.0,Not Placed,Not Placed
+1568,1,5.13,Consulting,Product
+1569,0,0.0,Not Placed,Not Placed
+1570,0,0.0,Not Placed,Not Placed
+1571,0,0.0,Not Placed,Not Placed
+1572,1,9.47,Core Engineering,Consulting
+1573,1,3.16,Software Engineer,Core
+1574,0,0.0,Not Placed,Not Placed
+1575,0,0.0,Not Placed,Not Placed
+1576,0,0.0,Not Placed,Not Placed
+1577,1,9.06,Product Analyst,Service
+1578,1,5.4,Consulting,Service
+1579,1,4.92,Software Engineer,Service
+1580,1,5.2,Data Analyst,Service
+1581,0,0.0,Not Placed,Not Placed
+1582,0,0.0,Not Placed,Not Placed
+1583,1,6.66,Software Engineer,Service
+1584,0,0.0,Not Placed,Not Placed
+1585,1,5.08,Data Analyst,Service
+1586,1,7.29,Core Engineering,Consulting
+1587,0,0.0,Not Placed,Not Placed
+1588,0,0.0,Not Placed,Not Placed
+1589,1,7.63,Product Analyst,Core
+1590,0,0.0,Not Placed,Not Placed
+1591,0,0.0,Not Placed,Not Placed
+1592,0,0.0,Not Placed,Not Placed
+1593,1,4.94,Core Engineering,Product
+1594,0,0.0,Not Placed,Not Placed
+1595,0,0.0,Not Placed,Not Placed
+1596,0,0.0,Not Placed,Not Placed
+1597,1,5.75,Software Engineer,Service
+1598,0,0.0,Not Placed,Not Placed
+1599,0,0.0,Not Placed,Not Placed
+1600,1,6.06,Consulting,Consulting
+1601,0,0.0,Not Placed,Not Placed
+1602,0,0.0,Not Placed,Not Placed
+1603,0,0.0,Not Placed,Not Placed
+1604,0,0.0,Not Placed,Not Placed
+1605,0,0.0,Not Placed,Not Placed
+1606,0,0.0,Not Placed,Not Placed
+1607,1,5.68,Data Analyst,Startup
+1608,1,5.98,Data Analyst,Service
+1609,0,0.0,Not Placed,Not Placed
+1610,1,5.18,Product Analyst,Startup
+1611,0,0.0,Not Placed,Not Placed
+1612,0,0.0,Not Placed,Not Placed
+1613,0,0.0,Not Placed,Not Placed
+1614,0,0.0,Not Placed,Not Placed
+1615,1,3.78,Consulting,Product
+1616,1,8.38,Consulting,Service
+1617,0,0.0,Not Placed,Not Placed
+1618,0,0.0,Not Placed,Not Placed
+1619,0,0.0,Not Placed,Not Placed
+1620,0,0.0,Not Placed,Not Placed
+1621,0,0.0,Not Placed,Not Placed
+1622,1,6.18,Product Analyst,Startup
+1623,1,6.37,Product Analyst,Service
+1624,1,6.55,Data Analyst,Core
+1625,1,6.27,Consulting,Startup
+1626,0,0.0,Not Placed,Not Placed
+1627,0,0.0,Not Placed,Not Placed
+1628,0,0.0,Not Placed,Not Placed
+1629,1,5.51,Product Analyst,Startup
+1630,0,0.0,Not Placed,Not Placed
+1631,1,4.81,Data Analyst,Product
+1632,0,0.0,Not Placed,Not Placed
+1633,1,8.65,Core Engineering,Consulting
+1634,1,6.69,Software Engineer,Startup
+1635,0,0.0,Not Placed,Not Placed
+1636,1,5.37,Core Engineering,Service
+1637,0,0.0,Not Placed,Not Placed
+1638,0,0.0,Not Placed,Not Placed
+1639,0,0.0,Not Placed,Not Placed
+1640,0,0.0,Not Placed,Not Placed
+1641,0,0.0,Not Placed,Not Placed
+1642,0,0.0,Not Placed,Not Placed
+1643,1,6.85,Business Analyst,Service
+1644,1,5.44,Business Analyst,Core
+1645,0,0.0,Not Placed,Not Placed
+1646,0,0.0,Not Placed,Not Placed
+1647,0,0.0,Not Placed,Not Placed
+1648,0,0.0,Not Placed,Not Placed
+1649,0,0.0,Not Placed,Not Placed
+1650,1,6.26,Software Engineer,Service
+1651,0,0.0,Not Placed,Not Placed
+1652,1,5.39,Consulting,Startup
+1653,1,4.37,Consulting,Product
+1654,1,7.41,Data Analyst,Service
+1655,1,6.19,Consulting,Core
+1656,1,7.82,Software Engineer,Service
+1657,1,7.88,Software Engineer,Consulting
+1658,1,8.73,Software Engineer,Core
+1659,0,0.0,Not Placed,Not Placed
+1660,1,7.37,Data Analyst,Service
+1661,1,4.34,Software Engineer,Service
+1662,0,0.0,Not Placed,Not Placed
+1663,0,0.0,Not Placed,Not Placed
+1664,1,5.06,Core Engineering,Product
+1665,1,3.55,Core Engineering,Product
+1666,0,0.0,Not Placed,Not Placed
+1667,1,7.11,Consulting,Core
+1668,0,0.0,Not Placed,Not Placed
+1669,0,0.0,Not Placed,Not Placed
+1670,1,7.7,Software Engineer,Startup
+1671,0,0.0,Not Placed,Not Placed
+1672,1,6.52,Product Analyst,Startup
+1673,1,4.73,Consulting,Product
+1674,1,5.21,Data Analyst,Product
+1675,0,0.0,Not Placed,Not Placed
+1676,0,0.0,Not Placed,Not Placed
+1677,0,0.0,Not Placed,Not Placed
+1678,0,0.0,Not Placed,Not Placed
+1679,1,6.0,Product Analyst,Product
+1680,0,0.0,Not Placed,Not Placed
+1681,1,8.41,Software Engineer,Core
+1682,0,0.0,Not Placed,Not Placed
+1683,1,7.18,Consulting,Service
+1684,0,0.0,Not Placed,Not Placed
+1685,0,0.0,Not Placed,Not Placed
+1686,1,7.05,Consulting,Product
+1687,1,6.68,Software Engineer,Consulting
+1688,0,0.0,Not Placed,Not Placed
+1689,0,0.0,Not Placed,Not Placed
+1690,1,4.89,Core Engineering,Consulting
+1691,0,0.0,Not Placed,Not Placed
+1692,1,6.47,Consulting,Startup
+1693,1,6.16,Software Engineer,Service
+1694,0,0.0,Not Placed,Not Placed
+1695,1,8.35,Core Engineering,Product
+1696,0,0.0,Not Placed,Not Placed
+1697,1,7.06,Business Analyst,Consulting
+1698,0,0.0,Not Placed,Not Placed
+1699,1,6.14,Core Engineering,Startup
+1700,1,3.92,Product Analyst,Consulting
+1701,1,3.0,Business Analyst,Product
+1702,0,0.0,Not Placed,Not Placed
+1703,0,0.0,Not Placed,Not Placed
+1704,1,5.13,Software Engineer,Startup
+1705,1,3.56,Core Engineering,Product
+1706,1,7.01,Product Analyst,Service
+1707,1,4.65,Data Analyst,Product
+1708,0,0.0,Not Placed,Not Placed
+1709,0,0.0,Not Placed,Not Placed
+1710,0,0.0,Not Placed,Not Placed
+1711,0,0.0,Not Placed,Not Placed
+1712,0,0.0,Not Placed,Not Placed
+1713,1,7.92,Consulting,Consulting
+1714,0,0.0,Not Placed,Not Placed
+1715,0,0.0,Not Placed,Not Placed
+1716,1,7.63,Core Engineering,Consulting
+1717,1,8.87,Software Engineer,Core
+1718,1,3.53,Product Analyst,Core
+1719,0,0.0,Not Placed,Not Placed
+1720,1,5.16,Business Analyst,Core
+1721,1,6.33,Product Analyst,Startup
+1722,0,0.0,Not Placed,Not Placed
+1723,0,0.0,Not Placed,Not Placed
+1724,0,0.0,Not Placed,Not Placed
+1725,0,0.0,Not Placed,Not Placed
+1726,1,6.57,Data Analyst,Service
+1727,1,7.36,Business Analyst,Consulting
+1728,0,0.0,Not Placed,Not Placed
+1729,1,9.81,Software Engineer,Consulting
+1730,1,10.38,Product Analyst,Startup
+1731,1,7.07,Consulting,Service
+1732,0,0.0,Not Placed,Not Placed
+1733,0,0.0,Not Placed,Not Placed
+1734,0,0.0,Not Placed,Not Placed
+1735,0,0.0,Not Placed,Not Placed
+1736,0,0.0,Not Placed,Not Placed
+1737,1,5.49,Software Engineer,Service
+1738,0,0.0,Not Placed,Not Placed
+1739,0,0.0,Not Placed,Not Placed
+1740,1,7.64,Software Engineer,Product
+1741,0,0.0,Not Placed,Not Placed
+1742,0,0.0,Not Placed,Not Placed
+1743,0,0.0,Not Placed,Not Placed
+1744,0,0.0,Not Placed,Not Placed
+1745,0,0.0,Not Placed,Not Placed
+1746,1,5.04,Product Analyst,Startup
+1747,1,4.79,Business Analyst,Core
+1748,0,0.0,Not Placed,Not Placed
+1749,0,0.0,Not Placed,Not Placed
+1750,0,0.0,Not Placed,Not Placed
+1751,0,0.0,Not Placed,Not Placed
+1752,1,4.96,Core Engineering,Service
+1753,1,7.02,Product Analyst,Product
+1754,1,4.72,Product Analyst,Product
+1755,0,0.0,Not Placed,Not Placed
+1756,0,0.0,Not Placed,Not Placed
+1757,0,0.0,Not Placed,Not Placed
+1758,1,7.01,Business Analyst,Core
+1759,0,0.0,Not Placed,Not Placed
+1760,0,0.0,Not Placed,Not Placed
+1761,0,0.0,Not Placed,Not Placed
+1762,1,6.39,Business Analyst,Core
+1763,1,9.04,Data Analyst,Product
+1764,0,0.0,Not Placed,Not Placed
+1765,0,0.0,Not Placed,Not Placed
+1766,1,5.14,Consulting,Service
+1767,0,0.0,Not Placed,Not Placed
+1768,0,0.0,Not Placed,Not Placed
+1769,0,0.0,Not Placed,Not Placed
+1770,0,0.0,Not Placed,Not Placed
+1771,0,0.0,Not Placed,Not Placed
+1772,0,0.0,Not Placed,Not Placed
+1773,0,0.0,Not Placed,Not Placed
+1774,1,6.99,Software Engineer,Service
+1775,0,0.0,Not Placed,Not Placed
+1776,0,0.0,Not Placed,Not Placed
+1777,0,0.0,Not Placed,Not Placed
+1778,1,5.98,Consulting,Startup
+1779,1,5.55,Core Engineering,Core
+1780,1,8.14,Software Engineer,Startup
+1781,0,0.0,Not Placed,Not Placed
+1782,0,0.0,Not Placed,Not Placed
+1783,0,0.0,Not Placed,Not Placed
+1784,0,0.0,Not Placed,Not Placed
+1785,1,6.23,Product Analyst,Consulting
+1786,0,0.0,Not Placed,Not Placed
+1787,1,6.15,Data Analyst,Service
+1788,1,8.13,Consulting,Product
+1789,0,0.0,Not Placed,Not Placed
+1790,1,4.29,Software Engineer,Service
+1791,0,0.0,Not Placed,Not Placed
+1792,1,8.92,Product Analyst,Service
+1793,0,0.0,Not Placed,Not Placed
+1794,1,4.59,Data Analyst,Product
+1795,1,6.59,Business Analyst,Product
+1796,0,0.0,Not Placed,Not Placed
+1797,0,0.0,Not Placed,Not Placed
+1798,0,0.0,Not Placed,Not Placed
+1799,1,5.88,Product Analyst,Startup
+1800,1,6.06,Software Engineer,Product
+1801,0,0.0,Not Placed,Not Placed
+1802,1,6.55,Software Engineer,Service
+1803,1,4.9,Data Analyst,Startup
+1804,1,4.93,Consulting,Service
+1805,1,7.64,Core Engineering,Core
+1806,0,0.0,Not Placed,Not Placed
+1807,1,6.92,Software Engineer,Consulting
+1808,0,0.0,Not Placed,Not Placed
+1809,0,0.0,Not Placed,Not Placed
+1810,1,5.99,Software Engineer,Service
+1811,0,0.0,Not Placed,Not Placed
+1812,1,6.85,Consulting,Startup
+1813,0,0.0,Not Placed,Not Placed
+1814,0,0.0,Not Placed,Not Placed
+1815,0,0.0,Not Placed,Not Placed
+1816,0,0.0,Not Placed,Not Placed
+1817,1,5.89,Software Engineer,Service
+1818,0,0.0,Not Placed,Not Placed
+1819,0,0.0,Not Placed,Not Placed
+1820,1,6.1,Product Analyst,Service
+1821,0,0.0,Not Placed,Not Placed
+1822,0,0.0,Not Placed,Not Placed
+1823,0,0.0,Not Placed,Not Placed
+1824,0,0.0,Not Placed,Not Placed
+1825,0,0.0,Not Placed,Not Placed
+1826,0,0.0,Not Placed,Not Placed
+1827,1,4.22,Software Engineer,Startup
+1828,0,0.0,Not Placed,Not Placed
+1829,0,0.0,Not Placed,Not Placed
+1830,0,0.0,Not Placed,Not Placed
+1831,0,0.0,Not Placed,Not Placed
+1832,0,0.0,Not Placed,Not Placed
+1833,1,8.37,Core Engineering,Product
+1834,1,5.1,Core Engineering,Startup
+1835,0,0.0,Not Placed,Not Placed
+1836,0,0.0,Not Placed,Not Placed
+1837,0,0.0,Not Placed,Not Placed
+1838,1,7.22,Consulting,Consulting
+1839,0,0.0,Not Placed,Not Placed
+1840,0,0.0,Not Placed,Not Placed
+1841,0,0.0,Not Placed,Not Placed
+1842,0,0.0,Not Placed,Not Placed
+1843,0,0.0,Not Placed,Not Placed
+1844,0,0.0,Not Placed,Not Placed
+1845,0,0.0,Not Placed,Not Placed
+1846,0,0.0,Not Placed,Not Placed
+1847,0,0.0,Not Placed,Not Placed
+1848,0,0.0,Not Placed,Not Placed
+1849,0,0.0,Not Placed,Not Placed
+1850,1,7.51,Data Analyst,Service
+1851,1,7.62,Core Engineering,Product
+1852,1,6.5,Data Analyst,Startup
+1853,1,4.51,Consulting,Service
+1854,0,0.0,Not Placed,Not Placed
+1855,0,0.0,Not Placed,Not Placed
+1856,0,0.0,Not Placed,Not Placed
+1857,0,0.0,Not Placed,Not Placed
+1858,0,0.0,Not Placed,Not Placed
+1859,0,0.0,Not Placed,Not Placed
+1860,0,0.0,Not Placed,Not Placed
+1861,1,6.55,Core Engineering,Product
+1862,0,0.0,Not Placed,Not Placed
+1863,1,7.15,Core Engineering,Core
+1864,0,0.0,Not Placed,Not Placed
+1865,0,0.0,Not Placed,Not Placed
+1866,0,0.0,Not Placed,Not Placed
+1867,1,5.97,Business Analyst,Service
+1868,1,4.4,Data Analyst,Service
+1869,0,0.0,Not Placed,Not Placed
+1870,0,0.0,Not Placed,Not Placed
+1871,0,0.0,Not Placed,Not Placed
+1872,1,4.62,Software Engineer,Product
+1873,0,0.0,Not Placed,Not Placed
+1874,0,0.0,Not Placed,Not Placed
+1875,1,7.59,Core Engineering,Startup
+1876,1,5.21,Consulting,Startup
+1877,1,7.37,Consulting,Consulting
+1878,1,3.0,Core Engineering,Product
+1879,0,0.0,Not Placed,Not Placed
+1880,0,0.0,Not Placed,Not Placed
+1881,1,7.08,Business Analyst,Service
+1882,1,5.77,Software Engineer,Startup
+1883,1,3.0,Software Engineer,Consulting
+1884,0,0.0,Not Placed,Not Placed
+1885,1,3.72,Core Engineering,Service
+1886,0,0.0,Not Placed,Not Placed
+1887,0,0.0,Not Placed,Not Placed
+1888,1,5.47,Consulting,Service
+1889,1,7.91,Data Analyst,Service
+1890,0,0.0,Not Placed,Not Placed
+1891,1,11.09,Data Analyst,Product
+1892,1,3.92,Software Engineer,Consulting
+1893,0,0.0,Not Placed,Not Placed
+1894,1,4.3,Business Analyst,Service
+1895,0,0.0,Not Placed,Not Placed
+1896,1,4.87,Consulting,Service
+1897,0,0.0,Not Placed,Not Placed
+1898,1,7.88,Product Analyst,Consulting
+1899,1,8.46,Business Analyst,Product
+1900,0,0.0,Not Placed,Not Placed
+1901,0,0.0,Not Placed,Not Placed
+1902,1,5.12,Consulting,Product
+1903,0,0.0,Not Placed,Not Placed
+1904,1,4.11,Business Analyst,Service
+1905,1,4.42,Product Analyst,Startup
+1906,0,0.0,Not Placed,Not Placed
+1907,1,3.73,Software Engineer,Product
+1908,1,7.82,Product Analyst,Service
+1909,0,0.0,Not Placed,Not Placed
+1910,0,0.0,Not Placed,Not Placed
+1911,1,9.81,Software Engineer,Product
+1912,0,0.0,Not Placed,Not Placed
+1913,1,3.78,Product Analyst,Service
+1914,1,7.51,Software Engineer,Service
+1915,1,4.19,Product Analyst,Core
+1916,0,0.0,Not Placed,Not Placed
+1917,1,6.28,Data Analyst,Product
+1918,0,0.0,Not Placed,Not Placed
+1919,0,0.0,Not Placed,Not Placed
+1920,1,6.68,Business Analyst,Service
+1921,1,5.39,Software Engineer,Service
+1922,0,0.0,Not Placed,Not Placed
+1923,1,3.0,Data Analyst,Core
+1924,1,7.16,Business Analyst,Service
+1925,1,10.28,Product Analyst,Startup
+1926,1,6.43,Consulting,Core
+1927,0,0.0,Not Placed,Not Placed
+1928,0,0.0,Not Placed,Not Placed
+1929,1,11.05,Data Analyst,Service
+1930,1,5.33,Consulting,Service
+1931,1,6.95,Core Engineering,Core
+1932,0,0.0,Not Placed,Not Placed
+1933,0,0.0,Not Placed,Not Placed
+1934,1,7.47,Data Analyst,Product
+1935,0,0.0,Not Placed,Not Placed
+1936,1,4.6,Business Analyst,Product
+1937,0,0.0,Not Placed,Not Placed
+1938,0,0.0,Not Placed,Not Placed
+1939,0,0.0,Not Placed,Not Placed
+1940,1,6.77,Data Analyst,Product
+1941,0,0.0,Not Placed,Not Placed
+1942,0,0.0,Not Placed,Not Placed
+1943,0,0.0,Not Placed,Not Placed
+1944,1,8.51,Product Analyst,Core
+1945,1,7.34,Core Engineering,Startup
+1946,0,0.0,Not Placed,Not Placed
+1947,0,0.0,Not Placed,Not Placed
+1948,1,7.91,Data Analyst,Core
+1949,1,7.53,Business Analyst,Product
+1950,0,0.0,Not Placed,Not Placed
+1951,1,9.46,Business Analyst,Product
+1952,0,0.0,Not Placed,Not Placed
+1953,1,8.69,Core Engineering,Startup
+1954,1,6.84,Data Analyst,Consulting
+1955,0,0.0,Not Placed,Not Placed
+1956,1,6.68,Core Engineering,Product
+1957,0,0.0,Not Placed,Not Placed
+1958,1,7.01,Software Engineer,Service
+1959,1,6.11,Business Analyst,Product
+1960,0,0.0,Not Placed,Not Placed
+1961,0,0.0,Not Placed,Not Placed
+1962,1,6.86,Business Analyst,Service
+1963,0,0.0,Not Placed,Not Placed
+1964,1,3.76,Software Engineer,Product
+1965,1,8.31,Product Analyst,Service
+1966,0,0.0,Not Placed,Not Placed
+1967,0,0.0,Not Placed,Not Placed
+1968,0,0.0,Not Placed,Not Placed
+1969,1,4.84,Data Analyst,Product
+1970,0,0.0,Not Placed,Not Placed
+1971,1,6.94,Business Analyst,Core
+1972,0,0.0,Not Placed,Not Placed
+1973,0,0.0,Not Placed,Not Placed
+1974,1,5.25,Business Analyst,Service
+1975,0,0.0,Not Placed,Not Placed
+1976,0,0.0,Not Placed,Not Placed
+1977,1,6.36,Software Engineer,Consulting
+1978,1,6.06,Consulting,Service
+1979,0,0.0,Not Placed,Not Placed
+1980,0,0.0,Not Placed,Not Placed
+1981,1,5.46,Consulting,Consulting
+1982,1,3.75,Business Analyst,Startup
+1983,0,0.0,Not Placed,Not Placed
+1984,0,0.0,Not Placed,Not Placed
+1985,1,7.4,Business Analyst,Product
+1986,1,5.4,Core Engineering,Consulting
+1987,1,6.46,Business Analyst,Product
+1988,0,0.0,Not Placed,Not Placed
+1989,1,6.19,Data Analyst,Service
+1990,0,0.0,Not Placed,Not Placed
+1991,1,6.03,Consulting,Service
+1992,1,5.83,Software Engineer,Startup
+1993,0,0.0,Not Placed,Not Placed
+1994,0,0.0,Not Placed,Not Placed
+1995,0,0.0,Not Placed,Not Placed
+1996,1,5.73,Core Engineering,Service
+1997,1,5.17,Product Analyst,Consulting
+1998,0,0.0,Not Placed,Not Placed
+1999,1,5.37,Product Analyst,Service
+2000,0,0.0,Not Placed,Not Placed
+2001,1,5.23,Data Analyst,Consulting
+2002,1,6.81,Product Analyst,Service
+2003,1,6.4,Data Analyst,Consulting
+2004,0,0.0,Not Placed,Not Placed
+2005,0,0.0,Not Placed,Not Placed
+2006,0,0.0,Not Placed,Not Placed
+2007,0,0.0,Not Placed,Not Placed
+2008,0,0.0,Not Placed,Not Placed
+2009,0,0.0,Not Placed,Not Placed
+2010,1,4.43,Product Analyst,Core
+2011,1,6.16,Consulting,Startup
+2012,0,0.0,Not Placed,Not Placed
+2013,0,0.0,Not Placed,Not Placed
+2014,0,0.0,Not Placed,Not Placed
+2015,1,6.32,Software Engineer,Service
+2016,1,7.79,Core Engineering,Product
+2017,1,6.22,Software Engineer,Startup
+2018,1,4.87,Product Analyst,Service
+2019,1,5.29,Software Engineer,Service
+2020,0,0.0,Not Placed,Not Placed
+2021,0,0.0,Not Placed,Not Placed
+2022,1,5.24,Core Engineering,Startup
+2023,1,7.73,Software Engineer,Startup
+2024,1,4.66,Software Engineer,Product
+2025,0,0.0,Not Placed,Not Placed
+2026,1,6.45,Core Engineering,Product
+2027,1,8.39,Business Analyst,Product
+2028,1,6.37,Consulting,Core
+2029,0,0.0,Not Placed,Not Placed
+2030,0,0.0,Not Placed,Not Placed
+2031,0,0.0,Not Placed,Not Placed
+2032,1,4.83,Product Analyst,Startup
+2033,0,0.0,Not Placed,Not Placed
+2034,1,5.44,Core Engineering,Service
+2035,1,5.63,Core Engineering,Startup
+2036,0,0.0,Not Placed,Not Placed
+2037,1,7.64,Business Analyst,Startup
+2038,0,0.0,Not Placed,Not Placed
+2039,1,6.55,Software Engineer,Service
+2040,1,9.78,Core Engineering,Service
+2041,0,0.0,Not Placed,Not Placed
+2042,0,0.0,Not Placed,Not Placed
+2043,1,6.74,Data Analyst,Core
+2044,1,6.76,Consulting,Service
+2045,0,0.0,Not Placed,Not Placed
+2046,0,0.0,Not Placed,Not Placed
+2047,0,0.0,Not Placed,Not Placed
+2048,0,0.0,Not Placed,Not Placed
+2049,0,0.0,Not Placed,Not Placed
+2050,0,0.0,Not Placed,Not Placed
+2051,0,0.0,Not Placed,Not Placed
+2052,1,6.46,Software Engineer,Service
+2053,0,0.0,Not Placed,Not Placed
+2054,1,10.85,Business Analyst,Product
+2055,1,7.58,Data Analyst,Service
+2056,0,0.0,Not Placed,Not Placed
+2057,0,0.0,Not Placed,Not Placed
+2058,0,0.0,Not Placed,Not Placed
+2059,0,0.0,Not Placed,Not Placed
+2060,0,0.0,Not Placed,Not Placed
+2061,0,0.0,Not Placed,Not Placed
+2062,0,0.0,Not Placed,Not Placed
+2063,1,4.73,Consulting,Service
+2064,0,0.0,Not Placed,Not Placed
+2065,1,7.34,Product Analyst,Service
+2066,0,0.0,Not Placed,Not Placed
+2067,0,0.0,Not Placed,Not Placed
+2068,0,0.0,Not Placed,Not Placed
+2069,0,0.0,Not Placed,Not Placed
+2070,1,5.22,Data Analyst,Product
+2071,1,5.54,Data Analyst,Product
+2072,1,6.77,Business Analyst,Consulting
+2073,0,0.0,Not Placed,Not Placed
+2074,1,3.0,Business Analyst,Product
+2075,0,0.0,Not Placed,Not Placed
+2076,1,5.62,Product Analyst,Service
+2077,0,0.0,Not Placed,Not Placed
+2078,1,4.46,Software Engineer,Service
+2079,0,0.0,Not Placed,Not Placed
+2080,0,0.0,Not Placed,Not Placed
+2081,0,0.0,Not Placed,Not Placed
+2082,0,0.0,Not Placed,Not Placed
+2083,1,6.12,Core Engineering,Service
+2084,0,0.0,Not Placed,Not Placed
+2085,1,6.06,Product Analyst,Service
+2086,0,0.0,Not Placed,Not Placed
+2087,1,6.89,Business Analyst,Service
+2088,0,0.0,Not Placed,Not Placed
+2089,0,0.0,Not Placed,Not Placed
+2090,0,0.0,Not Placed,Not Placed
+2091,1,4.66,Core Engineering,Consulting
+2092,0,0.0,Not Placed,Not Placed
+2093,0,0.0,Not Placed,Not Placed
+2094,0,0.0,Not Placed,Not Placed
+2095,1,6.0,Business Analyst,Consulting
+2096,1,6.72,Software Engineer,Service
+2097,0,0.0,Not Placed,Not Placed
+2098,1,7.55,Software Engineer,Core
+2099,1,5.59,Data Analyst,Service
+2100,0,0.0,Not Placed,Not Placed
+2101,0,0.0,Not Placed,Not Placed
+2102,1,3.0,Consulting,Service
+2103,1,4.98,Core Engineering,Product
+2104,1,3.26,Product Analyst,Service
+2105,0,0.0,Not Placed,Not Placed
+2106,0,0.0,Not Placed,Not Placed
+2107,1,5.24,Core Engineering,Service
+2108,0,0.0,Not Placed,Not Placed
+2109,0,0.0,Not Placed,Not Placed
+2110,0,0.0,Not Placed,Not Placed
+2111,0,0.0,Not Placed,Not Placed
+2112,0,0.0,Not Placed,Not Placed
+2113,1,4.4,Consulting,Service
+2114,1,8.5,Product Analyst,Service
+2115,1,5.52,Business Analyst,Service
+2116,0,0.0,Not Placed,Not Placed
+2117,1,3.98,Product Analyst,Product
+2118,1,5.49,Product Analyst,Product
+2119,1,5.8,Consulting,Product
+2120,1,5.13,Consulting,Consulting
+2121,1,7.48,Core Engineering,Consulting
+2122,0,0.0,Not Placed,Not Placed
+2123,0,0.0,Not Placed,Not Placed
+2124,1,3.66,Data Analyst,Startup
+2125,1,6.32,Software Engineer,Core
+2126,1,7.84,Business Analyst,Product
+2127,0,0.0,Not Placed,Not Placed
+2128,0,0.0,Not Placed,Not Placed
+2129,0,0.0,Not Placed,Not Placed
+2130,1,7.07,Product Analyst,Service
+2131,1,7.48,Consulting,Service
+2132,0,0.0,Not Placed,Not Placed
+2133,0,0.0,Not Placed,Not Placed
+2134,1,6.47,Data Analyst,Service
+2135,1,6.55,Consulting,Service
+2136,1,7.62,Data Analyst,Product
+2137,1,5.81,Software Engineer,Core
+2138,1,5.57,Product Analyst,Startup
+2139,1,3.99,Business Analyst,Service
+2140,1,6.2,Business Analyst,Startup
+2141,1,5.01,Software Engineer,Service
+2142,1,7.38,Data Analyst,Service
+2143,0,0.0,Not Placed,Not Placed
+2144,0,0.0,Not Placed,Not Placed
+2145,0,0.0,Not Placed,Not Placed
+2146,0,0.0,Not Placed,Not Placed
+2147,1,9.0,Software Engineer,Service
+2148,0,0.0,Not Placed,Not Placed
+2149,0,0.0,Not Placed,Not Placed
+2150,1,7.03,Consulting,Startup
+2151,0,0.0,Not Placed,Not Placed
+2152,0,0.0,Not Placed,Not Placed
+2153,1,4.88,Product Analyst,Service
+2154,0,0.0,Not Placed,Not Placed
+2155,1,4.77,Data Analyst,Startup
+2156,0,0.0,Not Placed,Not Placed
+2157,0,0.0,Not Placed,Not Placed
+2158,1,5.1,Data Analyst,Service
+2159,0,0.0,Not Placed,Not Placed
+2160,0,0.0,Not Placed,Not Placed
+2161,1,5.26,Consulting,Product
+2162,1,4.85,Consulting,Service
+2163,0,0.0,Not Placed,Not Placed
+2164,0,0.0,Not Placed,Not Placed
+2165,1,4.01,Software Engineer,Product
+2166,0,0.0,Not Placed,Not Placed
+2167,0,0.0,Not Placed,Not Placed
+2168,0,0.0,Not Placed,Not Placed
+2169,1,4.8,Software Engineer,Startup
+2170,0,0.0,Not Placed,Not Placed
+2171,1,4.7,Core Engineering,Service
+2172,1,6.32,Consulting,Core
+2173,0,0.0,Not Placed,Not Placed
+2174,1,6.06,Data Analyst,Service
+2175,1,6.46,Consulting,Startup
+2176,1,6.96,Data Analyst,Core
+2177,1,7.82,Software Engineer,Product
+2178,0,0.0,Not Placed,Not Placed
+2179,1,6.61,Software Engineer,Service
+2180,0,0.0,Not Placed,Not Placed
+2181,1,5.95,Product Analyst,Product
+2182,0,0.0,Not Placed,Not Placed
+2183,1,5.1,Product Analyst,Service
+2184,1,6.45,Core Engineering,Service
+2185,0,0.0,Not Placed,Not Placed
+2186,0,0.0,Not Placed,Not Placed
+2187,1,3.37,Core Engineering,Consulting
+2188,0,0.0,Not Placed,Not Placed
+2189,1,8.16,Business Analyst,Product
+2190,1,4.94,Software Engineer,Product
+2191,1,6.58,Core Engineering,Service
+2192,1,4.33,Consulting,Product
+2193,0,0.0,Not Placed,Not Placed
+2194,1,11.94,Core Engineering,Service
+2195,0,0.0,Not Placed,Not Placed
+2196,0,0.0,Not Placed,Not Placed
+2197,1,6.97,Software Engineer,Service
+2198,1,5.8,Core Engineering,Product
+2199,0,0.0,Not Placed,Not Placed
+2200,0,0.0,Not Placed,Not Placed
+2201,1,6.03,Core Engineering,Startup
+2202,1,8.02,Business Analyst,Startup
+2203,1,5.67,Product Analyst,Consulting
+2204,0,0.0,Not Placed,Not Placed
+2205,1,6.76,Data Analyst,Service
+2206,1,5.34,Business Analyst,Service
+2207,0,0.0,Not Placed,Not Placed
+2208,0,0.0,Not Placed,Not Placed
+2209,1,3.0,Business Analyst,Startup
+2210,1,6.38,Product Analyst,Product
+2211,1,7.05,Consulting,Product
+2212,1,7.18,Business Analyst,Consulting
+2213,0,0.0,Not Placed,Not Placed
+2214,0,0.0,Not Placed,Not Placed
+2215,1,3.79,Product Analyst,Consulting
+2216,0,0.0,Not Placed,Not Placed
+2217,1,5.34,Data Analyst,Service
+2218,0,0.0,Not Placed,Not Placed
+2219,1,7.85,Core Engineering,Consulting
+2220,1,4.49,Software Engineer,Consulting
+2221,1,3.99,Core Engineering,Consulting
+2222,0,0.0,Not Placed,Not Placed
+2223,0,0.0,Not Placed,Not Placed
+2224,0,0.0,Not Placed,Not Placed
+2225,1,6.4,Business Analyst,Startup
+2226,1,6.12,Business Analyst,Startup
+2227,0,0.0,Not Placed,Not Placed
+2228,0,0.0,Not Placed,Not Placed
+2229,0,0.0,Not Placed,Not Placed
+2230,0,0.0,Not Placed,Not Placed
+2231,1,4.4,Software Engineer,Service
+2232,1,3.88,Product Analyst,Service
+2233,1,4.29,Product Analyst,Service
+2234,0,0.0,Not Placed,Not Placed
+2235,1,6.98,Consulting,Product
+2236,0,0.0,Not Placed,Not Placed
+2237,1,6.34,Business Analyst,Service
+2238,0,0.0,Not Placed,Not Placed
+2239,0,0.0,Not Placed,Not Placed
+2240,1,6.2,Consulting,Core
+2241,1,8.11,Product Analyst,Startup
+2242,0,0.0,Not Placed,Not Placed
+2243,0,0.0,Not Placed,Not Placed
+2244,0,0.0,Not Placed,Not Placed
+2245,0,0.0,Not Placed,Not Placed
+2246,0,0.0,Not Placed,Not Placed
+2247,0,0.0,Not Placed,Not Placed
+2248,1,7.48,Business Analyst,Service
+2249,0,0.0,Not Placed,Not Placed
+2250,0,0.0,Not Placed,Not Placed
+2251,0,0.0,Not Placed,Not Placed
+2252,0,0.0,Not Placed,Not Placed
+2253,0,0.0,Not Placed,Not Placed
+2254,1,8.53,Business Analyst,Service
+2255,1,8.37,Consulting,Product
+2256,0,0.0,Not Placed,Not Placed
+2257,0,0.0,Not Placed,Not Placed
+2258,0,0.0,Not Placed,Not Placed
+2259,0,0.0,Not Placed,Not Placed
+2260,0,0.0,Not Placed,Not Placed
+2261,1,6.54,Software Engineer,Product
+2262,0,0.0,Not Placed,Not Placed
+2263,1,5.52,Software Engineer,Service
+2264,1,5.66,Software Engineer,Product
+2265,0,0.0,Not Placed,Not Placed
+2266,0,0.0,Not Placed,Not Placed
+2267,0,0.0,Not Placed,Not Placed
+2268,0,0.0,Not Placed,Not Placed
+2269,0,0.0,Not Placed,Not Placed
+2270,0,0.0,Not Placed,Not Placed
+2271,0,0.0,Not Placed,Not Placed
+2272,1,5.15,Product Analyst,Startup
+2273,0,0.0,Not Placed,Not Placed
+2274,0,0.0,Not Placed,Not Placed
+2275,1,12.91,Business Analyst,Service
+2276,0,0.0,Not Placed,Not Placed
+2277,1,6.03,Core Engineering,Consulting
+2278,0,0.0,Not Placed,Not Placed
+2279,1,7.4,Product Analyst,Service
+2280,1,7.38,Software Engineer,Service
+2281,0,0.0,Not Placed,Not Placed
+2282,0,0.0,Not Placed,Not Placed
+2283,1,6.53,Consulting,Product
+2284,0,0.0,Not Placed,Not Placed
+2285,1,9.17,Software Engineer,Consulting
+2286,0,0.0,Not Placed,Not Placed
+2287,1,3.97,Data Analyst,Product
+2288,0,0.0,Not Placed,Not Placed
+2289,0,0.0,Not Placed,Not Placed
+2290,1,5.9,Core Engineering,Startup
+2291,1,5.97,Business Analyst,Service
+2292,0,0.0,Not Placed,Not Placed
+2293,0,0.0,Not Placed,Not Placed
+2294,0,0.0,Not Placed,Not Placed
+2295,0,0.0,Not Placed,Not Placed
+2296,0,0.0,Not Placed,Not Placed
+2297,0,0.0,Not Placed,Not Placed
+2298,1,4.2,Product Analyst,Service
+2299,1,6.56,Business Analyst,Core
+2300,1,5.38,Core Engineering,Startup
+2301,1,5.77,Consulting,Consulting
+2302,1,7.92,Product Analyst,Service
+2303,0,0.0,Not Placed,Not Placed
+2304,0,0.0,Not Placed,Not Placed
+2305,0,0.0,Not Placed,Not Placed
+2306,0,0.0,Not Placed,Not Placed
+2307,0,0.0,Not Placed,Not Placed
+2308,0,0.0,Not Placed,Not Placed
+2309,1,5.21,Consulting,Service
+2310,0,0.0,Not Placed,Not Placed
+2311,1,4.53,Product Analyst,Core
+2312,0,0.0,Not Placed,Not Placed
+2313,0,0.0,Not Placed,Not Placed
+2314,1,6.17,Core Engineering,Consulting
+2315,1,7.53,Core Engineering,Product
+2316,0,0.0,Not Placed,Not Placed
+2317,1,4.82,Business Analyst,Service
+2318,0,0.0,Not Placed,Not Placed
+2319,1,7.18,Core Engineering,Service
+2320,0,0.0,Not Placed,Not Placed
+2321,1,8.95,Data Analyst,Product
+2322,1,7.24,Consulting,Service
+2323,0,0.0,Not Placed,Not Placed
+2324,1,3.89,Product Analyst,Consulting
+2325,0,0.0,Not Placed,Not Placed
+2326,0,0.0,Not Placed,Not Placed
+2327,1,5.86,Software Engineer,Startup
+2328,1,6.54,Consulting,Startup
+2329,0,0.0,Not Placed,Not Placed
+2330,1,7.7,Core Engineering,Consulting
+2331,0,0.0,Not Placed,Not Placed
+2332,0,0.0,Not Placed,Not Placed
+2333,0,0.0,Not Placed,Not Placed
+2334,0,0.0,Not Placed,Not Placed
+2335,0,0.0,Not Placed,Not Placed
+2336,1,8.93,Software Engineer,Core
+2337,0,0.0,Not Placed,Not Placed
+2338,0,0.0,Not Placed,Not Placed
+2339,0,0.0,Not Placed,Not Placed
+2340,0,0.0,Not Placed,Not Placed
+2341,0,0.0,Not Placed,Not Placed
+2342,1,4.11,Core Engineering,Product
+2343,0,0.0,Not Placed,Not Placed
+2344,0,0.0,Not Placed,Not Placed
+2345,1,6.27,Consulting,Consulting
+2346,0,0.0,Not Placed,Not Placed
+2347,1,7.03,Core Engineering,Startup
+2348,0,0.0,Not Placed,Not Placed
+2349,1,7.31,Business Analyst,Product
+2350,1,7.08,Business Analyst,Core
+2351,0,0.0,Not Placed,Not Placed
+2352,1,9.2,Consulting,Startup
+2353,1,7.07,Software Engineer,Consulting
+2354,1,6.1,Software Engineer,Service
+2355,1,6.54,Software Engineer,Service
+2356,0,0.0,Not Placed,Not Placed
+2357,1,5.26,Core Engineering,Product
+2358,0,0.0,Not Placed,Not Placed
+2359,0,0.0,Not Placed,Not Placed
+2360,1,6.76,Consulting,Product
+2361,1,4.66,Product Analyst,Service
+2362,0,0.0,Not Placed,Not Placed
+2363,0,0.0,Not Placed,Not Placed
+2364,1,5.11,Consulting,Startup
+2365,1,7.23,Consulting,Core
+2366,0,0.0,Not Placed,Not Placed
+2367,0,0.0,Not Placed,Not Placed
+2368,1,8.61,Consulting,Service
+2369,0,0.0,Not Placed,Not Placed
+2370,0,0.0,Not Placed,Not Placed
+2371,1,4.81,Data Analyst,Core
+2372,0,0.0,Not Placed,Not Placed
+2373,0,0.0,Not Placed,Not Placed
+2374,0,0.0,Not Placed,Not Placed
+2375,1,5.51,Data Analyst,Product
+2376,0,0.0,Not Placed,Not Placed
+2377,1,5.68,Product Analyst,Consulting
+2378,1,10.43,Data Analyst,Service
+2379,0,0.0,Not Placed,Not Placed
+2380,1,5.21,Data Analyst,Consulting
+2381,1,4.64,Software Engineer,Startup
+2382,0,0.0,Not Placed,Not Placed
+2383,0,0.0,Not Placed,Not Placed
+2384,1,6.08,Consulting,Consulting
+2385,1,6.61,Data Analyst,Product
+2386,0,0.0,Not Placed,Not Placed
+2387,1,5.88,Core Engineering,Startup
+2388,1,5.94,Data Analyst,Service
+2389,0,0.0,Not Placed,Not Placed
+2390,0,0.0,Not Placed,Not Placed
+2391,0,0.0,Not Placed,Not Placed
+2392,1,3.0,Business Analyst,Consulting
+2393,0,0.0,Not Placed,Not Placed
+2394,1,6.68,Data Analyst,Core
+2395,1,5.55,Consulting,Service
+2396,1,7.12,Business Analyst,Consulting
+2397,0,0.0,Not Placed,Not Placed
+2398,1,6.22,Product Analyst,Core
+2399,1,5.73,Software Engineer,Product
+2400,0,0.0,Not Placed,Not Placed
+2401,0,0.0,Not Placed,Not Placed
+2402,0,0.0,Not Placed,Not Placed
+2403,0,0.0,Not Placed,Not Placed
+2404,1,3.0,Product Analyst,Consulting
+2405,0,0.0,Not Placed,Not Placed
+2406,1,6.33,Software Engineer,Startup
+2407,0,0.0,Not Placed,Not Placed
+2408,1,6.11,Core Engineering,Product
+2409,0,0.0,Not Placed,Not Placed
+2410,0,0.0,Not Placed,Not Placed
+2411,1,6.38,Product Analyst,Service
+2412,1,7.49,Core Engineering,Consulting
+2413,0,0.0,Not Placed,Not Placed
+2414,0,0.0,Not Placed,Not Placed
+2415,1,6.75,Consulting,Startup
+2416,0,0.0,Not Placed,Not Placed
+2417,0,0.0,Not Placed,Not Placed
+2418,1,8.44,Consulting,Consulting
+2419,0,0.0,Not Placed,Not Placed
+2420,0,0.0,Not Placed,Not Placed
+2421,0,0.0,Not Placed,Not Placed
+2422,0,0.0,Not Placed,Not Placed
+2423,0,0.0,Not Placed,Not Placed
+2424,1,4.82,Core Engineering,Product
+2425,1,7.77,Business Analyst,Core
+2426,0,0.0,Not Placed,Not Placed
+2427,1,6.45,Data Analyst,Consulting
+2428,0,0.0,Not Placed,Not Placed
+2429,1,4.15,Product Analyst,Service
+2430,0,0.0,Not Placed,Not Placed
+2431,1,8.14,Product Analyst,Core
+2432,0,0.0,Not Placed,Not Placed
+2433,0,0.0,Not Placed,Not Placed
+2434,1,5.65,Software Engineer,Service
+2435,0,0.0,Not Placed,Not Placed
+2436,0,0.0,Not Placed,Not Placed
+2437,0,0.0,Not Placed,Not Placed
+2438,0,0.0,Not Placed,Not Placed
+2439,1,7.03,Business Analyst,Product
+2440,1,3.0,Consulting,Startup
+2441,1,5.28,Product Analyst,Startup
+2442,1,7.16,Product Analyst,Core
+2443,1,8.2,Core Engineering,Core
+2444,1,5.0,Consulting,Product
+2445,0,0.0,Not Placed,Not Placed
+2446,1,9.38,Core Engineering,Core
+2447,1,5.02,Business Analyst,Service
+2448,0,0.0,Not Placed,Not Placed
+2449,1,3.85,Core Engineering,Startup
+2450,0,0.0,Not Placed,Not Placed
+2451,1,4.6,Core Engineering,Service
+2452,1,3.33,Product Analyst,Core
+2453,1,3.82,Core Engineering,Service
+2454,0,0.0,Not Placed,Not Placed
+2455,0,0.0,Not Placed,Not Placed
+2456,0,0.0,Not Placed,Not Placed
+2457,1,6.37,Core Engineering,Consulting
+2458,1,6.53,Data Analyst,Service
+2459,1,3.0,Consulting,Product
+2460,0,0.0,Not Placed,Not Placed
+2461,0,0.0,Not Placed,Not Placed
+2462,0,0.0,Not Placed,Not Placed
+2463,1,5.88,Software Engineer,Service
+2464,1,6.29,Data Analyst,Product
+2465,1,6.76,Core Engineering,Service
+2466,1,6.97,Product Analyst,Product
+2467,0,0.0,Not Placed,Not Placed
+2468,0,0.0,Not Placed,Not Placed
+2469,0,0.0,Not Placed,Not Placed
+2470,0,0.0,Not Placed,Not Placed
+2471,0,0.0,Not Placed,Not Placed
+2472,0,0.0,Not Placed,Not Placed
+2473,0,0.0,Not Placed,Not Placed
+2474,1,5.51,Product Analyst,Product
+2475,0,0.0,Not Placed,Not Placed
+2476,1,7.7,Data Analyst,Service
+2477,0,0.0,Not Placed,Not Placed
+2478,0,0.0,Not Placed,Not Placed
+2479,0,0.0,Not Placed,Not Placed
+2480,1,3.94,Core Engineering,Product
+2481,0,0.0,Not Placed,Not Placed
+2482,0,0.0,Not Placed,Not Placed
+2483,1,5.02,Consulting,Service
+2484,0,0.0,Not Placed,Not Placed
+2485,0,0.0,Not Placed,Not Placed
+2486,0,0.0,Not Placed,Not Placed
+2487,1,4.56,Product Analyst,Service
+2488,0,0.0,Not Placed,Not Placed
+2489,1,3.0,Consulting,Service
+2490,0,0.0,Not Placed,Not Placed
+2491,1,7.79,Product Analyst,Service
+2492,0,0.0,Not Placed,Not Placed
+2493,0,0.0,Not Placed,Not Placed
+2494,0,0.0,Not Placed,Not Placed
+2495,1,6.88,Core Engineering,Startup
+2496,1,5.33,Consulting,Service
+2497,0,0.0,Not Placed,Not Placed
+2498,0,0.0,Not Placed,Not Placed
+2499,1,8.01,Product Analyst,Core
+2500,1,6.7,Consulting,Startup
+2501,1,4.93,Software Engineer,Service
+2502,0,0.0,Not Placed,Not Placed
+2503,1,3.79,Data Analyst,Core
+2504,0,0.0,Not Placed,Not Placed
+2505,1,6.89,Consulting,Startup
+2506,1,4.13,Product Analyst,Service
+2507,0,0.0,Not Placed,Not Placed
+2508,1,4.77,Software Engineer,Product
+2509,0,0.0,Not Placed,Not Placed
+2510,0,0.0,Not Placed,Not Placed
+2511,1,7.13,Core Engineering,Product
+2512,1,6.29,Business Analyst,Service
+2513,1,3.0,Business Analyst,Service
+2514,1,7.35,Product Analyst,Service
+2515,0,0.0,Not Placed,Not Placed
+2516,0,0.0,Not Placed,Not Placed
+2517,0,0.0,Not Placed,Not Placed
+2518,1,7.18,Core Engineering,Startup
+2519,1,4.22,Core Engineering,Product
+2520,0,0.0,Not Placed,Not Placed
+2521,1,6.49,Business Analyst,Service
+2522,1,4.45,Core Engineering,Service
+2523,0,0.0,Not Placed,Not Placed
+2524,1,4.93,Product Analyst,Consulting
+2525,1,7.86,Product Analyst,Consulting
+2526,1,3.26,Business Analyst,Service
+2527,1,5.19,Core Engineering,Service
+2528,1,4.51,Consulting,Consulting
+2529,0,0.0,Not Placed,Not Placed
+2530,1,4.76,Business Analyst,Startup
+2531,1,6.06,Software Engineer,Startup
+2532,0,0.0,Not Placed,Not Placed
+2533,1,7.73,Data Analyst,Service
+2534,0,0.0,Not Placed,Not Placed
+2535,0,0.0,Not Placed,Not Placed
+2536,0,0.0,Not Placed,Not Placed
+2537,1,4.32,Data Analyst,Product
+2538,0,0.0,Not Placed,Not Placed
+2539,0,0.0,Not Placed,Not Placed
+2540,0,0.0,Not Placed,Not Placed
+2541,1,8.1,Consulting,Consulting
+2542,0,0.0,Not Placed,Not Placed
+2543,1,6.18,Data Analyst,Service
+2544,1,6.15,Business Analyst,Product
+2545,0,0.0,Not Placed,Not Placed
+2546,0,0.0,Not Placed,Not Placed
+2547,0,0.0,Not Placed,Not Placed
+2548,1,6.75,Consulting,Service
+2549,1,7.08,Core Engineering,Product
+2550,0,0.0,Not Placed,Not Placed
+2551,0,0.0,Not Placed,Not Placed
+2552,0,0.0,Not Placed,Not Placed
+2553,0,0.0,Not Placed,Not Placed
+2554,1,4.33,Product Analyst,Startup
+2555,0,0.0,Not Placed,Not Placed
+2556,1,3.87,Data Analyst,Product
+2557,0,0.0,Not Placed,Not Placed
+2558,1,4.83,Business Analyst,Product
+2559,0,0.0,Not Placed,Not Placed
+2560,0,0.0,Not Placed,Not Placed
+2561,1,7.14,Business Analyst,Startup
+2562,1,7.13,Core Engineering,Product
+2563,1,5.05,Data Analyst,Service
+2564,0,0.0,Not Placed,Not Placed
+2565,1,5.52,Data Analyst,Service
+2566,0,0.0,Not Placed,Not Placed
+2567,0,0.0,Not Placed,Not Placed
+2568,0,0.0,Not Placed,Not Placed
+2569,0,0.0,Not Placed,Not Placed
+2570,1,8.01,Business Analyst,Startup
+2571,0,0.0,Not Placed,Not Placed
+2572,0,0.0,Not Placed,Not Placed
+2573,0,0.0,Not Placed,Not Placed
+2574,1,6.59,Business Analyst,Startup
+2575,0,0.0,Not Placed,Not Placed
+2576,0,0.0,Not Placed,Not Placed
+2577,0,0.0,Not Placed,Not Placed
+2578,1,5.74,Consulting,Consulting
+2579,1,3.45,Data Analyst,Consulting
+2580,0,0.0,Not Placed,Not Placed
+2581,1,7.67,Core Engineering,Startup
+2582,0,0.0,Not Placed,Not Placed
+2583,1,8.56,Software Engineer,Service
+2584,0,0.0,Not Placed,Not Placed
+2585,1,3.18,Data Analyst,Service
+2586,1,7.08,Business Analyst,Product
+2587,0,0.0,Not Placed,Not Placed
+2588,1,3.48,Consulting,Service
+2589,1,6.49,Consulting,Startup
+2590,0,0.0,Not Placed,Not Placed
+2591,0,0.0,Not Placed,Not Placed
+2592,0,0.0,Not Placed,Not Placed
+2593,1,6.53,Product Analyst,Consulting
+2594,1,8.46,Software Engineer,Service
+2595,0,0.0,Not Placed,Not Placed
+2596,1,5.88,Core Engineering,Service
+2597,0,0.0,Not Placed,Not Placed
+2598,1,5.5,Data Analyst,Product
+2599,1,4.17,Product Analyst,Consulting
+2600,1,5.88,Data Analyst,Service
+2601,0,0.0,Not Placed,Not Placed
+2602,0,0.0,Not Placed,Not Placed
+2603,1,5.14,Product Analyst,Service
+2604,0,0.0,Not Placed,Not Placed
+2605,0,0.0,Not Placed,Not Placed
+2606,0,0.0,Not Placed,Not Placed
+2607,0,0.0,Not Placed,Not Placed
+2608,1,3.96,Software Engineer,Consulting
+2609,0,0.0,Not Placed,Not Placed
+2610,0,0.0,Not Placed,Not Placed
+2611,1,7.81,Business Analyst,Consulting
+2612,0,0.0,Not Placed,Not Placed
+2613,0,0.0,Not Placed,Not Placed
+2614,1,6.39,Consulting,Service
+2615,1,5.28,Software Engineer,Product
+2616,0,0.0,Not Placed,Not Placed
+2617,1,7.26,Consulting,Product
+2618,1,6.16,Core Engineering,Product
+2619,1,8.83,Business Analyst,Service
+2620,1,7.44,Product Analyst,Service
+2621,0,0.0,Not Placed,Not Placed
+2622,1,4.37,Business Analyst,Service
+2623,0,0.0,Not Placed,Not Placed
+2624,0,0.0,Not Placed,Not Placed
+2625,0,0.0,Not Placed,Not Placed
+2626,1,6.74,Software Engineer,Product
+2627,0,0.0,Not Placed,Not Placed
+2628,1,3.14,Core Engineering,Startup
+2629,0,0.0,Not Placed,Not Placed
+2630,1,4.66,Consulting,Consulting
+2631,1,9.57,Business Analyst,Service
+2632,0,0.0,Not Placed,Not Placed
+2633,0,0.0,Not Placed,Not Placed
+2634,0,0.0,Not Placed,Not Placed
+2635,0,0.0,Not Placed,Not Placed
+2636,0,0.0,Not Placed,Not Placed
+2637,0,0.0,Not Placed,Not Placed
+2638,0,0.0,Not Placed,Not Placed
+2639,1,4.98,Core Engineering,Consulting
+2640,1,6.47,Core Engineering,Service
+2641,1,4.05,Data Analyst,Service
+2642,0,0.0,Not Placed,Not Placed
+2643,0,0.0,Not Placed,Not Placed
+2644,0,0.0,Not Placed,Not Placed
+2645,1,7.73,Data Analyst,Startup
+2646,0,0.0,Not Placed,Not Placed
+2647,0,0.0,Not Placed,Not Placed
+2648,0,0.0,Not Placed,Not Placed
+2649,0,0.0,Not Placed,Not Placed
+2650,1,6.54,Data Analyst,Service
+2651,0,0.0,Not Placed,Not Placed
+2652,0,0.0,Not Placed,Not Placed
+2653,1,8.12,Product Analyst,Startup
+2654,0,0.0,Not Placed,Not Placed
+2655,1,9.0,Business Analyst,Service
+2656,0,0.0,Not Placed,Not Placed
+2657,0,0.0,Not Placed,Not Placed
+2658,1,4.85,Business Analyst,Service
+2659,0,0.0,Not Placed,Not Placed
+2660,0,0.0,Not Placed,Not Placed
+2661,0,0.0,Not Placed,Not Placed
+2662,0,0.0,Not Placed,Not Placed
+2663,0,0.0,Not Placed,Not Placed
+2664,0,0.0,Not Placed,Not Placed
+2665,1,6.33,Business Analyst,Product
+2666,1,4.98,Product Analyst,Product
+2667,0,0.0,Not Placed,Not Placed
+2668,1,8.06,Data Analyst,Service
+2669,1,4.07,Business Analyst,Consulting
+2670,1,3.99,Product Analyst,Startup
+2671,0,0.0,Not Placed,Not Placed
+2672,0,0.0,Not Placed,Not Placed
+2673,1,5.29,Software Engineer,Product
+2674,1,7.35,Product Analyst,Startup
+2675,0,0.0,Not Placed,Not Placed
+2676,0,0.0,Not Placed,Not Placed
+2677,0,0.0,Not Placed,Not Placed
+2678,0,0.0,Not Placed,Not Placed
+2679,1,6.62,Consulting,Service
+2680,1,6.05,Consulting,Service
+2681,0,0.0,Not Placed,Not Placed
+2682,0,0.0,Not Placed,Not Placed
+2683,0,0.0,Not Placed,Not Placed
+2684,0,0.0,Not Placed,Not Placed
+2685,0,0.0,Not Placed,Not Placed
+2686,1,5.0,Data Analyst,Core
+2687,1,6.01,Business Analyst,Core
+2688,0,0.0,Not Placed,Not Placed
+2689,1,4.31,Software Engineer,Startup
+2690,1,6.13,Product Analyst,Consulting
+2691,1,8.83,Software Engineer,Service
+2692,1,5.19,Software Engineer,Product
+2693,1,5.66,Business Analyst,Service
+2694,1,4.21,Data Analyst,Service
+2695,1,6.71,Product Analyst,Service
+2696,0,0.0,Not Placed,Not Placed
+2697,1,4.95,Business Analyst,Service
+2698,1,5.12,Data Analyst,Startup
+2699,0,0.0,Not Placed,Not Placed
+2700,0,0.0,Not Placed,Not Placed
+2701,0,0.0,Not Placed,Not Placed
+2702,0,0.0,Not Placed,Not Placed
+2703,1,6.16,Software Engineer,Service
+2704,1,6.08,Core Engineering,Product
+2705,0,0.0,Not Placed,Not Placed
+2706,0,0.0,Not Placed,Not Placed
+2707,1,4.66,Data Analyst,Service
+2708,0,0.0,Not Placed,Not Placed
+2709,0,0.0,Not Placed,Not Placed
+2710,1,4.47,Software Engineer,Service
+2711,1,7.78,Product Analyst,Product
+2712,0,0.0,Not Placed,Not Placed
+2713,1,5.98,Consulting,Startup
+2714,0,0.0,Not Placed,Not Placed
+2715,0,0.0,Not Placed,Not Placed
+2716,0,0.0,Not Placed,Not Placed
+2717,1,3.72,Software Engineer,Service
+2718,1,8.49,Consulting,Startup
+2719,0,0.0,Not Placed,Not Placed
+2720,0,0.0,Not Placed,Not Placed
+2721,0,0.0,Not Placed,Not Placed
+2722,1,8.06,Data Analyst,Startup
+2723,0,0.0,Not Placed,Not Placed
+2724,1,6.46,Software Engineer,Consulting
+2725,1,6.4,Business Analyst,Core
+2726,1,6.69,Business Analyst,Consulting
+2727,0,0.0,Not Placed,Not Placed
+2728,0,0.0,Not Placed,Not Placed
+2729,0,0.0,Not Placed,Not Placed
+2730,1,8.47,Consulting,Service
+2731,1,7.06,Product Analyst,Product
+2732,1,5.12,Product Analyst,Product
+2733,0,0.0,Not Placed,Not Placed
+2734,0,0.0,Not Placed,Not Placed
+2735,1,4.38,Software Engineer,Service
+2736,1,5.21,Consulting,Product
+2737,0,0.0,Not Placed,Not Placed
+2738,1,8.14,Business Analyst,Startup
+2739,0,0.0,Not Placed,Not Placed
+2740,1,9.33,Data Analyst,Service
+2741,0,0.0,Not Placed,Not Placed
+2742,0,0.0,Not Placed,Not Placed
+2743,1,4.57,Business Analyst,Consulting
+2744,0,0.0,Not Placed,Not Placed
+2745,1,7.59,Product Analyst,Consulting
+2746,1,7.38,Data Analyst,Product
+2747,0,0.0,Not Placed,Not Placed
+2748,0,0.0,Not Placed,Not Placed
+2749,0,0.0,Not Placed,Not Placed
+2750,0,0.0,Not Placed,Not Placed
+2751,1,6.96,Data Analyst,Service
+2752,0,0.0,Not Placed,Not Placed
+2753,1,4.53,Business Analyst,Service
+2754,0,0.0,Not Placed,Not Placed
+2755,0,0.0,Not Placed,Not Placed
+2756,0,0.0,Not Placed,Not Placed
+2757,0,0.0,Not Placed,Not Placed
+2758,0,0.0,Not Placed,Not Placed
+2759,1,6.98,Core Engineering,Service
+2760,1,5.69,Business Analyst,Service
+2761,1,7.21,Product Analyst,Startup
+2762,1,7.12,Software Engineer,Service
+2763,1,8.94,Product Analyst,Consulting
+2764,0,0.0,Not Placed,Not Placed
+2765,1,8.05,Product Analyst,Service
+2766,1,5.54,Business Analyst,Product
+2767,1,6.85,Business Analyst,Service
+2768,1,7.03,Business Analyst,Service
+2769,1,3.73,Consulting,Startup
+2770,1,6.01,Product Analyst,Consulting
+2771,0,0.0,Not Placed,Not Placed
+2772,0,0.0,Not Placed,Not Placed
+2773,1,7.49,Business Analyst,Service
+2774,1,5.11,Product Analyst,Startup
+2775,1,4.92,Business Analyst,Product
+2776,1,5.49,Data Analyst,Core
+2777,1,7.24,Software Engineer,Service
+2778,0,0.0,Not Placed,Not Placed
+2779,1,5.16,Core Engineering,Startup
+2780,1,6.11,Business Analyst,Product
+2781,0,0.0,Not Placed,Not Placed
+2782,1,4.52,Data Analyst,Startup
+2783,1,5.72,Business Analyst,Service
+2784,0,0.0,Not Placed,Not Placed
+2785,0,0.0,Not Placed,Not Placed
+2786,0,0.0,Not Placed,Not Placed
+2787,1,6.95,Product Analyst,Consulting
+2788,1,5.48,Product Analyst,Product
+2789,0,0.0,Not Placed,Not Placed
+2790,0,0.0,Not Placed,Not Placed
+2791,0,0.0,Not Placed,Not Placed
+2792,0,0.0,Not Placed,Not Placed
+2793,0,0.0,Not Placed,Not Placed
+2794,1,6.74,Software Engineer,Product
+2795,0,0.0,Not Placed,Not Placed
+2796,0,0.0,Not Placed,Not Placed
+2797,1,7.61,Data Analyst,Startup
+2798,0,0.0,Not Placed,Not Placed
+2799,0,0.0,Not Placed,Not Placed
+2800,1,7.47,Core Engineering,Startup
+2801,0,0.0,Not Placed,Not Placed
+2802,0,0.0,Not Placed,Not Placed
+2803,0,0.0,Not Placed,Not Placed
+2804,0,0.0,Not Placed,Not Placed
+2805,1,6.18,Product Analyst,Startup
+2806,0,0.0,Not Placed,Not Placed
+2807,1,7.85,Software Engineer,Service
+2808,0,0.0,Not Placed,Not Placed
+2809,0,0.0,Not Placed,Not Placed
+2810,0,0.0,Not Placed,Not Placed
+2811,0,0.0,Not Placed,Not Placed
+2812,0,0.0,Not Placed,Not Placed
+2813,1,6.08,Software Engineer,Startup
+2814,1,5.54,Consulting,Consulting
+2815,0,0.0,Not Placed,Not Placed
+2816,0,0.0,Not Placed,Not Placed
+2817,1,8.46,Product Analyst,Product
+2818,1,6.69,Business Analyst,Product
+2819,0,0.0,Not Placed,Not Placed
+2820,1,4.24,Data Analyst,Service
+2821,1,4.46,Software Engineer,Service
+2822,1,4.44,Software Engineer,Service
+2823,0,0.0,Not Placed,Not Placed
+2824,0,0.0,Not Placed,Not Placed
+2825,1,4.91,Data Analyst,Product
+2826,1,7.15,Data Analyst,Service
+2827,0,0.0,Not Placed,Not Placed
+2828,1,5.77,Software Engineer,Consulting
+2829,0,0.0,Not Placed,Not Placed
+2830,0,0.0,Not Placed,Not Placed
+2831,1,7.77,Consulting,Core
+2832,0,0.0,Not Placed,Not Placed
+2833,0,0.0,Not Placed,Not Placed
+2834,0,0.0,Not Placed,Not Placed
+2835,1,5.72,Product Analyst,Product
+2836,0,0.0,Not Placed,Not Placed
+2837,0,0.0,Not Placed,Not Placed
+2838,0,0.0,Not Placed,Not Placed
+2839,1,3.83,Core Engineering,Consulting
+2840,1,6.78,Software Engineer,Service
+2841,0,0.0,Not Placed,Not Placed
+2842,1,11.45,Software Engineer,Product
+2843,1,5.31,Product Analyst,Core
+2844,0,0.0,Not Placed,Not Placed
+2845,0,0.0,Not Placed,Not Placed
+2846,0,0.0,Not Placed,Not Placed
+2847,1,6.59,Business Analyst,Service
+2848,1,6.24,Product Analyst,Service
+2849,0,0.0,Not Placed,Not Placed
+2850,1,10.63,Data Analyst,Service
+2851,1,7.04,Consulting,Startup
+2852,1,5.34,Business Analyst,Startup
+2853,0,0.0,Not Placed,Not Placed
+2854,0,0.0,Not Placed,Not Placed
+2855,0,0.0,Not Placed,Not Placed
+2856,1,7.28,Software Engineer,Consulting
+2857,0,0.0,Not Placed,Not Placed
+2858,0,0.0,Not Placed,Not Placed
+2859,0,0.0,Not Placed,Not Placed
+2860,0,0.0,Not Placed,Not Placed
+2861,1,5.31,Data Analyst,Consulting
+2862,0,0.0,Not Placed,Not Placed
+2863,0,0.0,Not Placed,Not Placed
+2864,0,0.0,Not Placed,Not Placed
+2865,0,0.0,Not Placed,Not Placed
+2866,0,0.0,Not Placed,Not Placed
+2867,1,3.0,Core Engineering,Product
+2868,0,0.0,Not Placed,Not Placed
+2869,1,7.44,Data Analyst,Service
+2870,0,0.0,Not Placed,Not Placed
+2871,0,0.0,Not Placed,Not Placed
+2872,0,0.0,Not Placed,Not Placed
+2873,0,0.0,Not Placed,Not Placed
+2874,1,7.63,Business Analyst,Product
+2875,0,0.0,Not Placed,Not Placed
+2876,0,0.0,Not Placed,Not Placed
+2877,1,6.4,Product Analyst,Core
+2878,1,5.82,Software Engineer,Service
+2879,0,0.0,Not Placed,Not Placed
+2880,0,0.0,Not Placed,Not Placed
+2881,0,0.0,Not Placed,Not Placed
+2882,1,6.81,Software Engineer,Service
+2883,1,5.07,Product Analyst,Startup
+2884,0,0.0,Not Placed,Not Placed
+2885,1,8.41,Software Engineer,Product
+2886,0,0.0,Not Placed,Not Placed
+2887,0,0.0,Not Placed,Not Placed
+2888,1,8.03,Core Engineering,Startup
+2889,0,0.0,Not Placed,Not Placed
+2890,1,4.86,Product Analyst,Service
+2891,1,6.56,Data Analyst,Service
+2892,1,6.5,Software Engineer,Startup
+2893,0,0.0,Not Placed,Not Placed
+2894,0,0.0,Not Placed,Not Placed
+2895,0,0.0,Not Placed,Not Placed
+2896,1,5.17,Business Analyst,Service
+2897,1,4.88,Consulting,Consulting
+2898,1,7.34,Consulting,Core
+2899,0,0.0,Not Placed,Not Placed
+2900,0,0.0,Not Placed,Not Placed
+2901,0,0.0,Not Placed,Not Placed
+2902,0,0.0,Not Placed,Not Placed
+2903,0,0.0,Not Placed,Not Placed
+2904,1,5.89,Core Engineering,Service
+2905,0,0.0,Not Placed,Not Placed
+2906,1,6.33,Product Analyst,Startup
+2907,1,4.95,Consulting,Service
+2908,0,0.0,Not Placed,Not Placed
+2909,0,0.0,Not Placed,Not Placed
+2910,0,0.0,Not Placed,Not Placed
+2911,1,8.49,Data Analyst,Service
+2912,0,0.0,Not Placed,Not Placed
+2913,1,5.57,Core Engineering,Service
+2914,0,0.0,Not Placed,Not Placed
+2915,1,3.83,Consulting,Service
+2916,0,0.0,Not Placed,Not Placed
+2917,0,0.0,Not Placed,Not Placed
+2918,0,0.0,Not Placed,Not Placed
+2919,0,0.0,Not Placed,Not Placed
+2920,1,6.25,Consulting,Service
+2921,0,0.0,Not Placed,Not Placed
+2922,0,0.0,Not Placed,Not Placed
+2923,0,0.0,Not Placed,Not Placed
+2924,0,0.0,Not Placed,Not Placed
+2925,1,4.54,Business Analyst,Core
+2926,0,0.0,Not Placed,Not Placed
+2927,0,0.0,Not Placed,Not Placed
+2928,0,0.0,Not Placed,Not Placed
+2929,1,5.65,Software Engineer,Product
+2930,0,0.0,Not Placed,Not Placed
+2931,0,0.0,Not Placed,Not Placed
+2932,0,0.0,Not Placed,Not Placed
+2933,1,5.1,Product Analyst,Product
+2934,0,0.0,Not Placed,Not Placed
+2935,1,4.7,Consulting,Service
+2936,0,0.0,Not Placed,Not Placed
+2937,1,7.48,Core Engineering,Consulting
+2938,0,0.0,Not Placed,Not Placed
+2939,1,4.3,Product Analyst,Startup
+2940,1,7.07,Product Analyst,Core
+2941,1,4.14,Core Engineering,Startup
+2942,1,4.98,Consulting,Core
+2943,1,4.49,Product Analyst,Startup
+2944,1,4.6,Software Engineer,Service
+2945,0,0.0,Not Placed,Not Placed
+2946,0,0.0,Not Placed,Not Placed
+2947,1,6.61,Data Analyst,Product
+2948,0,0.0,Not Placed,Not Placed
+2949,1,5.48,Business Analyst,Service
+2950,1,6.42,Consulting,Product
+2951,1,4.16,Core Engineering,Product
+2952,1,6.14,Consulting,Product
+2953,0,0.0,Not Placed,Not Placed
+2954,0,0.0,Not Placed,Not Placed
+2955,0,0.0,Not Placed,Not Placed
+2956,1,5.42,Product Analyst,Service
+2957,0,0.0,Not Placed,Not Placed
+2958,0,0.0,Not Placed,Not Placed
+2959,1,7.4,Software Engineer,Service
+2960,1,3.72,Product Analyst,Core
+2961,0,0.0,Not Placed,Not Placed
+2962,1,7.74,Product Analyst,Product
+2963,1,7.32,Business Analyst,Consulting
+2964,0,0.0,Not Placed,Not Placed
+2965,0,0.0,Not Placed,Not Placed
+2966,0,0.0,Not Placed,Not Placed
+2967,0,0.0,Not Placed,Not Placed
+2968,1,6.37,Software Engineer,Startup
+2969,1,5.85,Business Analyst,Consulting
+2970,0,0.0,Not Placed,Not Placed
+2971,1,6.36,Core Engineering,Core
+2972,1,6.64,Business Analyst,Consulting
+2973,0,0.0,Not Placed,Not Placed
+2974,1,3.71,Business Analyst,Startup
+2975,1,5.02,Software Engineer,Service
+2976,0,0.0,Not Placed,Not Placed
+2977,0,0.0,Not Placed,Not Placed
+2978,0,0.0,Not Placed,Not Placed
+2979,1,3.0,Software Engineer,Product
+2980,1,5.34,Data Analyst,Startup
+2981,1,6.33,Data Analyst,Service
+2982,0,0.0,Not Placed,Not Placed
+2983,0,0.0,Not Placed,Not Placed
+2984,1,7.7,Software Engineer,Startup
+2985,1,6.52,Business Analyst,Startup
+2986,1,5.62,Business Analyst,Service
+2987,1,7.47,Core Engineering,Startup
+2988,0,0.0,Not Placed,Not Placed
+2989,0,0.0,Not Placed,Not Placed
+2990,0,0.0,Not Placed,Not Placed
+2991,0,0.0,Not Placed,Not Placed
+2992,1,4.49,Product Analyst,Product
+2993,0,0.0,Not Placed,Not Placed
+2994,0,0.0,Not Placed,Not Placed
+2995,1,3.0,Product Analyst,Service
+2996,0,0.0,Not Placed,Not Placed
+2997,0,0.0,Not Placed,Not Placed
+2998,0,0.0,Not Placed,Not Placed
+2999,1,4.99,Core Engineering,Consulting
+3000,0,0.0,Not Placed,Not Placed
+3001,0,0.0,Not Placed,Not Placed
+3002,0,0.0,Not Placed,Not Placed
+3003,1,8.03,Software Engineer,Product
+3004,1,5.33,Core Engineering,Product
+3005,1,3.43,Data Analyst,Core
+3006,1,7.01,Data Analyst,Product
+3007,1,4.28,Consulting,Startup
+3008,0,0.0,Not Placed,Not Placed
+3009,0,0.0,Not Placed,Not Placed
+3010,0,0.0,Not Placed,Not Placed
+3011,0,0.0,Not Placed,Not Placed
+3012,0,0.0,Not Placed,Not Placed
+3013,0,0.0,Not Placed,Not Placed
+3014,0,0.0,Not Placed,Not Placed
+3015,1,7.69,Software Engineer,Core
+3016,1,6.41,Data Analyst,Consulting
+3017,1,5.75,Business Analyst,Core
+3018,0,0.0,Not Placed,Not Placed
+3019,0,0.0,Not Placed,Not Placed
+3020,1,4.45,Core Engineering,Service
+3021,1,5.02,Data Analyst,Core
+3022,1,4.85,Data Analyst,Service
+3023,0,0.0,Not Placed,Not Placed
+3024,1,6.62,Software Engineer,Core
+3025,0,0.0,Not Placed,Not Placed
+3026,0,0.0,Not Placed,Not Placed
+3027,0,0.0,Not Placed,Not Placed
+3028,1,3.65,Core Engineering,Product
+3029,1,4.28,Consulting,Service
+3030,0,0.0,Not Placed,Not Placed
+3031,1,6.41,Consulting,Service
+3032,0,0.0,Not Placed,Not Placed
+3033,0,0.0,Not Placed,Not Placed
+3034,0,0.0,Not Placed,Not Placed
+3035,0,0.0,Not Placed,Not Placed
+3036,1,5.6,Consulting,Service
+3037,1,5.15,Business Analyst,Service
+3038,0,0.0,Not Placed,Not Placed
+3039,0,0.0,Not Placed,Not Placed
+3040,1,5.12,Core Engineering,Service
+3041,0,0.0,Not Placed,Not Placed
+3042,1,7.13,Core Engineering,Service
+3043,0,0.0,Not Placed,Not Placed
+3044,1,4.44,Product Analyst,Service
+3045,0,0.0,Not Placed,Not Placed
+3046,1,11.62,Consulting,Startup
+3047,1,7.48,Business Analyst,Consulting
+3048,0,0.0,Not Placed,Not Placed
+3049,0,0.0,Not Placed,Not Placed
+3050,1,8.03,Software Engineer,Service
+3051,1,5.61,Consulting,Consulting
+3052,0,0.0,Not Placed,Not Placed
+3053,0,0.0,Not Placed,Not Placed
+3054,1,6.83,Business Analyst,Startup
+3055,0,0.0,Not Placed,Not Placed
+3056,1,7.14,Consulting,Service
+3057,1,6.62,Product Analyst,Startup
+3058,0,0.0,Not Placed,Not Placed
+3059,0,0.0,Not Placed,Not Placed
+3060,1,5.07,Core Engineering,Product
+3061,0,0.0,Not Placed,Not Placed
+3062,0,0.0,Not Placed,Not Placed
+3063,0,0.0,Not Placed,Not Placed
+3064,0,0.0,Not Placed,Not Placed
+3065,1,5.74,Data Analyst,Service
+3066,0,0.0,Not Placed,Not Placed
+3067,0,0.0,Not Placed,Not Placed
+3068,0,0.0,Not Placed,Not Placed
+3069,0,0.0,Not Placed,Not Placed
+3070,1,6.44,Core Engineering,Service
+3071,1,4.85,Core Engineering,Service
+3072,0,0.0,Not Placed,Not Placed
+3073,0,0.0,Not Placed,Not Placed
+3074,1,3.48,Business Analyst,Product
+3075,0,0.0,Not Placed,Not Placed
+3076,1,8.81,Business Analyst,Product
+3077,0,0.0,Not Placed,Not Placed
+3078,0,0.0,Not Placed,Not Placed
+3079,1,4.4,Data Analyst,Service
+3080,1,5.17,Core Engineering,Product
+3081,1,5.09,Software Engineer,Service
+3082,0,0.0,Not Placed,Not Placed
+3083,1,8.22,Consulting,Product
+3084,0,0.0,Not Placed,Not Placed
+3085,0,0.0,Not Placed,Not Placed
+3086,1,5.15,Business Analyst,Startup
+3087,0,0.0,Not Placed,Not Placed
+3088,0,0.0,Not Placed,Not Placed
+3089,0,0.0,Not Placed,Not Placed
+3090,1,7.17,Core Engineering,Startup
+3091,1,4.72,Business Analyst,Service
+3092,1,6.63,Core Engineering,Service
+3093,0,0.0,Not Placed,Not Placed
+3094,0,0.0,Not Placed,Not Placed
+3095,0,0.0,Not Placed,Not Placed
+3096,0,0.0,Not Placed,Not Placed
+3097,1,7.51,Core Engineering,Consulting
+3098,0,0.0,Not Placed,Not Placed
+3099,1,3.0,Data Analyst,Product
+3100,1,8.67,Software Engineer,Service
+3101,0,0.0,Not Placed,Not Placed
+3102,0,0.0,Not Placed,Not Placed
+3103,1,4.84,Core Engineering,Service
+3104,0,0.0,Not Placed,Not Placed
+3105,1,6.53,Core Engineering,Startup
+3106,0,0.0,Not Placed,Not Placed
+3107,0,0.0,Not Placed,Not Placed
+3108,0,0.0,Not Placed,Not Placed
+3109,0,0.0,Not Placed,Not Placed
+3110,0,0.0,Not Placed,Not Placed
+3111,0,0.0,Not Placed,Not Placed
+3112,1,6.11,Software Engineer,Core
+3113,1,8.44,Product Analyst,Startup
+3114,1,6.86,Software Engineer,Service
+3115,1,7.66,Product Analyst,Consulting
+3116,1,8.02,Product Analyst,Service
+3117,0,0.0,Not Placed,Not Placed
+3118,0,0.0,Not Placed,Not Placed
+3119,0,0.0,Not Placed,Not Placed
+3120,0,0.0,Not Placed,Not Placed
+3121,0,0.0,Not Placed,Not Placed
+3122,0,0.0,Not Placed,Not Placed
+3123,0,0.0,Not Placed,Not Placed
+3124,0,0.0,Not Placed,Not Placed
+3125,0,0.0,Not Placed,Not Placed
+3126,1,6.73,Software Engineer,Service
+3127,1,5.04,Core Engineering,Service
+3128,0,0.0,Not Placed,Not Placed
+3129,1,3.61,Data Analyst,Product
+3130,0,0.0,Not Placed,Not Placed
+3131,0,0.0,Not Placed,Not Placed
+3132,0,0.0,Not Placed,Not Placed
+3133,1,7.52,Consulting,Service
+3134,1,4.13,Software Engineer,Consulting
+3135,0,0.0,Not Placed,Not Placed
+3136,1,4.8,Consulting,Service
+3137,1,6.14,Product Analyst,Startup
+3138,0,0.0,Not Placed,Not Placed
+3139,1,6.29,Product Analyst,Core
+3140,0,0.0,Not Placed,Not Placed
+3141,1,7.3,Core Engineering,Product
+3142,1,7.57,Software Engineer,Core
+3143,0,0.0,Not Placed,Not Placed
+3144,1,6.83,Business Analyst,Startup
+3145,0,0.0,Not Placed,Not Placed
+3146,0,0.0,Not Placed,Not Placed
+3147,0,0.0,Not Placed,Not Placed
+3148,0,0.0,Not Placed,Not Placed
+3149,0,0.0,Not Placed,Not Placed
+3150,0,0.0,Not Placed,Not Placed
+3151,0,0.0,Not Placed,Not Placed
+3152,0,0.0,Not Placed,Not Placed
+3153,1,5.62,Consulting,Service
+3154,0,0.0,Not Placed,Not Placed
+3155,0,0.0,Not Placed,Not Placed
+3156,0,0.0,Not Placed,Not Placed
+3157,1,7.68,Core Engineering,Product
+3158,0,0.0,Not Placed,Not Placed
+3159,1,5.76,Product Analyst,Service
+3160,0,0.0,Not Placed,Not Placed
+3161,1,8.07,Software Engineer,Product
+3162,0,0.0,Not Placed,Not Placed
+3163,0,0.0,Not Placed,Not Placed
+3164,1,9.68,Product Analyst,Service
+3165,0,0.0,Not Placed,Not Placed
+3166,1,3.26,Consulting,Service
+3167,1,7.49,Core Engineering,Consulting
+3168,1,7.83,Consulting,Service
+3169,0,0.0,Not Placed,Not Placed
+3170,1,5.33,Core Engineering,Consulting
+3171,0,0.0,Not Placed,Not Placed
+3172,1,4.66,Consulting,Service
+3173,0,0.0,Not Placed,Not Placed
+3174,0,0.0,Not Placed,Not Placed
+3175,1,6.67,Data Analyst,Service
+3176,0,0.0,Not Placed,Not Placed
+3177,0,0.0,Not Placed,Not Placed
+3178,1,5.8,Software Engineer,Consulting
+3179,0,0.0,Not Placed,Not Placed
+3180,0,0.0,Not Placed,Not Placed
+3181,1,6.49,Product Analyst,Core
+3182,0,0.0,Not Placed,Not Placed
+3183,1,4.61,Core Engineering,Product
+3184,0,0.0,Not Placed,Not Placed
+3185,0,0.0,Not Placed,Not Placed
+3186,1,3.0,Software Engineer,Product
+3187,1,6.88,Core Engineering,Service
+3188,0,0.0,Not Placed,Not Placed
+3189,0,0.0,Not Placed,Not Placed
+3190,1,5.3,Product Analyst,Startup
+3191,0,0.0,Not Placed,Not Placed
+3192,0,0.0,Not Placed,Not Placed
+3193,1,5.19,Data Analyst,Service
+3194,0,0.0,Not Placed,Not Placed
+3195,0,0.0,Not Placed,Not Placed
+3196,0,0.0,Not Placed,Not Placed
+3197,1,5.42,Data Analyst,Product
+3198,0,0.0,Not Placed,Not Placed
+3199,1,3.0,Data Analyst,Core
+3200,0,0.0,Not Placed,Not Placed
+3201,1,6.09,Data Analyst,Consulting
+3202,0,0.0,Not Placed,Not Placed
+3203,0,0.0,Not Placed,Not Placed
+3204,0,0.0,Not Placed,Not Placed
+3205,1,6.38,Product Analyst,Service
+3206,0,0.0,Not Placed,Not Placed
+3207,1,5.59,Core Engineering,Service
+3208,1,4.98,Core Engineering,Startup
+3209,1,8.47,Product Analyst,Consulting
+3210,0,0.0,Not Placed,Not Placed
+3211,0,0.0,Not Placed,Not Placed
+3212,1,3.41,Data Analyst,Consulting
+3213,1,6.58,Software Engineer,Startup
+3214,0,0.0,Not Placed,Not Placed
+3215,0,0.0,Not Placed,Not Placed
+3216,0,0.0,Not Placed,Not Placed
+3217,0,0.0,Not Placed,Not Placed
+3218,1,5.18,Core Engineering,Consulting
+3219,1,6.38,Product Analyst,Product
+3220,1,4.52,Core Engineering,Startup
+3221,0,0.0,Not Placed,Not Placed
+3222,0,0.0,Not Placed,Not Placed
+3223,1,6.8,Core Engineering,Product
+3224,0,0.0,Not Placed,Not Placed
+3225,1,5.73,Software Engineer,Consulting
+3226,0,0.0,Not Placed,Not Placed
+3227,0,0.0,Not Placed,Not Placed
+3228,0,0.0,Not Placed,Not Placed
+3229,1,6.09,Software Engineer,Startup
+3230,1,6.3,Software Engineer,Product
+3231,0,0.0,Not Placed,Not Placed
+3232,1,7.95,Software Engineer,Service
+3233,1,4.68,Product Analyst,Startup
+3234,0,0.0,Not Placed,Not Placed
+3235,0,0.0,Not Placed,Not Placed
+3236,0,0.0,Not Placed,Not Placed
+3237,0,0.0,Not Placed,Not Placed
+3238,0,0.0,Not Placed,Not Placed
+3239,1,3.79,Data Analyst,Service
+3240,0,0.0,Not Placed,Not Placed
+3241,0,0.0,Not Placed,Not Placed
+3242,1,5.59,Consulting,Product
+3243,0,0.0,Not Placed,Not Placed
+3244,1,5.98,Software Engineer,Product
+3245,1,6.08,Software Engineer,Service
+3246,1,4.72,Business Analyst,Consulting
+3247,0,0.0,Not Placed,Not Placed
+3248,1,9.84,Data Analyst,Startup
+3249,0,0.0,Not Placed,Not Placed
+3250,0,0.0,Not Placed,Not Placed
+3251,0,0.0,Not Placed,Not Placed
+3252,0,0.0,Not Placed,Not Placed
+3253,0,0.0,Not Placed,Not Placed
+3254,0,0.0,Not Placed,Not Placed
+3255,1,8.26,Software Engineer,Service
+3256,0,0.0,Not Placed,Not Placed
+3257,0,0.0,Not Placed,Not Placed
+3258,0,0.0,Not Placed,Not Placed
+3259,1,6.51,Data Analyst,Service
+3260,0,0.0,Not Placed,Not Placed
+3261,1,6.04,Data Analyst,Product
+3262,0,0.0,Not Placed,Not Placed
+3263,0,0.0,Not Placed,Not Placed
+3264,0,0.0,Not Placed,Not Placed
+3265,0,0.0,Not Placed,Not Placed
+3266,0,0.0,Not Placed,Not Placed
+3267,1,5.51,Product Analyst,Core
+3268,0,0.0,Not Placed,Not Placed
+3269,0,0.0,Not Placed,Not Placed
+3270,1,6.36,Business Analyst,Service
+3271,0,0.0,Not Placed,Not Placed
+3272,0,0.0,Not Placed,Not Placed
+3273,0,0.0,Not Placed,Not Placed
+3274,1,3.6,Consulting,Product
+3275,1,6.44,Software Engineer,Service
+3276,1,5.62,Business Analyst,Product
+3277,0,0.0,Not Placed,Not Placed
+3278,0,0.0,Not Placed,Not Placed
+3279,1,7.14,Consulting,Consulting
+3280,1,7.67,Business Analyst,Product
+3281,0,0.0,Not Placed,Not Placed
+3282,1,7.45,Software Engineer,Consulting
+3283,0,0.0,Not Placed,Not Placed
+3284,0,0.0,Not Placed,Not Placed
+3285,1,3.0,Software Engineer,Service
+3286,0,0.0,Not Placed,Not Placed
+3287,1,6.85,Consulting,Core
+3288,0,0.0,Not Placed,Not Placed
+3289,0,0.0,Not Placed,Not Placed
+3290,1,5.89,Consulting,Product
+3291,0,0.0,Not Placed,Not Placed
+3292,0,0.0,Not Placed,Not Placed
+3293,0,0.0,Not Placed,Not Placed
+3294,0,0.0,Not Placed,Not Placed
+3295,0,0.0,Not Placed,Not Placed
+3296,1,5.96,Data Analyst,Service
+3297,1,7.86,Consulting,Product
+3298,0,0.0,Not Placed,Not Placed
+3299,0,0.0,Not Placed,Not Placed
+3300,0,0.0,Not Placed,Not Placed
+3301,0,0.0,Not Placed,Not Placed
+3302,1,6.62,Business Analyst,Startup
+3303,1,5.85,Data Analyst,Service
+3304,1,6.42,Software Engineer,Service
+3305,0,0.0,Not Placed,Not Placed
+3306,0,0.0,Not Placed,Not Placed
+3307,0,0.0,Not Placed,Not Placed
+3308,1,5.02,Software Engineer,Core
+3309,1,6.38,Consulting,Service
+3310,1,8.14,Core Engineering,Consulting
+3311,1,5.34,Business Analyst,Service
+3312,0,0.0,Not Placed,Not Placed
+3313,0,0.0,Not Placed,Not Placed
+3314,0,0.0,Not Placed,Not Placed
+3315,0,0.0,Not Placed,Not Placed
+3316,0,0.0,Not Placed,Not Placed
+3317,0,0.0,Not Placed,Not Placed
+3318,1,7.58,Software Engineer,Product
+3319,1,3.0,Data Analyst,Service
+3320,1,8.97,Product Analyst,Product
+3321,0,0.0,Not Placed,Not Placed
+3322,1,3.94,Product Analyst,Service
+3323,0,0.0,Not Placed,Not Placed
+3324,1,6.22,Core Engineering,Startup
+3325,1,3.75,Data Analyst,Core
+3326,0,0.0,Not Placed,Not Placed
+3327,0,0.0,Not Placed,Not Placed
+3328,1,5.63,Software Engineer,Service
+3329,0,0.0,Not Placed,Not Placed
+3330,0,0.0,Not Placed,Not Placed
+3331,1,5.46,Data Analyst,Consulting
+3332,0,0.0,Not Placed,Not Placed
+3333,1,6.37,Software Engineer,Service
+3334,1,5.76,Product Analyst,Service
+3335,1,7.24,Product Analyst,Consulting
+3336,0,0.0,Not Placed,Not Placed
+3337,0,0.0,Not Placed,Not Placed
+3338,0,0.0,Not Placed,Not Placed
+3339,1,6.86,Data Analyst,Service
+3340,0,0.0,Not Placed,Not Placed
+3341,0,0.0,Not Placed,Not Placed
+3342,1,5.75,Consulting,Startup
+3343,1,6.17,Core Engineering,Startup
+3344,0,0.0,Not Placed,Not Placed
+3345,0,0.0,Not Placed,Not Placed
+3346,1,6.75,Consulting,Product
+3347,1,6.72,Data Analyst,Service
+3348,1,5.52,Consulting,Product
+3349,1,6.83,Core Engineering,Consulting
+3350,0,0.0,Not Placed,Not Placed
+3351,0,0.0,Not Placed,Not Placed
+3352,1,5.0,Core Engineering,Product
+3353,0,0.0,Not Placed,Not Placed
+3354,1,4.59,Core Engineering,Startup
+3355,0,0.0,Not Placed,Not Placed
+3356,1,6.84,Software Engineer,Consulting
+3357,1,6.52,Consulting,Product
+3358,0,0.0,Not Placed,Not Placed
+3359,1,4.49,Core Engineering,Startup
+3360,1,7.15,Business Analyst,Service
+3361,0,0.0,Not Placed,Not Placed
+3362,1,6.8,Software Engineer,Startup
+3363,1,6.99,Core Engineering,Service
+3364,1,7.63,Data Analyst,Service
+3365,0,0.0,Not Placed,Not Placed
+3366,0,0.0,Not Placed,Not Placed
+3367,0,0.0,Not Placed,Not Placed
+3368,1,6.66,Core Engineering,Startup
+3369,0,0.0,Not Placed,Not Placed
+3370,1,7.88,Software Engineer,Core
+3371,1,4.44,Business Analyst,Startup
+3372,0,0.0,Not Placed,Not Placed
+3373,1,6.94,Business Analyst,Startup
+3374,0,0.0,Not Placed,Not Placed
+3375,0,0.0,Not Placed,Not Placed
+3376,1,7.41,Core Engineering,Service
+3377,1,7.02,Product Analyst,Core
+3378,1,6.24,Business Analyst,Consulting
+3379,1,5.59,Product Analyst,Startup
+3380,1,4.81,Data Analyst,Consulting
+3381,1,5.06,Software Engineer,Startup
+3382,0,0.0,Not Placed,Not Placed
+3383,1,5.53,Core Engineering,Service
+3384,1,6.56,Consulting,Core
+3385,0,0.0,Not Placed,Not Placed
+3386,1,8.15,Software Engineer,Service
+3387,1,3.36,Consulting,Service
+3388,0,0.0,Not Placed,Not Placed
+3389,0,0.0,Not Placed,Not Placed
+3390,1,7.42,Business Analyst,Consulting
+3391,0,0.0,Not Placed,Not Placed
+3392,1,4.16,Product Analyst,Product
+3393,0,0.0,Not Placed,Not Placed
+3394,1,6.67,Business Analyst,Core
+3395,1,4.8,Business Analyst,Service
+3396,0,0.0,Not Placed,Not Placed
+3397,1,3.38,Data Analyst,Consulting
+3398,1,4.85,Core Engineering,Product
+3399,0,0.0,Not Placed,Not Placed
+3400,0,0.0,Not Placed,Not Placed
+3401,1,3.43,Core Engineering,Service
+3402,1,8.43,Consulting,Product
+3403,0,0.0,Not Placed,Not Placed
+3404,0,0.0,Not Placed,Not Placed
+3405,1,6.35,Consulting,Product
+3406,0,0.0,Not Placed,Not Placed
+3407,0,0.0,Not Placed,Not Placed
+3408,0,0.0,Not Placed,Not Placed
+3409,0,0.0,Not Placed,Not Placed
+3410,1,3.78,Consulting,Service
+3411,0,0.0,Not Placed,Not Placed
+3412,0,0.0,Not Placed,Not Placed
+3413,1,6.08,Data Analyst,Product
+3414,1,9.0,Software Engineer,Consulting
+3415,0,0.0,Not Placed,Not Placed
+3416,1,6.05,Consulting,Product
+3417,0,0.0,Not Placed,Not Placed
+3418,0,0.0,Not Placed,Not Placed
+3419,1,5.13,Business Analyst,Product
+3420,1,5.78,Core Engineering,Service
+3421,1,5.91,Consulting,Service
+3422,1,7.5,Core Engineering,Service
+3423,1,5.12,Consulting,Product
+3424,1,6.45,Business Analyst,Service
+3425,1,3.92,Consulting,Service
+3426,1,6.77,Data Analyst,Core
+3427,0,0.0,Not Placed,Not Placed
+3428,0,0.0,Not Placed,Not Placed
+3429,1,6.26,Business Analyst,Consulting
+3430,0,0.0,Not Placed,Not Placed
+3431,0,0.0,Not Placed,Not Placed
+3432,0,0.0,Not Placed,Not Placed
+3433,0,0.0,Not Placed,Not Placed
+3434,1,5.39,Business Analyst,Startup
+3435,0,0.0,Not Placed,Not Placed
+3436,1,6.12,Business Analyst,Service
+3437,1,5.12,Software Engineer,Service
+3438,0,0.0,Not Placed,Not Placed
+3439,0,0.0,Not Placed,Not Placed
+3440,1,8.41,Product Analyst,Service
+3441,1,7.03,Core Engineering,Service
+3442,1,8.0,Data Analyst,Service
+3443,1,6.27,Business Analyst,Product
+3444,1,6.33,Data Analyst,Product
+3445,0,0.0,Not Placed,Not Placed
+3446,0,0.0,Not Placed,Not Placed
+3447,0,0.0,Not Placed,Not Placed
+3448,1,5.92,Data Analyst,Service
+3449,1,4.7,Data Analyst,Core
+3450,0,0.0,Not Placed,Not Placed
+3451,1,4.24,Core Engineering,Product
+3452,0,0.0,Not Placed,Not Placed
+3453,1,7.41,Software Engineer,Consulting
+3454,0,0.0,Not Placed,Not Placed
+3455,0,0.0,Not Placed,Not Placed
+3456,1,8.41,Software Engineer,Consulting
+3457,1,4.75,Data Analyst,Service
+3458,1,4.86,Business Analyst,Startup
+3459,1,8.46,Software Engineer,Service
+3460,0,0.0,Not Placed,Not Placed
+3461,0,0.0,Not Placed,Not Placed
+3462,1,6.47,Core Engineering,Product
+3463,1,5.49,Business Analyst,Core
+3464,0,0.0,Not Placed,Not Placed
+3465,0,0.0,Not Placed,Not Placed
+3466,1,8.02,Consulting,Product
+3467,0,0.0,Not Placed,Not Placed
+3468,1,4.42,Data Analyst,Consulting
+3469,0,0.0,Not Placed,Not Placed
+3470,1,3.94,Core Engineering,Startup
+3471,1,3.34,Data Analyst,Service
+3472,0,0.0,Not Placed,Not Placed
+3473,1,4.87,Data Analyst,Service
+3474,0,0.0,Not Placed,Not Placed
+3475,1,6.57,Software Engineer,Startup
+3476,0,0.0,Not Placed,Not Placed
+3477,1,5.51,Business Analyst,Service
+3478,0,0.0,Not Placed,Not Placed
+3479,0,0.0,Not Placed,Not Placed
+3480,1,5.4,Product Analyst,Service
+3481,1,7.46,Consulting,Product
+3482,0,0.0,Not Placed,Not Placed
+3483,1,6.7,Consulting,Startup
+3484,1,6.04,Software Engineer,Product
+3485,0,0.0,Not Placed,Not Placed
+3486,0,0.0,Not Placed,Not Placed
+3487,1,7.09,Product Analyst,Startup
+3488,1,6.51,Core Engineering,Startup
+3489,0,0.0,Not Placed,Not Placed
+3490,1,5.9,Product Analyst,Product
+3491,1,7.36,Data Analyst,Service
+3492,0,0.0,Not Placed,Not Placed
+3493,0,0.0,Not Placed,Not Placed
+3494,1,5.65,Product Analyst,Consulting
+3495,1,7.02,Software Engineer,Service
+3496,0,0.0,Not Placed,Not Placed
+3497,1,5.41,Software Engineer,Startup
+3498,1,4.99,Data Analyst,Service
+3499,1,7.46,Business Analyst,Core
+3500,1,5.86,Business Analyst,Startup
+3501,0,0.0,Not Placed,Not Placed
+3502,1,8.98,Core Engineering,Product
+3503,0,0.0,Not Placed,Not Placed
+3504,0,0.0,Not Placed,Not Placed
+3505,0,0.0,Not Placed,Not Placed
+3506,1,6.32,Product Analyst,Startup
+3507,1,3.51,Consulting,Service
+3508,1,5.45,Consulting,Product
+3509,0,0.0,Not Placed,Not Placed
+3510,1,5.71,Core Engineering,Product
+3511,1,4.81,Core Engineering,Service
+3512,1,6.65,Consulting,Core
+3513,0,0.0,Not Placed,Not Placed
+3514,0,0.0,Not Placed,Not Placed
+3515,0,0.0,Not Placed,Not Placed
+3516,0,0.0,Not Placed,Not Placed
+3517,0,0.0,Not Placed,Not Placed
+3518,0,0.0,Not Placed,Not Placed
+3519,1,7.07,Data Analyst,Product
+3520,1,3.0,Consulting,Service
+3521,0,0.0,Not Placed,Not Placed
+3522,1,5.46,Data Analyst,Service
+3523,1,8.04,Data Analyst,Consulting
+3524,0,0.0,Not Placed,Not Placed
+3525,0,0.0,Not Placed,Not Placed
+3526,1,5.9,Product Analyst,Startup
+3527,0,0.0,Not Placed,Not Placed
+3528,1,3.61,Data Analyst,Service
+3529,1,4.52,Software Engineer,Consulting
+3530,0,0.0,Not Placed,Not Placed
+3531,1,3.2,Business Analyst,Consulting
+3532,1,3.0,Product Analyst,Product
+3533,1,6.83,Business Analyst,Consulting
+3534,0,0.0,Not Placed,Not Placed
+3535,0,0.0,Not Placed,Not Placed
+3536,1,6.44,Product Analyst,Service
+3537,1,5.72,Consulting,Product
+3538,0,0.0,Not Placed,Not Placed
+3539,0,0.0,Not Placed,Not Placed
+3540,0,0.0,Not Placed,Not Placed
+3541,0,0.0,Not Placed,Not Placed
+3542,1,7.89,Product Analyst,Consulting
+3543,1,5.07,Business Analyst,Core
+3544,0,0.0,Not Placed,Not Placed
+3545,1,5.4,Software Engineer,Service
+3546,1,4.09,Business Analyst,Startup
+3547,0,0.0,Not Placed,Not Placed
+3548,0,0.0,Not Placed,Not Placed
+3549,1,4.75,Product Analyst,Service
+3550,1,6.16,Core Engineering,Consulting
+3551,1,8.9,Data Analyst,Product
+3552,0,0.0,Not Placed,Not Placed
+3553,0,0.0,Not Placed,Not Placed
+3554,0,0.0,Not Placed,Not Placed
+3555,0,0.0,Not Placed,Not Placed
+3556,1,6.0,Software Engineer,Startup
+3557,0,0.0,Not Placed,Not Placed
+3558,1,8.99,Product Analyst,Startup
+3559,1,7.64,Software Engineer,Core
+3560,1,5.09,Business Analyst,Consulting
+3561,0,0.0,Not Placed,Not Placed
+3562,0,0.0,Not Placed,Not Placed
+3563,1,3.87,Business Analyst,Service
+3564,0,0.0,Not Placed,Not Placed
+3565,0,0.0,Not Placed,Not Placed
+3566,1,4.39,Data Analyst,Service
+3567,0,0.0,Not Placed,Not Placed
+3568,1,4.68,Product Analyst,Product
+3569,1,11.04,Product Analyst,Service
+3570,1,9.09,Business Analyst,Service
+3571,0,0.0,Not Placed,Not Placed
+3572,0,0.0,Not Placed,Not Placed
+3573,0,0.0,Not Placed,Not Placed
+3574,0,0.0,Not Placed,Not Placed
+3575,0,0.0,Not Placed,Not Placed
+3576,0,0.0,Not Placed,Not Placed
+3577,0,0.0,Not Placed,Not Placed
+3578,0,0.0,Not Placed,Not Placed
+3579,1,3.4,Core Engineering,Consulting
+3580,0,0.0,Not Placed,Not Placed
+3581,1,4.13,Core Engineering,Consulting
+3582,1,7.12,Data Analyst,Service
+3583,0,0.0,Not Placed,Not Placed
+3584,0,0.0,Not Placed,Not Placed
+3585,0,0.0,Not Placed,Not Placed
+3586,0,0.0,Not Placed,Not Placed
+3587,0,0.0,Not Placed,Not Placed
+3588,1,6.81,Business Analyst,Consulting
+3589,0,0.0,Not Placed,Not Placed
+3590,1,4.33,Data Analyst,Product
+3591,1,7.51,Product Analyst,Service
+3592,1,3.0,Core Engineering,Core
+3593,0,0.0,Not Placed,Not Placed
+3594,1,7.53,Consulting,Service
+3595,1,5.27,Data Analyst,Consulting
+3596,1,3.0,Core Engineering,Service
+3597,0,0.0,Not Placed,Not Placed
+3598,0,0.0,Not Placed,Not Placed
+3599,0,0.0,Not Placed,Not Placed
+3600,0,0.0,Not Placed,Not Placed
+3601,0,0.0,Not Placed,Not Placed
+3602,0,0.0,Not Placed,Not Placed
+3603,1,4.87,Product Analyst,Startup
+3604,1,6.93,Software Engineer,Startup
+3605,0,0.0,Not Placed,Not Placed
+3606,1,3.26,Consulting,Service
+3607,0,0.0,Not Placed,Not Placed
+3608,0,0.0,Not Placed,Not Placed
+3609,0,0.0,Not Placed,Not Placed
+3610,1,6.95,Consulting,Core
+3611,1,6.11,Business Analyst,Product
+3612,0,0.0,Not Placed,Not Placed
+3613,0,0.0,Not Placed,Not Placed
+3614,1,6.17,Software Engineer,Startup
+3615,1,6.25,Consulting,Service
+3616,0,0.0,Not Placed,Not Placed
+3617,0,0.0,Not Placed,Not Placed
+3618,0,0.0,Not Placed,Not Placed
+3619,1,5.02,Data Analyst,Service
+3620,0,0.0,Not Placed,Not Placed
+3621,0,0.0,Not Placed,Not Placed
+3622,1,5.75,Consulting,Product
+3623,0,0.0,Not Placed,Not Placed
+3624,0,0.0,Not Placed,Not Placed
+3625,0,0.0,Not Placed,Not Placed
+3626,0,0.0,Not Placed,Not Placed
+3627,1,5.14,Software Engineer,Product
+3628,0,0.0,Not Placed,Not Placed
+3629,1,11.09,Software Engineer,Service
+3630,1,5.39,Core Engineering,Product
+3631,1,6.93,Consulting,Product
+3632,1,7.1,Software Engineer,Startup
+3633,0,0.0,Not Placed,Not Placed
+3634,0,0.0,Not Placed,Not Placed
+3635,0,0.0,Not Placed,Not Placed
+3636,1,4.51,Software Engineer,Consulting
+3637,0,0.0,Not Placed,Not Placed
+3638,1,5.06,Data Analyst,Service
+3639,0,0.0,Not Placed,Not Placed
+3640,1,4.9,Product Analyst,Service
+3641,1,8.17,Data Analyst,Product
+3642,0,0.0,Not Placed,Not Placed
+3643,0,0.0,Not Placed,Not Placed
+3644,0,0.0,Not Placed,Not Placed
+3645,0,0.0,Not Placed,Not Placed
+3646,0,0.0,Not Placed,Not Placed
+3647,0,0.0,Not Placed,Not Placed
+3648,1,4.75,Consulting,Startup
+3649,0,0.0,Not Placed,Not Placed
+3650,1,5.58,Data Analyst,Service
+3651,0,0.0,Not Placed,Not Placed
+3652,1,8.47,Product Analyst,Startup
+3653,1,3.85,Business Analyst,Service
+3654,1,8.74,Business Analyst,Startup
+3655,1,4.27,Software Engineer,Product
+3656,0,0.0,Not Placed,Not Placed
+3657,0,0.0,Not Placed,Not Placed
+3658,0,0.0,Not Placed,Not Placed
+3659,0,0.0,Not Placed,Not Placed
+3660,0,0.0,Not Placed,Not Placed
+3661,0,0.0,Not Placed,Not Placed
+3662,0,0.0,Not Placed,Not Placed
+3663,1,4.83,Business Analyst,Service
+3664,0,0.0,Not Placed,Not Placed
+3665,0,0.0,Not Placed,Not Placed
+3666,0,0.0,Not Placed,Not Placed
+3667,1,8.05,Product Analyst,Startup
+3668,0,0.0,Not Placed,Not Placed
+3669,0,0.0,Not Placed,Not Placed
+3670,1,6.88,Core Engineering,Startup
+3671,0,0.0,Not Placed,Not Placed
+3672,1,6.45,Business Analyst,Consulting
+3673,0,0.0,Not Placed,Not Placed
+3674,0,0.0,Not Placed,Not Placed
+3675,0,0.0,Not Placed,Not Placed
+3676,1,7.92,Consulting,Core
+3677,1,7.41,Data Analyst,Consulting
+3678,0,0.0,Not Placed,Not Placed
+3679,0,0.0,Not Placed,Not Placed
+3680,1,6.45,Core Engineering,Core
+3681,0,0.0,Not Placed,Not Placed
+3682,0,0.0,Not Placed,Not Placed
+3683,0,0.0,Not Placed,Not Placed
+3684,0,0.0,Not Placed,Not Placed
+3685,1,7.49,Software Engineer,Service
+3686,0,0.0,Not Placed,Not Placed
+3687,0,0.0,Not Placed,Not Placed
+3688,0,0.0,Not Placed,Not Placed
+3689,1,4.46,Software Engineer,Service
+3690,1,5.48,Product Analyst,Service
+3691,1,6.23,Data Analyst,Service
+3692,1,3.49,Data Analyst,Consulting
+3693,0,0.0,Not Placed,Not Placed
+3694,0,0.0,Not Placed,Not Placed
+3695,0,0.0,Not Placed,Not Placed
+3696,1,7.79,Business Analyst,Product
+3697,0,0.0,Not Placed,Not Placed
+3698,1,6.09,Core Engineering,Startup
+3699,0,0.0,Not Placed,Not Placed
+3700,1,5.76,Consulting,Service
+3701,1,6.23,Data Analyst,Service
+3702,0,0.0,Not Placed,Not Placed
+3703,1,8.41,Business Analyst,Product
+3704,0,0.0,Not Placed,Not Placed
+3705,0,0.0,Not Placed,Not Placed
+3706,0,0.0,Not Placed,Not Placed
+3707,0,0.0,Not Placed,Not Placed
+3708,1,7.88,Software Engineer,Product
+3709,1,6.32,Consulting,Core
+3710,1,3.82,Software Engineer,Startup
+3711,0,0.0,Not Placed,Not Placed
+3712,1,9.57,Consulting,Service
+3713,1,3.27,Core Engineering,Consulting
+3714,1,3.18,Software Engineer,Product
+3715,0,0.0,Not Placed,Not Placed
+3716,0,0.0,Not Placed,Not Placed
+3717,1,6.49,Software Engineer,Startup
+3718,1,7.2,Consulting,Service
+3719,1,4.63,Consulting,Service
+3720,1,6.4,Core Engineering,Product
+3721,0,0.0,Not Placed,Not Placed
+3722,0,0.0,Not Placed,Not Placed
+3723,1,8.52,Software Engineer,Product
+3724,1,6.24,Business Analyst,Product
+3725,1,5.99,Consulting,Service
+3726,1,4.15,Core Engineering,Product
+3727,1,7.01,Consulting,Service
+3728,1,9.69,Business Analyst,Product
+3729,0,0.0,Not Placed,Not Placed
+3730,1,8.73,Software Engineer,Consulting
+3731,0,0.0,Not Placed,Not Placed
+3732,0,0.0,Not Placed,Not Placed
+3733,0,0.0,Not Placed,Not Placed
+3734,1,3.39,Consulting,Consulting
+3735,0,0.0,Not Placed,Not Placed
+3736,1,5.14,Consulting,Startup
+3737,0,0.0,Not Placed,Not Placed
+3738,0,0.0,Not Placed,Not Placed
+3739,0,0.0,Not Placed,Not Placed
+3740,0,0.0,Not Placed,Not Placed
+3741,1,7.6,Business Analyst,Service
+3742,0,0.0,Not Placed,Not Placed
+3743,0,0.0,Not Placed,Not Placed
+3744,1,3.62,Consulting,Startup
+3745,0,0.0,Not Placed,Not Placed
+3746,0,0.0,Not Placed,Not Placed
+3747,0,0.0,Not Placed,Not Placed
+3748,0,0.0,Not Placed,Not Placed
+3749,1,6.02,Data Analyst,Service
+3750,0,0.0,Not Placed,Not Placed
+3751,1,7.51,Consulting,Product
+3752,0,0.0,Not Placed,Not Placed
+3753,1,5.68,Core Engineering,Consulting
+3754,1,7.56,Consulting,Product
+3755,1,6.63,Data Analyst,Consulting
+3756,1,7.04,Software Engineer,Service
+3757,1,6.97,Software Engineer,Product
+3758,1,4.8,Data Analyst,Service
+3759,0,0.0,Not Placed,Not Placed
+3760,1,6.1,Consulting,Consulting
+3761,1,8.23,Consulting,Consulting
+3762,0,0.0,Not Placed,Not Placed
+3763,0,0.0,Not Placed,Not Placed
+3764,1,6.39,Product Analyst,Service
+3765,1,7.52,Software Engineer,Service
+3766,0,0.0,Not Placed,Not Placed
+3767,0,0.0,Not Placed,Not Placed
+3768,0,0.0,Not Placed,Not Placed
+3769,1,5.79,Software Engineer,Service
+3770,1,5.8,Business Analyst,Startup
+3771,0,0.0,Not Placed,Not Placed
+3772,0,0.0,Not Placed,Not Placed
+3773,1,4.51,Software Engineer,Product
+3774,0,0.0,Not Placed,Not Placed
+3775,1,6.34,Product Analyst,Service
+3776,0,0.0,Not Placed,Not Placed
+3777,1,7.14,Software Engineer,Service
+3778,0,0.0,Not Placed,Not Placed
+3779,1,6.45,Core Engineering,Core
+3780,0,0.0,Not Placed,Not Placed
+3781,0,0.0,Not Placed,Not Placed
+3782,0,0.0,Not Placed,Not Placed
+3783,1,6.13,Software Engineer,Product
+3784,0,0.0,Not Placed,Not Placed
+3785,0,0.0,Not Placed,Not Placed
+3786,0,0.0,Not Placed,Not Placed
+3787,1,9.17,Product Analyst,Service
+3788,1,4.15,Business Analyst,Service
+3789,1,5.02,Business Analyst,Service
+3790,0,0.0,Not Placed,Not Placed
+3791,1,7.7,Consulting,Product
+3792,0,0.0,Not Placed,Not Placed
+3793,1,4.81,Data Analyst,Service
+3794,0,0.0,Not Placed,Not Placed
+3795,0,0.0,Not Placed,Not Placed
+3796,0,0.0,Not Placed,Not Placed
+3797,1,6.11,Business Analyst,Core
+3798,0,0.0,Not Placed,Not Placed
+3799,1,7.9,Consulting,Service
+3800,1,5.59,Software Engineer,Service
+3801,1,5.39,Consulting,Service
+3802,0,0.0,Not Placed,Not Placed
+3803,1,4.12,Core Engineering,Service
+3804,0,0.0,Not Placed,Not Placed
+3805,0,0.0,Not Placed,Not Placed
+3806,0,0.0,Not Placed,Not Placed
+3807,0,0.0,Not Placed,Not Placed
+3808,0,0.0,Not Placed,Not Placed
+3809,0,0.0,Not Placed,Not Placed
+3810,1,5.36,Data Analyst,Product
+3811,0,0.0,Not Placed,Not Placed
+3812,0,0.0,Not Placed,Not Placed
+3813,1,6.06,Business Analyst,Service
+3814,1,4.78,Software Engineer,Service
+3815,0,0.0,Not Placed,Not Placed
+3816,0,0.0,Not Placed,Not Placed
+3817,1,4.58,Consulting,Product
+3818,0,0.0,Not Placed,Not Placed
+3819,0,0.0,Not Placed,Not Placed
+3820,0,0.0,Not Placed,Not Placed
+3821,0,0.0,Not Placed,Not Placed
+3822,0,0.0,Not Placed,Not Placed
+3823,0,0.0,Not Placed,Not Placed
+3824,0,0.0,Not Placed,Not Placed
+3825,1,7.74,Consulting,Service
+3826,1,4.74,Business Analyst,Startup
+3827,1,6.88,Core Engineering,Consulting
+3828,0,0.0,Not Placed,Not Placed
+3829,1,8.05,Software Engineer,Startup
+3830,1,6.45,Software Engineer,Service
+3831,0,0.0,Not Placed,Not Placed
+3832,1,6.32,Product Analyst,Service
+3833,0,0.0,Not Placed,Not Placed
+3834,1,3.02,Data Analyst,Service
+3835,0,0.0,Not Placed,Not Placed
+3836,1,5.13,Consulting,Product
+3837,0,0.0,Not Placed,Not Placed
+3838,1,6.74,Data Analyst,Startup
+3839,1,4.72,Software Engineer,Core
+3840,1,3.6,Consulting,Startup
+3841,0,0.0,Not Placed,Not Placed
+3842,0,0.0,Not Placed,Not Placed
+3843,1,5.9,Consulting,Service
+3844,1,6.21,Business Analyst,Service
+3845,0,0.0,Not Placed,Not Placed
+3846,0,0.0,Not Placed,Not Placed
+3847,1,7.46,Business Analyst,Product
+3848,0,0.0,Not Placed,Not Placed
+3849,1,4.39,Business Analyst,Service
+3850,1,6.18,Business Analyst,Service
+3851,1,5.52,Core Engineering,Service
+3852,0,0.0,Not Placed,Not Placed
+3853,0,0.0,Not Placed,Not Placed
+3854,1,5.7,Data Analyst,Service
+3855,0,0.0,Not Placed,Not Placed
+3856,1,5.45,Software Engineer,Startup
+3857,1,4.33,Product Analyst,Service
+3858,0,0.0,Not Placed,Not Placed
+3859,1,5.5,Business Analyst,Service
+3860,1,5.83,Consulting,Core
+3861,0,0.0,Not Placed,Not Placed
+3862,1,4.34,Product Analyst,Core
+3863,1,7.26,Business Analyst,Startup
+3864,1,6.0,Software Engineer,Service
+3865,0,0.0,Not Placed,Not Placed
+3866,1,4.99,Data Analyst,Consulting
+3867,1,6.57,Software Engineer,Service
+3868,0,0.0,Not Placed,Not Placed
+3869,1,5.55,Business Analyst,Product
+3870,1,5.66,Business Analyst,Consulting
+3871,1,5.26,Software Engineer,Product
+3872,1,6.85,Data Analyst,Service
+3873,1,5.18,Business Analyst,Startup
+3874,1,5.88,Consulting,Service
+3875,0,0.0,Not Placed,Not Placed
+3876,0,0.0,Not Placed,Not Placed
+3877,1,3.0,Data Analyst,Consulting
+3878,1,4.62,Data Analyst,Product
+3879,0,0.0,Not Placed,Not Placed
+3880,1,4.16,Consulting,Service
+3881,1,7.55,Consulting,Service
+3882,0,0.0,Not Placed,Not Placed
+3883,1,9.06,Product Analyst,Consulting
+3884,0,0.0,Not Placed,Not Placed
+3885,0,0.0,Not Placed,Not Placed
+3886,1,3.99,Software Engineer,Product
+3887,0,0.0,Not Placed,Not Placed
+3888,1,5.93,Product Analyst,Service
+3889,0,0.0,Not Placed,Not Placed
+3890,0,0.0,Not Placed,Not Placed
+3891,1,5.88,Consulting,Product
+3892,1,6.22,Business Analyst,Startup
+3893,1,4.71,Software Engineer,Product
+3894,1,4.96,Software Engineer,Service
+3895,0,0.0,Not Placed,Not Placed
+3896,0,0.0,Not Placed,Not Placed
+3897,0,0.0,Not Placed,Not Placed
+3898,1,5.07,Software Engineer,Consulting
+3899,0,0.0,Not Placed,Not Placed
+3900,1,4.96,Software Engineer,Service
+3901,1,4.56,Product Analyst,Product
+3902,1,4.82,Business Analyst,Core
+3903,0,0.0,Not Placed,Not Placed
+3904,0,0.0,Not Placed,Not Placed
+3905,1,5.23,Consulting,Startup
+3906,1,9.8,Business Analyst,Service
+3907,1,6.04,Data Analyst,Consulting
+3908,0,0.0,Not Placed,Not Placed
+3909,0,0.0,Not Placed,Not Placed
+3910,0,0.0,Not Placed,Not Placed
+3911,0,0.0,Not Placed,Not Placed
+3912,0,0.0,Not Placed,Not Placed
+3913,1,6.86,Consulting,Startup
+3914,1,5.66,Consulting,Core
+3915,0,0.0,Not Placed,Not Placed
+3916,0,0.0,Not Placed,Not Placed
+3917,0,0.0,Not Placed,Not Placed
+3918,1,5.13,Software Engineer,Service
+3919,0,0.0,Not Placed,Not Placed
+3920,0,0.0,Not Placed,Not Placed
+3921,0,0.0,Not Placed,Not Placed
+3922,0,0.0,Not Placed,Not Placed
+3923,0,0.0,Not Placed,Not Placed
+3924,1,3.31,Product Analyst,Product
+3925,1,5.75,Consulting,Startup
+3926,1,5.29,Software Engineer,Consulting
+3927,0,0.0,Not Placed,Not Placed
+3928,1,8.91,Software Engineer,Consulting
+3929,1,5.46,Data Analyst,Product
+3930,1,6.2,Consulting,Service
+3931,1,8.85,Data Analyst,Product
+3932,1,9.62,Business Analyst,Core
+3933,0,0.0,Not Placed,Not Placed
+3934,0,0.0,Not Placed,Not Placed
+3935,0,0.0,Not Placed,Not Placed
+3936,1,5.68,Software Engineer,Startup
+3937,1,6.32,Consulting,Core
+3938,0,0.0,Not Placed,Not Placed
+3939,1,8.39,Product Analyst,Service
+3940,1,4.88,Product Analyst,Consulting
+3941,1,5.83,Core Engineering,Service
+3942,0,0.0,Not Placed,Not Placed
+3943,0,0.0,Not Placed,Not Placed
+3944,0,0.0,Not Placed,Not Placed
+3945,0,0.0,Not Placed,Not Placed
+3946,1,5.33,Product Analyst,Service
+3947,0,0.0,Not Placed,Not Placed
+3948,0,0.0,Not Placed,Not Placed
+3949,0,0.0,Not Placed,Not Placed
+3950,0,0.0,Not Placed,Not Placed
+3951,1,6.92,Data Analyst,Consulting
+3952,0,0.0,Not Placed,Not Placed
+3953,0,0.0,Not Placed,Not Placed
+3954,0,0.0,Not Placed,Not Placed
+3955,0,0.0,Not Placed,Not Placed
+3956,1,6.75,Product Analyst,Startup
+3957,1,6.7,Software Engineer,Startup
+3958,0,0.0,Not Placed,Not Placed
+3959,1,8.19,Business Analyst,Service
+3960,0,0.0,Not Placed,Not Placed
+3961,0,0.0,Not Placed,Not Placed
+3962,1,6.47,Data Analyst,Core
+3963,0,0.0,Not Placed,Not Placed
+3964,0,0.0,Not Placed,Not Placed
+3965,1,3.99,Business Analyst,Consulting
+3966,1,5.24,Software Engineer,Product
+3967,0,0.0,Not Placed,Not Placed
+3968,1,6.75,Consulting,Service
+3969,0,0.0,Not Placed,Not Placed
+3970,1,5.66,Consulting,Service
+3971,1,5.5,Consulting,Product
+3972,0,0.0,Not Placed,Not Placed
+3973,0,0.0,Not Placed,Not Placed
+3974,0,0.0,Not Placed,Not Placed
+3975,0,0.0,Not Placed,Not Placed
+3976,0,0.0,Not Placed,Not Placed
+3977,1,11.29,Software Engineer,Startup
+3978,0,0.0,Not Placed,Not Placed
+3979,0,0.0,Not Placed,Not Placed
+3980,1,7.54,Core Engineering,Startup
+3981,1,6.21,Data Analyst,Consulting
+3982,0,0.0,Not Placed,Not Placed
+3983,1,5.15,Data Analyst,Core
+3984,0,0.0,Not Placed,Not Placed
+3985,0,0.0,Not Placed,Not Placed
+3986,1,7.48,Business Analyst,Startup
+3987,1,5.41,Consulting,Product
+3988,0,0.0,Not Placed,Not Placed
+3989,1,6.07,Software Engineer,Startup
+3990,0,0.0,Not Placed,Not Placed
+3991,1,7.14,Consulting,Startup
+3992,0,0.0,Not Placed,Not Placed
+3993,1,5.83,Core Engineering,Consulting
+3994,0,0.0,Not Placed,Not Placed
+3995,0,0.0,Not Placed,Not Placed
+3996,0,0.0,Not Placed,Not Placed
+3997,0,0.0,Not Placed,Not Placed
+3998,1,4.58,Product Analyst,Startup
+3999,1,3.0,Core Engineering,Service
+4000,1,7.71,Software Engineer,Service
+4001,0,0.0,Not Placed,Not Placed
+4002,0,0.0,Not Placed,Not Placed
+4003,1,4.88,Software Engineer,Service
+4004,0,0.0,Not Placed,Not Placed
+4005,1,4.03,Consulting,Service
+4006,1,7.75,Product Analyst,Startup
+4007,0,0.0,Not Placed,Not Placed
+4008,0,0.0,Not Placed,Not Placed
+4009,0,0.0,Not Placed,Not Placed
+4010,1,4.96,Data Analyst,Core
+4011,0,0.0,Not Placed,Not Placed
+4012,0,0.0,Not Placed,Not Placed
+4013,1,9.34,Core Engineering,Startup
+4014,1,6.56,Software Engineer,Service
+4015,1,6.44,Software Engineer,Startup
+4016,0,0.0,Not Placed,Not Placed
+4017,0,0.0,Not Placed,Not Placed
+4018,0,0.0,Not Placed,Not Placed
+4019,1,4.23,Consulting,Product
+4020,1,6.8,Business Analyst,Consulting
+4021,1,5.42,Consulting,Service
+4022,1,3.74,Data Analyst,Product
+4023,0,0.0,Not Placed,Not Placed
+4024,1,7.42,Consulting,Product
+4025,0,0.0,Not Placed,Not Placed
+4026,0,0.0,Not Placed,Not Placed
+4027,0,0.0,Not Placed,Not Placed
+4028,1,8.11,Data Analyst,Service
+4029,0,0.0,Not Placed,Not Placed
+4030,1,5.79,Product Analyst,Product
+4031,0,0.0,Not Placed,Not Placed
+4032,1,7.85,Core Engineering,Product
+4033,0,0.0,Not Placed,Not Placed
+4034,1,5.21,Software Engineer,Startup
+4035,0,0.0,Not Placed,Not Placed
+4036,1,4.05,Data Analyst,Product
+4037,0,0.0,Not Placed,Not Placed
+4038,1,3.83,Software Engineer,Startup
+4039,0,0.0,Not Placed,Not Placed
+4040,0,0.0,Not Placed,Not Placed
+4041,1,8.57,Consulting,Core
+4042,0,0.0,Not Placed,Not Placed
+4043,0,0.0,Not Placed,Not Placed
+4044,0,0.0,Not Placed,Not Placed
+4045,0,0.0,Not Placed,Not Placed
+4046,0,0.0,Not Placed,Not Placed
+4047,0,0.0,Not Placed,Not Placed
+4048,0,0.0,Not Placed,Not Placed
+4049,1,9.79,Consulting,Startup
+4050,1,9.42,Product Analyst,Core
+4051,1,9.54,Core Engineering,Service
+4052,1,7.32,Software Engineer,Core
+4053,1,5.1,Software Engineer,Startup
+4054,1,6.56,Consulting,Service
+4055,1,7.14,Data Analyst,Service
+4056,0,0.0,Not Placed,Not Placed
+4057,0,0.0,Not Placed,Not Placed
+4058,1,4.67,Software Engineer,Service
+4059,0,0.0,Not Placed,Not Placed
+4060,0,0.0,Not Placed,Not Placed
+4061,0,0.0,Not Placed,Not Placed
+4062,1,3.36,Product Analyst,Consulting
+4063,1,5.06,Data Analyst,Core
+4064,0,0.0,Not Placed,Not Placed
+4065,0,0.0,Not Placed,Not Placed
+4066,0,0.0,Not Placed,Not Placed
+4067,0,0.0,Not Placed,Not Placed
+4068,0,0.0,Not Placed,Not Placed
+4069,0,0.0,Not Placed,Not Placed
+4070,0,0.0,Not Placed,Not Placed
+4071,0,0.0,Not Placed,Not Placed
+4072,1,5.35,Consulting,Core
+4073,1,5.46,Consulting,Product
+4074,1,3.5,Business Analyst,Startup
+4075,0,0.0,Not Placed,Not Placed
+4076,0,0.0,Not Placed,Not Placed
+4077,1,7.43,Business Analyst,Service
+4078,1,5.76,Business Analyst,Startup
+4079,0,0.0,Not Placed,Not Placed
+4080,1,6.5,Core Engineering,Consulting
+4081,0,0.0,Not Placed,Not Placed
+4082,1,7.43,Consulting,Service
+4083,1,4.34,Consulting,Startup
+4084,0,0.0,Not Placed,Not Placed
+4085,0,0.0,Not Placed,Not Placed
+4086,0,0.0,Not Placed,Not Placed
+4087,1,12.55,Product Analyst,Product
+4088,1,6.86,Data Analyst,Core
+4089,0,0.0,Not Placed,Not Placed
+4090,1,6.53,Software Engineer,Service
+4091,0,0.0,Not Placed,Not Placed
+4092,0,0.0,Not Placed,Not Placed
+4093,1,4.99,Business Analyst,Product
+4094,0,0.0,Not Placed,Not Placed
+4095,0,0.0,Not Placed,Not Placed
+4096,1,5.1,Data Analyst,Startup
+4097,1,9.82,Business Analyst,Service
+4098,0,0.0,Not Placed,Not Placed
+4099,0,0.0,Not Placed,Not Placed
+4100,1,7.43,Product Analyst,Startup
+4101,0,0.0,Not Placed,Not Placed
+4102,0,0.0,Not Placed,Not Placed
+4103,0,0.0,Not Placed,Not Placed
+4104,0,0.0,Not Placed,Not Placed
+4105,1,4.32,Business Analyst,Service
+4106,0,0.0,Not Placed,Not Placed
+4107,0,0.0,Not Placed,Not Placed
+4108,0,0.0,Not Placed,Not Placed
+4109,0,0.0,Not Placed,Not Placed
+4110,1,5.52,Data Analyst,Consulting
+4111,1,6.21,Core Engineering,Service
+4112,0,0.0,Not Placed,Not Placed
+4113,1,3.76,Data Analyst,Service
+4114,0,0.0,Not Placed,Not Placed
+4115,1,4.66,Data Analyst,Service
+4116,1,6.11,Software Engineer,Service
+4117,0,0.0,Not Placed,Not Placed
+4118,1,6.96,Consulting,Service
+4119,1,5.23,Business Analyst,Core
+4120,0,0.0,Not Placed,Not Placed
+4121,1,5.38,Software Engineer,Startup
+4122,1,5.06,Data Analyst,Service
+4123,0,0.0,Not Placed,Not Placed
+4124,0,0.0,Not Placed,Not Placed
+4125,1,6.67,Consulting,Service
+4126,0,0.0,Not Placed,Not Placed
+4127,1,5.32,Product Analyst,Service
+4128,0,0.0,Not Placed,Not Placed
+4129,1,5.32,Data Analyst,Service
+4130,1,4.23,Consulting,Service
+4131,1,6.97,Data Analyst,Startup
+4132,0,0.0,Not Placed,Not Placed
+4133,0,0.0,Not Placed,Not Placed
+4134,0,0.0,Not Placed,Not Placed
+4135,0,0.0,Not Placed,Not Placed
+4136,1,4.06,Consulting,Product
+4137,0,0.0,Not Placed,Not Placed
+4138,1,4.9,Product Analyst,Service
+4139,0,0.0,Not Placed,Not Placed
+4140,1,6.6,Business Analyst,Service
+4141,1,7.64,Core Engineering,Service
+4142,0,0.0,Not Placed,Not Placed
+4143,0,0.0,Not Placed,Not Placed
+4144,0,0.0,Not Placed,Not Placed
+4145,0,0.0,Not Placed,Not Placed
+4146,1,4.95,Consulting,Core
+4147,0,0.0,Not Placed,Not Placed
+4148,1,3.69,Business Analyst,Service
+4149,1,5.92,Product Analyst,Consulting
+4150,0,0.0,Not Placed,Not Placed
+4151,1,8.44,Product Analyst,Startup
+4152,0,0.0,Not Placed,Not Placed
+4153,0,0.0,Not Placed,Not Placed
+4154,1,7.94,Data Analyst,Service
+4155,1,6.55,Consulting,Service
+4156,1,5.38,Software Engineer,Core
+4157,0,0.0,Not Placed,Not Placed
+4158,0,0.0,Not Placed,Not Placed
+4159,1,3.94,Software Engineer,Service
+4160,1,6.27,Software Engineer,Service
+4161,0,0.0,Not Placed,Not Placed
+4162,0,0.0,Not Placed,Not Placed
+4163,1,4.51,Data Analyst,Core
+4164,1,6.31,Core Engineering,Service
+4165,0,0.0,Not Placed,Not Placed
+4166,0,0.0,Not Placed,Not Placed
+4167,1,5.31,Core Engineering,Startup
+4168,0,0.0,Not Placed,Not Placed
+4169,0,0.0,Not Placed,Not Placed
+4170,1,4.53,Business Analyst,Service
+4171,1,7.0,Business Analyst,Startup
+4172,0,0.0,Not Placed,Not Placed
+4173,0,0.0,Not Placed,Not Placed
+4174,1,8.48,Software Engineer,Service
+4175,1,7.99,Software Engineer,Service
+4176,1,4.95,Consulting,Startup
+4177,1,8.06,Business Analyst,Consulting
+4178,1,5.5,Data Analyst,Service
+4179,0,0.0,Not Placed,Not Placed
+4180,1,9.67,Business Analyst,Service
+4181,1,5.69,Consulting,Consulting
+4182,1,6.43,Data Analyst,Product
+4183,0,0.0,Not Placed,Not Placed
+4184,0,0.0,Not Placed,Not Placed
+4185,0,0.0,Not Placed,Not Placed
+4186,1,4.24,Product Analyst,Service
+4187,0,0.0,Not Placed,Not Placed
+4188,1,8.18,Product Analyst,Service
+4189,0,0.0,Not Placed,Not Placed
+4190,0,0.0,Not Placed,Not Placed
+4191,0,0.0,Not Placed,Not Placed
+4192,0,0.0,Not Placed,Not Placed
+4193,0,0.0,Not Placed,Not Placed
+4194,0,0.0,Not Placed,Not Placed
+4195,0,0.0,Not Placed,Not Placed
+4196,1,7.11,Product Analyst,Service
+4197,1,5.94,Software Engineer,Consulting
+4198,1,5.71,Software Engineer,Service
+4199,1,4.54,Core Engineering,Consulting
+4200,1,6.39,Business Analyst,Product
+4201,0,0.0,Not Placed,Not Placed
+4202,0,0.0,Not Placed,Not Placed
+4203,0,0.0,Not Placed,Not Placed
+4204,1,6.66,Software Engineer,Core
+4205,1,3.0,Product Analyst,Consulting
+4206,0,0.0,Not Placed,Not Placed
+4207,1,3.51,Consulting,Service
+4208,0,0.0,Not Placed,Not Placed
+4209,1,3.85,Business Analyst,Product
+4210,1,5.72,Core Engineering,Product
+4211,1,3.0,Software Engineer,Service
+4212,0,0.0,Not Placed,Not Placed
+4213,1,4.34,Core Engineering,Consulting
+4214,1,5.3,Core Engineering,Startup
+4215,0,0.0,Not Placed,Not Placed
+4216,1,5.06,Data Analyst,Startup
+4217,0,0.0,Not Placed,Not Placed
+4218,0,0.0,Not Placed,Not Placed
+4219,0,0.0,Not Placed,Not Placed
+4220,0,0.0,Not Placed,Not Placed
+4221,0,0.0,Not Placed,Not Placed
+4222,1,8.2,Data Analyst,Core
+4223,1,6.56,Data Analyst,Core
+4224,0,0.0,Not Placed,Not Placed
+4225,1,7.39,Core Engineering,Service
+4226,1,3.22,Software Engineer,Consulting
+4227,0,0.0,Not Placed,Not Placed
+4228,1,4.62,Data Analyst,Startup
+4229,0,0.0,Not Placed,Not Placed
+4230,1,6.53,Software Engineer,Core
+4231,1,5.9,Consulting,Consulting
+4232,0,0.0,Not Placed,Not Placed
+4233,0,0.0,Not Placed,Not Placed
+4234,1,7.82,Consulting,Startup
+4235,1,3.0,Core Engineering,Product
+4236,0,0.0,Not Placed,Not Placed
+4237,1,7.7,Core Engineering,Consulting
+4238,0,0.0,Not Placed,Not Placed
+4239,0,0.0,Not Placed,Not Placed
+4240,1,4.44,Product Analyst,Service
+4241,1,4.96,Core Engineering,Product
+4242,1,3.34,Core Engineering,Service
+4243,0,0.0,Not Placed,Not Placed
+4244,1,7.9,Data Analyst,Startup
+4245,1,10.27,Data Analyst,Consulting
+4246,1,5.68,Business Analyst,Service
+4247,0,0.0,Not Placed,Not Placed
+4248,0,0.0,Not Placed,Not Placed
+4249,1,5.8,Data Analyst,Service
+4250,1,6.87,Core Engineering,Core
+4251,0,0.0,Not Placed,Not Placed
+4252,1,4.93,Product Analyst,Service
+4253,1,5.81,Business Analyst,Core
+4254,0,0.0,Not Placed,Not Placed
+4255,0,0.0,Not Placed,Not Placed
+4256,0,0.0,Not Placed,Not Placed
+4257,0,0.0,Not Placed,Not Placed
+4258,0,0.0,Not Placed,Not Placed
+4259,0,0.0,Not Placed,Not Placed
+4260,0,0.0,Not Placed,Not Placed
+4261,0,0.0,Not Placed,Not Placed
+4262,1,6.88,Data Analyst,Service
+4263,0,0.0,Not Placed,Not Placed
+4264,0,0.0,Not Placed,Not Placed
+4265,0,0.0,Not Placed,Not Placed
+4266,1,9.3,Data Analyst,Startup
+4267,0,0.0,Not Placed,Not Placed
+4268,0,0.0,Not Placed,Not Placed
+4269,1,5.15,Data Analyst,Service
+4270,0,0.0,Not Placed,Not Placed
+4271,1,5.69,Product Analyst,Product
+4272,1,6.81,Data Analyst,Service
+4273,0,0.0,Not Placed,Not Placed
+4274,0,0.0,Not Placed,Not Placed
+4275,1,7.69,Business Analyst,Startup
+4276,1,4.72,Product Analyst,Service
+4277,1,5.58,Product Analyst,Consulting
+4278,0,0.0,Not Placed,Not Placed
+4279,1,5.17,Consulting,Startup
+4280,1,7.31,Data Analyst,Product
+4281,1,6.49,Business Analyst,Service
+4282,0,0.0,Not Placed,Not Placed
+4283,0,0.0,Not Placed,Not Placed
+4284,1,7.0,Product Analyst,Startup
+4285,1,5.14,Data Analyst,Startup
+4286,0,0.0,Not Placed,Not Placed
+4287,1,5.89,Data Analyst,Service
+4288,0,0.0,Not Placed,Not Placed
+4289,1,4.22,Consulting,Service
+4290,1,7.41,Data Analyst,Service
+4291,1,5.32,Software Engineer,Service
+4292,0,0.0,Not Placed,Not Placed
+4293,0,0.0,Not Placed,Not Placed
+4294,0,0.0,Not Placed,Not Placed
+4295,0,0.0,Not Placed,Not Placed
+4296,0,0.0,Not Placed,Not Placed
+4297,1,4.23,Software Engineer,Startup
+4298,1,4.86,Software Engineer,Core
+4299,0,0.0,Not Placed,Not Placed
+4300,0,0.0,Not Placed,Not Placed
+4301,1,6.09,Consulting,Core
+4302,0,0.0,Not Placed,Not Placed
+4303,0,0.0,Not Placed,Not Placed
+4304,0,0.0,Not Placed,Not Placed
+4305,0,0.0,Not Placed,Not Placed
+4306,0,0.0,Not Placed,Not Placed
+4307,1,6.32,Data Analyst,Core
+4308,1,4.0,Data Analyst,Startup
+4309,0,0.0,Not Placed,Not Placed
+4310,1,3.0,Core Engineering,Service
+4311,0,0.0,Not Placed,Not Placed
+4312,0,0.0,Not Placed,Not Placed
+4313,0,0.0,Not Placed,Not Placed
+4314,1,5.24,Business Analyst,Service
+4315,0,0.0,Not Placed,Not Placed
+4316,0,0.0,Not Placed,Not Placed
+4317,0,0.0,Not Placed,Not Placed
+4318,0,0.0,Not Placed,Not Placed
+4319,0,0.0,Not Placed,Not Placed
+4320,1,6.44,Software Engineer,Product
+4321,0,0.0,Not Placed,Not Placed
+4322,1,9.12,Software Engineer,Startup
+4323,0,0.0,Not Placed,Not Placed
+4324,0,0.0,Not Placed,Not Placed
+4325,1,7.1,Software Engineer,Service
+4326,0,0.0,Not Placed,Not Placed
+4327,1,5.51,Core Engineering,Product
+4328,1,9.68,Data Analyst,Product
+4329,1,5.34,Business Analyst,Startup
+4330,1,4.52,Core Engineering,Service
+4331,0,0.0,Not Placed,Not Placed
+4332,0,0.0,Not Placed,Not Placed
+4333,1,5.94,Core Engineering,Core
+4334,1,8.48,Data Analyst,Service
+4335,0,0.0,Not Placed,Not Placed
+4336,0,0.0,Not Placed,Not Placed
+4337,0,0.0,Not Placed,Not Placed
+4338,1,7.01,Core Engineering,Service
+4339,0,0.0,Not Placed,Not Placed
+4340,0,0.0,Not Placed,Not Placed
+4341,0,0.0,Not Placed,Not Placed
+4342,1,4.42,Data Analyst,Startup
+4343,1,6.27,Software Engineer,Startup
+4344,0,0.0,Not Placed,Not Placed
+4345,1,6.75,Data Analyst,Product
+4346,1,5.43,Consulting,Consulting
+4347,0,0.0,Not Placed,Not Placed
+4348,0,0.0,Not Placed,Not Placed
+4349,0,0.0,Not Placed,Not Placed
+4350,0,0.0,Not Placed,Not Placed
+4351,1,3.72,Product Analyst,Service
+4352,1,3.9,Product Analyst,Consulting
+4353,1,3.0,Software Engineer,Product
+4354,1,3.0,Product Analyst,Service
+4355,0,0.0,Not Placed,Not Placed
+4356,0,0.0,Not Placed,Not Placed
+4357,0,0.0,Not Placed,Not Placed
+4358,1,6.35,Software Engineer,Consulting
+4359,1,7.07,Data Analyst,Startup
+4360,0,0.0,Not Placed,Not Placed
+4361,1,6.45,Core Engineering,Service
+4362,0,0.0,Not Placed,Not Placed
+4363,0,0.0,Not Placed,Not Placed
+4364,0,0.0,Not Placed,Not Placed
+4365,0,0.0,Not Placed,Not Placed
+4366,0,0.0,Not Placed,Not Placed
+4367,0,0.0,Not Placed,Not Placed
+4368,1,7.76,Business Analyst,Service
+4369,1,7.08,Product Analyst,Service
+4370,1,5.6,Product Analyst,Consulting
+4371,0,0.0,Not Placed,Not Placed
+4372,1,6.78,Core Engineering,Core
+4373,0,0.0,Not Placed,Not Placed
+4374,1,7.77,Consulting,Startup
+4375,0,0.0,Not Placed,Not Placed
+4376,0,0.0,Not Placed,Not Placed
+4377,1,6.07,Data Analyst,Product
+4378,0,0.0,Not Placed,Not Placed
+4379,0,0.0,Not Placed,Not Placed
+4380,0,0.0,Not Placed,Not Placed
+4381,0,0.0,Not Placed,Not Placed
+4382,1,10.98,Business Analyst,Service
+4383,0,0.0,Not Placed,Not Placed
+4384,0,0.0,Not Placed,Not Placed
+4385,1,6.45,Core Engineering,Product
+4386,1,3.47,Core Engineering,Consulting
+4387,0,0.0,Not Placed,Not Placed
+4388,0,0.0,Not Placed,Not Placed
+4389,1,7.48,Consulting,Startup
+4390,0,0.0,Not Placed,Not Placed
+4391,0,0.0,Not Placed,Not Placed
+4392,0,0.0,Not Placed,Not Placed
+4393,0,0.0,Not Placed,Not Placed
+4394,0,0.0,Not Placed,Not Placed
+4395,1,4.27,Product Analyst,Consulting
+4396,1,4.72,Data Analyst,Service
+4397,1,4.68,Software Engineer,Service
+4398,1,5.96,Product Analyst,Core
+4399,0,0.0,Not Placed,Not Placed
+4400,0,0.0,Not Placed,Not Placed
+4401,0,0.0,Not Placed,Not Placed
+4402,0,0.0,Not Placed,Not Placed
+4403,0,0.0,Not Placed,Not Placed
+4404,1,5.88,Business Analyst,Startup
+4405,1,4.66,Software Engineer,Startup
+4406,1,7.94,Consulting,Consulting
+4407,1,4.67,Business Analyst,Consulting
+4408,1,5.04,Consulting,Startup
+4409,1,8.71,Consulting,Startup
+4410,0,0.0,Not Placed,Not Placed
+4411,0,0.0,Not Placed,Not Placed
+4412,0,0.0,Not Placed,Not Placed
+4413,0,0.0,Not Placed,Not Placed
+4414,1,7.65,Business Analyst,Startup
+4415,1,7.09,Consulting,Service
+4416,0,0.0,Not Placed,Not Placed
+4417,1,6.98,Core Engineering,Service
+4418,1,7.95,Data Analyst,Service
+4419,0,0.0,Not Placed,Not Placed
+4420,0,0.0,Not Placed,Not Placed
+4421,1,6.02,Core Engineering,Startup
+4422,1,6.08,Core Engineering,Consulting
+4423,0,0.0,Not Placed,Not Placed
+4424,0,0.0,Not Placed,Not Placed
+4425,0,0.0,Not Placed,Not Placed
+4426,0,0.0,Not Placed,Not Placed
+4427,0,0.0,Not Placed,Not Placed
+4428,0,0.0,Not Placed,Not Placed
+4429,1,6.55,Software Engineer,Service
+4430,1,8.96,Data Analyst,Consulting
+4431,1,7.21,Product Analyst,Service
+4432,1,5.52,Product Analyst,Service
+4433,1,5.72,Core Engineering,Product
+4434,0,0.0,Not Placed,Not Placed
+4435,0,0.0,Not Placed,Not Placed
+4436,0,0.0,Not Placed,Not Placed
+4437,0,0.0,Not Placed,Not Placed
+4438,1,3.0,Product Analyst,Consulting
+4439,0,0.0,Not Placed,Not Placed
+4440,0,0.0,Not Placed,Not Placed
+4441,1,5.21,Product Analyst,Service
+4442,0,0.0,Not Placed,Not Placed
+4443,0,0.0,Not Placed,Not Placed
+4444,0,0.0,Not Placed,Not Placed
+4445,0,0.0,Not Placed,Not Placed
+4446,1,5.63,Core Engineering,Service
+4447,1,7.19,Business Analyst,Service
+4448,0,0.0,Not Placed,Not Placed
+4449,1,7.32,Consulting,Service
+4450,0,0.0,Not Placed,Not Placed
+4451,1,7.6,Software Engineer,Startup
+4452,0,0.0,Not Placed,Not Placed
+4453,1,7.63,Consulting,Startup
+4454,1,7.1,Consulting,Service
+4455,1,5.4,Product Analyst,Startup
+4456,0,0.0,Not Placed,Not Placed
+4457,0,0.0,Not Placed,Not Placed
+4458,1,5.1,Data Analyst,Service
+4459,1,5.64,Software Engineer,Core
+4460,1,4.19,Product Analyst,Product
+4461,0,0.0,Not Placed,Not Placed
+4462,0,0.0,Not Placed,Not Placed
+4463,1,6.62,Core Engineering,Service
+4464,0,0.0,Not Placed,Not Placed
+4465,0,0.0,Not Placed,Not Placed
+4466,1,9.22,Software Engineer,Product
+4467,0,0.0,Not Placed,Not Placed
+4468,0,0.0,Not Placed,Not Placed
+4469,1,3.0,Core Engineering,Product
+4470,0,0.0,Not Placed,Not Placed
+4471,0,0.0,Not Placed,Not Placed
+4472,1,5.63,Product Analyst,Startup
+4473,0,0.0,Not Placed,Not Placed
+4474,1,7.2,Consulting,Product
+4475,0,0.0,Not Placed,Not Placed
+4476,0,0.0,Not Placed,Not Placed
+4477,1,13.03,Core Engineering,Startup
+4478,0,0.0,Not Placed,Not Placed
+4479,1,5.45,Product Analyst,Core
+4480,0,0.0,Not Placed,Not Placed
+4481,0,0.0,Not Placed,Not Placed
+4482,0,0.0,Not Placed,Not Placed
+4483,1,3.14,Product Analyst,Product
+4484,0,0.0,Not Placed,Not Placed
+4485,1,7.84,Business Analyst,Service
+4486,0,0.0,Not Placed,Not Placed
+4487,1,8.16,Data Analyst,Startup
+4488,0,0.0,Not Placed,Not Placed
+4489,1,6.35,Data Analyst,Core
+4490,1,5.3,Business Analyst,Service
+4491,0,0.0,Not Placed,Not Placed
+4492,1,3.97,Product Analyst,Startup
+4493,1,4.52,Consulting,Service
+4494,1,8.42,Product Analyst,Product
+4495,1,6.38,Business Analyst,Product
+4496,0,0.0,Not Placed,Not Placed
+4497,0,0.0,Not Placed,Not Placed
+4498,0,0.0,Not Placed,Not Placed
+4499,1,6.04,Consulting,Startup
+4500,1,5.33,Data Analyst,Product
+4501,1,6.64,Data Analyst,Service
+4502,0,0.0,Not Placed,Not Placed
+4503,1,6.48,Business Analyst,Service
+4504,1,3.74,Data Analyst,Product
+4505,1,6.0,Product Analyst,Product
+4506,1,6.93,Business Analyst,Product
+4507,1,5.02,Data Analyst,Service
+4508,0,0.0,Not Placed,Not Placed
+4509,1,6.9,Core Engineering,Service
+4510,0,0.0,Not Placed,Not Placed
+4511,0,0.0,Not Placed,Not Placed
+4512,0,0.0,Not Placed,Not Placed
+4513,0,0.0,Not Placed,Not Placed
+4514,1,6.81,Software Engineer,Service
+4515,0,0.0,Not Placed,Not Placed
+4516,0,0.0,Not Placed,Not Placed
+4517,1,4.28,Business Analyst,Service
+4518,1,6.2,Business Analyst,Product
+4519,0,0.0,Not Placed,Not Placed
+4520,0,0.0,Not Placed,Not Placed
+4521,1,7.18,Software Engineer,Service
+4522,1,6.51,Consulting,Product
+4523,1,6.0,Software Engineer,Service
+4524,1,5.04,Data Analyst,Consulting
+4525,1,7.03,Software Engineer,Service
+4526,1,4.0,Data Analyst,Product
+4527,1,9.06,Data Analyst,Service
+4528,1,7.86,Core Engineering,Startup
+4529,1,6.83,Software Engineer,Service
+4530,0,0.0,Not Placed,Not Placed
+4531,1,7.7,Core Engineering,Service
+4532,0,0.0,Not Placed,Not Placed
+4533,1,6.58,Product Analyst,Startup
+4534,1,8.6,Business Analyst,Consulting
+4535,1,7.83,Product Analyst,Service
+4536,1,5.77,Consulting,Startup
+4537,0,0.0,Not Placed,Not Placed
+4538,1,6.33,Business Analyst,Service
+4539,0,0.0,Not Placed,Not Placed
+4540,0,0.0,Not Placed,Not Placed
+4541,0,0.0,Not Placed,Not Placed
+4542,0,0.0,Not Placed,Not Placed
+4543,0,0.0,Not Placed,Not Placed
+4544,0,0.0,Not Placed,Not Placed
+4545,0,0.0,Not Placed,Not Placed
+4546,0,0.0,Not Placed,Not Placed
+4547,0,0.0,Not Placed,Not Placed
+4548,0,0.0,Not Placed,Not Placed
+4549,1,5.3,Software Engineer,Service
+4550,1,8.8,Data Analyst,Core
+4551,0,0.0,Not Placed,Not Placed
+4552,0,0.0,Not Placed,Not Placed
+4553,0,0.0,Not Placed,Not Placed
+4554,1,5.84,Core Engineering,Consulting
+4555,1,5.55,Business Analyst,Product
+4556,1,3.0,Data Analyst,Consulting
+4557,1,7.65,Business Analyst,Consulting
+4558,0,0.0,Not Placed,Not Placed
+4559,0,0.0,Not Placed,Not Placed
+4560,1,5.76,Software Engineer,Core
+4561,0,0.0,Not Placed,Not Placed
+4562,0,0.0,Not Placed,Not Placed
+4563,1,9.18,Business Analyst,Consulting
+4564,0,0.0,Not Placed,Not Placed
+4565,1,7.02,Consulting,Startup
+4566,1,4.28,Business Analyst,Core
+4567,1,8.25,Core Engineering,Product
+4568,0,0.0,Not Placed,Not Placed
+4569,1,9.23,Business Analyst,Product
+4570,0,0.0,Not Placed,Not Placed
+4571,0,0.0,Not Placed,Not Placed
+4572,0,0.0,Not Placed,Not Placed
+4573,1,7.42,Consulting,Product
+4574,1,6.13,Consulting,Startup
+4575,1,5.78,Software Engineer,Product
+4576,0,0.0,Not Placed,Not Placed
+4577,1,4.59,Core Engineering,Consulting
+4578,1,6.26,Core Engineering,Core
+4579,1,6.58,Data Analyst,Service
+4580,0,0.0,Not Placed,Not Placed
+4581,0,0.0,Not Placed,Not Placed
+4582,0,0.0,Not Placed,Not Placed
+4583,1,6.84,Data Analyst,Service
+4584,0,0.0,Not Placed,Not Placed
+4585,0,0.0,Not Placed,Not Placed
+4586,1,6.55,Consulting,Core
+4587,0,0.0,Not Placed,Not Placed
+4588,0,0.0,Not Placed,Not Placed
+4589,0,0.0,Not Placed,Not Placed
+4590,1,8.53,Consulting,Startup
+4591,1,5.03,Data Analyst,Service
+4592,0,0.0,Not Placed,Not Placed
+4593,0,0.0,Not Placed,Not Placed
+4594,0,0.0,Not Placed,Not Placed
+4595,0,0.0,Not Placed,Not Placed
+4596,0,0.0,Not Placed,Not Placed
+4597,1,4.95,Product Analyst,Core
+4598,0,0.0,Not Placed,Not Placed
+4599,0,0.0,Not Placed,Not Placed
+4600,1,6.49,Business Analyst,Service
+4601,0,0.0,Not Placed,Not Placed
+4602,0,0.0,Not Placed,Not Placed
+4603,1,8.77,Product Analyst,Service
+4604,0,0.0,Not Placed,Not Placed
+4605,0,0.0,Not Placed,Not Placed
+4606,1,6.72,Data Analyst,Product
+4607,0,0.0,Not Placed,Not Placed
+4608,1,5.31,Core Engineering,Service
+4609,0,0.0,Not Placed,Not Placed
+4610,1,7.7,Data Analyst,Service
+4611,1,8.84,Business Analyst,Startup
+4612,0,0.0,Not Placed,Not Placed
+4613,1,6.1,Product Analyst,Service
+4614,1,8.05,Product Analyst,Service
+4615,1,4.51,Consulting,Product
+4616,0,0.0,Not Placed,Not Placed
+4617,0,0.0,Not Placed,Not Placed
+4618,0,0.0,Not Placed,Not Placed
+4619,1,8.49,Product Analyst,Startup
+4620,1,6.33,Core Engineering,Startup
+4621,0,0.0,Not Placed,Not Placed
+4622,1,4.8,Business Analyst,Core
+4623,0,0.0,Not Placed,Not Placed
+4624,0,0.0,Not Placed,Not Placed
+4625,0,0.0,Not Placed,Not Placed
+4626,0,0.0,Not Placed,Not Placed
+4627,0,0.0,Not Placed,Not Placed
+4628,1,4.4,Core Engineering,Service
+4629,0,0.0,Not Placed,Not Placed
+4630,0,0.0,Not Placed,Not Placed
+4631,0,0.0,Not Placed,Not Placed
+4632,1,5.49,Product Analyst,Core
+4633,0,0.0,Not Placed,Not Placed
+4634,1,8.13,Product Analyst,Core
+4635,1,7.73,Business Analyst,Product
+4636,0,0.0,Not Placed,Not Placed
+4637,0,0.0,Not Placed,Not Placed
+4638,1,4.0,Software Engineer,Service
+4639,0,0.0,Not Placed,Not Placed
+4640,0,0.0,Not Placed,Not Placed
+4641,0,0.0,Not Placed,Not Placed
+4642,0,0.0,Not Placed,Not Placed
+4643,1,4.21,Software Engineer,Consulting
+4644,1,4.78,Consulting,Product
+4645,1,8.78,Software Engineer,Product
+4646,0,0.0,Not Placed,Not Placed
+4647,0,0.0,Not Placed,Not Placed
+4648,0,0.0,Not Placed,Not Placed
+4649,0,0.0,Not Placed,Not Placed
+4650,1,6.64,Core Engineering,Service
+4651,0,0.0,Not Placed,Not Placed
+4652,0,0.0,Not Placed,Not Placed
+4653,1,4.05,Core Engineering,Product
+4654,0,0.0,Not Placed,Not Placed
+4655,1,6.88,Business Analyst,Core
+4656,1,5.46,Core Engineering,Startup
+4657,0,0.0,Not Placed,Not Placed
+4658,1,3.77,Product Analyst,Product
+4659,0,0.0,Not Placed,Not Placed
+4660,0,0.0,Not Placed,Not Placed
+4661,0,0.0,Not Placed,Not Placed
+4662,0,0.0,Not Placed,Not Placed
+4663,1,5.99,Data Analyst,Service
+4664,1,4.12,Consulting,Service
+4665,1,5.78,Consulting,Consulting
+4666,0,0.0,Not Placed,Not Placed
+4667,0,0.0,Not Placed,Not Placed
+4668,1,4.58,Software Engineer,Product
+4669,1,4.7,Product Analyst,Product
+4670,1,5.9,Consulting,Service
+4671,0,0.0,Not Placed,Not Placed
+4672,0,0.0,Not Placed,Not Placed
+4673,0,0.0,Not Placed,Not Placed
+4674,0,0.0,Not Placed,Not Placed
+4675,0,0.0,Not Placed,Not Placed
+4676,0,0.0,Not Placed,Not Placed
+4677,0,0.0,Not Placed,Not Placed
+4678,0,0.0,Not Placed,Not Placed
+4679,1,3.0,Software Engineer,Service
+4680,1,5.01,Business Analyst,Consulting
+4681,0,0.0,Not Placed,Not Placed
+4682,1,6.06,Software Engineer,Startup
+4683,0,0.0,Not Placed,Not Placed
+4684,1,7.74,Product Analyst,Product
+4685,0,0.0,Not Placed,Not Placed
+4686,0,0.0,Not Placed,Not Placed
+4687,1,8.07,Data Analyst,Service
+4688,0,0.0,Not Placed,Not Placed
+4689,0,0.0,Not Placed,Not Placed
+4690,0,0.0,Not Placed,Not Placed
+4691,1,3.0,Data Analyst,Core
+4692,0,0.0,Not Placed,Not Placed
+4693,0,0.0,Not Placed,Not Placed
+4694,1,5.71,Product Analyst,Startup
+4695,1,5.8,Business Analyst,Startup
+4696,0,0.0,Not Placed,Not Placed
+4697,0,0.0,Not Placed,Not Placed
+4698,0,0.0,Not Placed,Not Placed
+4699,0,0.0,Not Placed,Not Placed
+4700,1,4.0,Consulting,Service
+4701,1,5.08,Software Engineer,Service
+4702,0,0.0,Not Placed,Not Placed
+4703,0,0.0,Not Placed,Not Placed
+4704,1,6.56,Software Engineer,Consulting
+4705,1,5.05,Product Analyst,Service
+4706,1,7.3,Software Engineer,Product
+4707,1,4.7,Consulting,Service
+4708,0,0.0,Not Placed,Not Placed
+4709,0,0.0,Not Placed,Not Placed
+4710,0,0.0,Not Placed,Not Placed
+4711,1,9.71,Software Engineer,Product
+4712,0,0.0,Not Placed,Not Placed
+4713,0,0.0,Not Placed,Not Placed
+4714,1,5.5,Consulting,Service
+4715,0,0.0,Not Placed,Not Placed
+4716,1,6.26,Business Analyst,Product
+4717,1,5.29,Data Analyst,Consulting
+4718,1,6.05,Business Analyst,Core
+4719,0,0.0,Not Placed,Not Placed
+4720,0,0.0,Not Placed,Not Placed
+4721,0,0.0,Not Placed,Not Placed
+4722,1,5.89,Business Analyst,Consulting
+4723,0,0.0,Not Placed,Not Placed
+4724,0,0.0,Not Placed,Not Placed
+4725,0,0.0,Not Placed,Not Placed
+4726,0,0.0,Not Placed,Not Placed
+4727,1,6.59,Software Engineer,Consulting
+4728,0,0.0,Not Placed,Not Placed
+4729,0,0.0,Not Placed,Not Placed
+4730,1,6.13,Software Engineer,Service
+4731,0,0.0,Not Placed,Not Placed
+4732,0,0.0,Not Placed,Not Placed
+4733,0,0.0,Not Placed,Not Placed
+4734,0,0.0,Not Placed,Not Placed
+4735,0,0.0,Not Placed,Not Placed
+4736,0,0.0,Not Placed,Not Placed
+4737,0,0.0,Not Placed,Not Placed
+4738,1,5.78,Product Analyst,Service
+4739,1,5.71,Consulting,Service
+4740,0,0.0,Not Placed,Not Placed
+4741,1,4.83,Business Analyst,Consulting
+4742,1,6.55,Product Analyst,Startup
+4743,0,0.0,Not Placed,Not Placed
+4744,1,6.67,Business Analyst,Consulting
+4745,1,3.81,Business Analyst,Service
+4746,0,0.0,Not Placed,Not Placed
+4747,0,0.0,Not Placed,Not Placed
+4748,0,0.0,Not Placed,Not Placed
+4749,0,0.0,Not Placed,Not Placed
+4750,0,0.0,Not Placed,Not Placed
+4751,1,7.74,Product Analyst,Consulting
+4752,1,5.48,Consulting,Startup
+4753,1,4.34,Data Analyst,Service
+4754,0,0.0,Not Placed,Not Placed
+4755,0,0.0,Not Placed,Not Placed
+4756,1,7.2,Business Analyst,Product
+4757,0,0.0,Not Placed,Not Placed
+4758,0,0.0,Not Placed,Not Placed
+4759,1,4.69,Business Analyst,Startup
+4760,1,6.02,Business Analyst,Startup
+4761,0,0.0,Not Placed,Not Placed
+4762,0,0.0,Not Placed,Not Placed
+4763,1,3.91,Business Analyst,Consulting
+4764,1,5.91,Product Analyst,Product
+4765,0,0.0,Not Placed,Not Placed
+4766,0,0.0,Not Placed,Not Placed
+4767,0,0.0,Not Placed,Not Placed
+4768,0,0.0,Not Placed,Not Placed
+4769,0,0.0,Not Placed,Not Placed
+4770,0,0.0,Not Placed,Not Placed
+4771,0,0.0,Not Placed,Not Placed
+4772,0,0.0,Not Placed,Not Placed
+4773,1,5.98,Core Engineering,Product
+4774,0,0.0,Not Placed,Not Placed
+4775,0,0.0,Not Placed,Not Placed
+4776,0,0.0,Not Placed,Not Placed
+4777,1,8.4,Product Analyst,Service
+4778,0,0.0,Not Placed,Not Placed
+4779,0,0.0,Not Placed,Not Placed
+4780,0,0.0,Not Placed,Not Placed
+4781,0,0.0,Not Placed,Not Placed
+4782,0,0.0,Not Placed,Not Placed
+4783,0,0.0,Not Placed,Not Placed
+4784,1,7.31,Core Engineering,Startup
+4785,0,0.0,Not Placed,Not Placed
+4786,0,0.0,Not Placed,Not Placed
+4787,1,6.52,Business Analyst,Consulting
+4788,1,4.03,Product Analyst,Service
+4789,1,5.48,Software Engineer,Startup
+4790,1,4.36,Product Analyst,Consulting
+4791,1,5.83,Product Analyst,Consulting
+4792,1,5.55,Product Analyst,Service
+4793,1,5.26,Core Engineering,Service
+4794,0,0.0,Not Placed,Not Placed
+4795,0,0.0,Not Placed,Not Placed
+4796,1,10.49,Core Engineering,Product
+4797,1,5.25,Software Engineer,Service
+4798,1,5.31,Business Analyst,Service
+4799,0,0.0,Not Placed,Not Placed
+4800,0,0.0,Not Placed,Not Placed
+4801,0,0.0,Not Placed,Not Placed
+4802,0,0.0,Not Placed,Not Placed
+4803,0,0.0,Not Placed,Not Placed
+4804,1,7.84,Core Engineering,Service
+4805,1,6.52,Software Engineer,Startup
+4806,0,0.0,Not Placed,Not Placed
+4807,1,3.58,Core Engineering,Service
+4808,1,4.74,Data Analyst,Product
+4809,1,7.86,Product Analyst,Consulting
+4810,1,4.04,Software Engineer,Service
+4811,0,0.0,Not Placed,Not Placed
+4812,1,4.08,Software Engineer,Core
+4813,1,3.14,Data Analyst,Consulting
+4814,0,0.0,Not Placed,Not Placed
+4815,0,0.0,Not Placed,Not Placed
+4816,1,6.17,Core Engineering,Consulting
+4817,0,0.0,Not Placed,Not Placed
+4818,0,0.0,Not Placed,Not Placed
+4819,0,0.0,Not Placed,Not Placed
+4820,1,7.11,Software Engineer,Consulting
+4821,1,4.84,Business Analyst,Startup
+4822,0,0.0,Not Placed,Not Placed
+4823,1,4.27,Software Engineer,Service
+4824,0,0.0,Not Placed,Not Placed
+4825,1,4.99,Product Analyst,Startup
+4826,1,5.24,Consulting,Consulting
+4827,0,0.0,Not Placed,Not Placed
+4828,0,0.0,Not Placed,Not Placed
+4829,0,0.0,Not Placed,Not Placed
+4830,1,8.28,Core Engineering,Startup
+4831,0,0.0,Not Placed,Not Placed
+4832,0,0.0,Not Placed,Not Placed
+4833,0,0.0,Not Placed,Not Placed
+4834,0,0.0,Not Placed,Not Placed
+4835,0,0.0,Not Placed,Not Placed
+4836,0,0.0,Not Placed,Not Placed
+4837,0,0.0,Not Placed,Not Placed
+4838,0,0.0,Not Placed,Not Placed
+4839,0,0.0,Not Placed,Not Placed
+4840,1,7.51,Consulting,Consulting
+4841,0,0.0,Not Placed,Not Placed
+4842,1,4.4,Data Analyst,Consulting
+4843,1,3.52,Product Analyst,Product
+4844,0,0.0,Not Placed,Not Placed
+4845,0,0.0,Not Placed,Not Placed
+4846,1,8.07,Software Engineer,Core
+4847,0,0.0,Not Placed,Not Placed
+4848,0,0.0,Not Placed,Not Placed
+4849,0,0.0,Not Placed,Not Placed
+4850,0,0.0,Not Placed,Not Placed
+4851,1,7.9,Product Analyst,Service
+4852,1,7.65,Business Analyst,Service
+4853,1,7.29,Product Analyst,Service
+4854,0,0.0,Not Placed,Not Placed
+4855,1,6.65,Consulting,Product
+4856,0,0.0,Not Placed,Not Placed
+4857,1,5.52,Consulting,Startup
+4858,0,0.0,Not Placed,Not Placed
+4859,0,0.0,Not Placed,Not Placed
+4860,1,5.51,Data Analyst,Core
+4861,1,5.9,Business Analyst,Service
+4862,0,0.0,Not Placed,Not Placed
+4863,1,7.93,Core Engineering,Startup
+4864,0,0.0,Not Placed,Not Placed
+4865,0,0.0,Not Placed,Not Placed
+4866,0,0.0,Not Placed,Not Placed
+4867,1,3.92,Product Analyst,Service
+4868,1,5.21,Data Analyst,Core
+4869,0,0.0,Not Placed,Not Placed
+4870,0,0.0,Not Placed,Not Placed
+4871,1,6.15,Core Engineering,Product
+4872,1,6.32,Business Analyst,Consulting
+4873,0,0.0,Not Placed,Not Placed
+4874,1,3.67,Software Engineer,Startup
+4875,0,0.0,Not Placed,Not Placed
+4876,1,7.71,Data Analyst,Service
+4877,0,0.0,Not Placed,Not Placed
+4878,0,0.0,Not Placed,Not Placed
+4879,1,5.76,Product Analyst,Product
+4880,0,0.0,Not Placed,Not Placed
+4881,0,0.0,Not Placed,Not Placed
+4882,0,0.0,Not Placed,Not Placed
+4883,1,6.8,Business Analyst,Product
+4884,1,5.46,Business Analyst,Service
+4885,0,0.0,Not Placed,Not Placed
+4886,1,7.07,Product Analyst,Product
+4887,0,0.0,Not Placed,Not Placed
+4888,1,3.32,Product Analyst,Consulting
+4889,1,4.06,Consulting,Core
+4890,1,6.72,Software Engineer,Product
+4891,1,3.47,Consulting,Product
+4892,1,6.67,Core Engineering,Startup
+4893,1,6.53,Consulting,Product
+4894,1,9.22,Business Analyst,Core
+4895,1,5.47,Business Analyst,Consulting
+4896,1,6.82,Business Analyst,Product
+4897,0,0.0,Not Placed,Not Placed
+4898,0,0.0,Not Placed,Not Placed
+4899,1,6.83,Product Analyst,Service
+4900,0,0.0,Not Placed,Not Placed
+4901,0,0.0,Not Placed,Not Placed
+4902,1,6.34,Data Analyst,Service
+4903,0,0.0,Not Placed,Not Placed
+4904,0,0.0,Not Placed,Not Placed
+4905,0,0.0,Not Placed,Not Placed
+4906,1,6.35,Software Engineer,Service
+4907,1,7.11,Data Analyst,Service
+4908,1,5.62,Product Analyst,Service
+4909,1,7.4,Core Engineering,Product
+4910,1,5.86,Business Analyst,Service
+4911,1,9.76,Product Analyst,Service
+4912,1,5.38,Core Engineering,Consulting
+4913,1,7.03,Data Analyst,Core
+4914,1,7.88,Consulting,Consulting
+4915,0,0.0,Not Placed,Not Placed
+4916,0,0.0,Not Placed,Not Placed
+4917,0,0.0,Not Placed,Not Placed
+4918,1,6.61,Core Engineering,Service
+4919,1,6.71,Business Analyst,Product
+4920,0,0.0,Not Placed,Not Placed
+4921,1,4.25,Product Analyst,Consulting
+4922,1,8.54,Data Analyst,Service
+4923,1,3.62,Product Analyst,Consulting
+4924,1,5.91,Consulting,Product
+4925,1,8.96,Consulting,Consulting
+4926,0,0.0,Not Placed,Not Placed
+4927,0,0.0,Not Placed,Not Placed
+4928,0,0.0,Not Placed,Not Placed
+4929,1,5.76,Software Engineer,Product
+4930,1,4.38,Product Analyst,Service
+4931,1,5.47,Product Analyst,Startup
+4932,0,0.0,Not Placed,Not Placed
+4933,0,0.0,Not Placed,Not Placed
+4934,0,0.0,Not Placed,Not Placed
+4935,1,8.16,Data Analyst,Startup
+4936,0,0.0,Not Placed,Not Placed
+4937,0,0.0,Not Placed,Not Placed
+4938,0,0.0,Not Placed,Not Placed
+4939,0,0.0,Not Placed,Not Placed
+4940,1,4.6,Software Engineer,Consulting
+4941,1,5.12,Core Engineering,Product
+4942,0,0.0,Not Placed,Not Placed
+4943,1,5.04,Consulting,Product
+4944,1,4.87,Software Engineer,Service
+4945,1,4.2,Data Analyst,Service
+4946,0,0.0,Not Placed,Not Placed
+4947,0,0.0,Not Placed,Not Placed
+4948,0,0.0,Not Placed,Not Placed
+4949,1,5.99,Core Engineering,Core
+4950,1,7.06,Product Analyst,Startup
+4951,0,0.0,Not Placed,Not Placed
+4952,1,5.43,Software Engineer,Consulting
+4953,1,3.04,Consulting,Service
+4954,1,6.02,Core Engineering,Consulting
+4955,1,4.36,Core Engineering,Startup
+4956,1,4.85,Business Analyst,Service
+4957,1,7.18,Product Analyst,Core
+4958,0,0.0,Not Placed,Not Placed
+4959,0,0.0,Not Placed,Not Placed
+4960,1,5.62,Consulting,Service
+4961,0,0.0,Not Placed,Not Placed
+4962,1,5.24,Core Engineering,Product
+4963,1,5.43,Software Engineer,Startup
+4964,0,0.0,Not Placed,Not Placed
+4965,0,0.0,Not Placed,Not Placed
+4966,1,3.11,Business Analyst,Service
+4967,1,7.95,Consulting,Service
+4968,0,0.0,Not Placed,Not Placed
+4969,0,0.0,Not Placed,Not Placed
+4970,1,4.09,Business Analyst,Core
+4971,0,0.0,Not Placed,Not Placed
+4972,1,5.45,Product Analyst,Product
+4973,1,9.76,Software Engineer,Product
+4974,1,6.5,Data Analyst,Service
+4975,1,5.8,Data Analyst,Core
+4976,1,6.9,Core Engineering,Product
+4977,0,0.0,Not Placed,Not Placed
+4978,0,0.0,Not Placed,Not Placed
+4979,1,8.12,Data Analyst,Startup
+4980,0,0.0,Not Placed,Not Placed
+4981,0,0.0,Not Placed,Not Placed
+4982,0,0.0,Not Placed,Not Placed
+4983,1,4.39,Core Engineering,Service
+4984,0,0.0,Not Placed,Not Placed
+4985,1,5.15,Software Engineer,Product
+4986,1,5.57,Software Engineer,Startup
+4987,1,4.47,Business Analyst,Startup
+4988,1,6.68,Software Engineer,Service
+4989,1,3.02,Data Analyst,Product
+4990,0,0.0,Not Placed,Not Placed
+4991,1,6.05,Business Analyst,Product
+4992,1,5.33,Product Analyst,Startup
+4993,0,0.0,Not Placed,Not Placed
+4994,0,0.0,Not Placed,Not Placed
+4995,1,4.82,Core Engineering,Product
+4996,1,5.08,Business Analyst,Startup
+4997,1,6.66,Data Analyst,Consulting
+4998,0,0.0,Not Placed,Not Placed
+4999,0,0.0,Not Placed,Not Placed
+5000,0,0.0,Not Placed,Not Placed
