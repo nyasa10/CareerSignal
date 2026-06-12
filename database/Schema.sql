@@ -1,20 +1,12 @@
 CREATE TABLE students (
     student_id INT PRIMARY KEY,
-
     branch VARCHAR(50),
-
     college_tier INT,
-
     cgpa NUMERIC(4,2),
-
     internships INT,
-
     projects INT,
-
     certifications INT,
-
     resume_score NUMERIC(5,2),
-
     readiness_score NUMERIC(5,2)
 );
 
