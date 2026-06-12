@@ -2,9 +2,9 @@
 
 ## Overview
 
-CareerSignal is a placement intelligence platform designed to help placement cells, career counselors, and academic institutions monitor student readiness, identify recruitment funnel bottlenecks, and improve placement outcomes through data-driven decision-making.
+CareerSignal is a placement analytics and intelligence prototype designed to explore how data can be used to improve student placement outcomes.
 
-The project combines Python, PostgreSQL, SQL, and Power BI to transform raw placement data into actionable insights across student performance, recruitment efficiency, and employability indicators.
+The project combines Python, PostgreSQL, SQL, and Power BI to analyze student readiness, recruitment funnel performance, placement outcomes, and skill intelligence. By transforming raw placement data into actionable insights, CareerSignal demonstrates how institutions can leverage analytics to make better placement-related decisions.
 
 ---
 
@@ -18,9 +18,19 @@ Colleges generate large volumes of placement-related data but often lack visibil
 * Skill gaps impacting employability
 * Placement intervention opportunities
 
-Without structured analytics, placement teams struggle to identify at-risk students and optimize placement strategies.
+Without structured analytics, placement teams struggle to identify bottlenecks, prioritize interventions, and improve placement performance.
 
-CareerSignal addresses this challenge by providing a centralized analytics platform for placement intelligence.
+CareerSignal explores how a placement intelligence solution can help institutions centralize placement analytics and support data-driven decision-making.
+
+---
+
+## Project Highlights
+
+* Generated a synthetic dataset containing 5,000 student records using Python.
+* Designed a relational PostgreSQL database with 4 interconnected tables.
+* Developed 20+ analytical SQL queries covering placement performance, recruitment funnel metrics, package analysis, and skill intelligence.
+* Built 3 interactive Power BI dashboards for executive reporting and placement analytics.
+* Applied product-thinking principles by defining user personas, success metrics, and a future roadmap for a placement intelligence solution.
 
 ---
 
@@ -56,7 +66,7 @@ CareerSignal addresses this challenge by providing a centralized analytics platf
 
 ## Product Vision
 
-To build a placement intelligence platform that enables institutions to proactively improve student employability through analytics-driven interventions and performance tracking.
+To build a placement intelligence solution that helps institutions proactively improve student employability through analytics-driven interventions and performance tracking.
 
 ---
 
@@ -74,7 +84,6 @@ Percentage of students successfully placed.
 * Interview Conversion Rate
 * Interview → Offer Conversion Rate
 * Average Package (LPA)
-* Student Readiness Score
 * Branch-wise Placement Rate
 * Offer Distribution
 
@@ -113,7 +122,7 @@ Business Insights
 
 ## Dataset Overview
 
-### Total Records
+### Project Scale
 
 * 5,000 Students
 * 4 Relational Tables
@@ -124,7 +133,7 @@ Business Insights
 
 ### Students Table
 
-Contains student demographic and academic information.
+Contains demographic and academic information.
 
 | Column          |
 | --------------- |
@@ -142,7 +151,7 @@ Contains student demographic and academic information.
 
 ### Skills Table
 
-Contains employability and technical skill indicators.
+Contains technical and employability skill indicators.
 
 | Column                |
 | --------------------- |
@@ -202,12 +211,17 @@ students
 skills      applications      placements
 ```
 
-* Primary Key: student_id
-* Foreign Key Relationships:
+### Keys
 
-  * skills.student_id
-  * applications.student_id
-  * placements.student_id
+**Primary Key**
+
+* student_id
+
+**Foreign Key Relationships**
+
+* skills.student_id
+* applications.student_id
+* placements.student_id
 
 ---
 
@@ -220,7 +234,7 @@ The project includes 20+ analytical SQL queries covering:
 * Overall Placement Rate
 * Branch-wise Placement Rate
 * Placement Distribution
-* Top Performing Branches
+* Top Performing Branch Analysis
 
 ### Package Analytics
 
@@ -239,7 +253,7 @@ The project includes 20+ analytical SQL queries covering:
 
 * Skill Performance Analysis
 * Branch Skill Comparison
-* Placement Correlation Analysis
+* Placement Outcome Analysis
 
 ### SQL Techniques Used
 
@@ -249,7 +263,6 @@ The project includes 20+ analytical SQL queries covering:
 * Aggregations
 * Ranking Functions
 * CASE Statements
-* Correlation Analysis
 
 ---
 
@@ -257,7 +270,7 @@ The project includes 20+ analytical SQL queries covering:
 
 ### Purpose
 
-Provides a high-level view of placement performance.
+Provides a high-level view of placement performance across the institution.
 
 ### KPIs
 
@@ -265,7 +278,7 @@ Provides a high-level view of placement performance.
 * Average Package
 * Total Students
 * Students Placed
-* Top Performing Branch
+* Highest Placement Rate Branch
 
 ### Visuals
 
@@ -279,7 +292,7 @@ Provides a high-level view of placement performance.
 
 ### Purpose
 
-Analyzes recruitment pipeline performance.
+Analyzes recruitment pipeline performance and identifies funnel bottlenecks.
 
 ### KPIs
 
@@ -310,7 +323,7 @@ Evaluates student readiness and employability indicators.
 
 ### Visuals
 
-* DSA Score vs Placement Rate
+* DSA Score vs Placement Rate by Branch
 * Branch Skill Matrix
 * Placement Rate by College Tier
 
@@ -323,41 +336,44 @@ Evaluates student readiness and employability indicators.
 * Overall Placement Rate: **45.74%**
 * Total Students Placed: **2,287**
 * Average Package: **6.08 LPA**
+* CSE achieved the highest placement performance among all branches.
 
 ### Recruitment Funnel
 
-* Largest funnel drop occurs between **OA Attempted** and **OA Cleared**
+* The largest funnel drop occurs between **OA Attempted** and **OA Cleared**.
 * OA Conversion Rate: **38.35%**
 * Interview Conversion Rate: **28.40%**
 * Interview → Offer Conversion Rate: **10.07%**
 
 ### Branch Insights
 
-* CSE achieved the highest placement performance
-* CSE generated the highest interview volume
-* Significant variation exists across branches
+* CSE generated the highest interview volume.
+* Placement outcomes vary across academic branches.
+* Average package levels differ by branch despite similar placement rates.
 
 ### Skill Insights
 
-* Communication scores consistently outperform technical skills
-* DSA performance shows a measurable relationship with placement outcomes
-* Skill readiness varies across branches
+* Communication scores were consistently higher than technical skill scores.
+* DSA performance was analyzed against placement outcomes across branches.
+* Skill readiness varies across academic disciplines.
 
 ---
 
 ## Business Impact
 
-* Identified placement performance gaps across branches
-* Measured end-to-end recruitment funnel efficiency
-* Evaluated skill-readiness indicators
-* Enabled data-driven placement strategy decisions
-* Built an interactive placement intelligence solution
+This project demonstrates how placement analytics can:
+
+* Identify placement performance gaps across branches
+* Measure end-to-end recruitment funnel efficiency
+* Evaluate student readiness indicators
+* Support data-driven placement strategy decisions
+* Improve visibility into employability outcomes
 
 ---
 
 ## Product Roadmap
 
-### V1 – Analytics Platform
+### V1 – Analytics Prototype (Current)
 
 * Placement Analytics Dashboard
 * Recruitment Funnel Analysis
@@ -393,6 +409,41 @@ Evaluates student readiness and employability indicators.
 
 ---
 
+## Repository Structure
+
+```text
+CareerSignal-Placement-Analytics/
+│
+├── README.md
+│
+├── data/
+│   ├── students.csv
+│   ├── skills.csv
+│   ├── applications.csv
+│   └── placements.csv
+│
+├── database/
+│   ├── schema.sql
+│   ├── data_import.sql
+│   ├── analytics_queries.sql
+│   └── er_diagram.png
+│
+├── dashboards/
+│   ├── CareerSignal.pbix
+│   ├── executive_overview.png
+│   ├── placement_funnel.png
+│   └── skill_intelligence.png
+│
+├── python/
+│   └── generate_dataset.py
+│
+└── docs/
+    ├── CareerSignal_PRD.pdf
+    ├── CareerSignal_Presentation.pdf
+    └── Project_Report.pdf
+```
+
+---
 
 
-CareerSignal was developed as an end-to-end Product Analytics & Business Intelligence project combining Python, PostgreSQL, SQL, and Power BI to demonstrate data engineering, analytics, dashboarding, and product thinking capabilities.
+The project demonstrates data modeling, SQL analytics, dashboard development, KPI design, business intelligence, and product-thinking principles through the lens of placement intelligence.
